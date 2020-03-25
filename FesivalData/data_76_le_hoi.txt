@@ -1,0 +1,3685 @@
+Núi	N	B-FAM
+Sam	Np	I-FAM
+nằm	V	O
+cách	V	O
+thị xã	N	B-LOC
+Châu Đốc	Np	I-LOC
+(	CH	I-LOC
+tỉnh	N	I-LOC
+An Giang	Np	I-LOC
+)	CH	I-LOC
+5	M	I-LOC
+km	Nu	I-LOC
+","	CH	O
+là	V	O
+nơi	N	O
+có	V	B-AHC
+quần thể	N	B-CER
+di tích	N	I-CER
+lịch sử	N	I-CER
+văn hoá	N	I-CER
+với	E	I-CER
+chùa	N	I-CER
+cổ	N	I-CER
+Tây An	Np	I-CER
+","	CH	I-CER
+miếu	N	I-CER
+Bà Chúa Xứ	Np	I-CER
+","	CH	I-CER
+chùa Hang	N	I-CER
+","	CH	I-CER
+lăng	N	I-CER
+Thoại Ngọc Hầu	Np	I-CER
+...	CH	O
+		
+Toàn bộ	L	O
+khu	N	O
+miếu	N	O
+Bà Chúa	Np	O
+Xứ	Np	O
+là	V	O
+một	M	O
+quần thể	N	O
+kiến trúc	N	O
+cổ kính	V	O
+kết hợp	V	O
+với	E	O
+lối	N	O
+kiến trúc	N	O
+hiện đại	A	O
+","	CH	O
+nhưng	C	O
+vẫn	R	O
+mang	V	O
+màu sắc	N	O
+dân tộc	N	O
+","	CH	O
+với	E	O
+bốn	M	O
+tầng	N	O
+mái	N	O
+cao	A	O
+cong vút	N	O
+","	CH	O
+các	L	O
+cánh	N	O
+cửa	N	O
+bằng	E	O
+gỗ	N	O
+được	R	O
+chạm trổ	V	O
+công phu	A	O
+:	CH	O
+ghi	V	O
+lại	V	O
+hình ảnh	N	O
+hoa lá	V	O
+cây	N	O
+cành	N	O
+","	CH	O
+chim muông	N	O
+","	CH	O
+long	N	O
+-	CH	O
+lân	N	O
+–	CH	O
+quy	N	O
+-	CH	O
+phượng	N	O
+và	C	O
+các	L	O
+vị	Nc	O
+tiên	N	O
+trong	E	O
+thần thoại	N	O
+cổ tích	N	O
+.	CH	O
+		
+Trong	E	O
+lễ	N	B-FES
+vía	V	I-FES
+Bà	Nc	I-FES
+được	V	O
+tiến hành	V	O
+theo	V	O
+các	L	O
+bước	N	O
+sau	A	O
+:	CH	O
+Lễ	N	B-EVE
+tắm	V	I-EVE
+Bà	Np	I-EVE
+:	CH	O
+Lễ	N	O
+này	P	O
+được	V	O
+tổ chức	V	B-FIT
+vào	E	I-FIT
+lúc	N	B-TIM
+24	M	I-TIM
+giờ	Nu	I-TIM
+đêm	N	I-TIM
+23	M	I-TIM
+rạng	A	I-TIM
+ngày	N	I-TIM
+24	M	I-TIM
+.	CH	O
+		
+Nói	V	O
+là	V	O
+tắm	V	O
+bà	Nc	O
+","	CH	O
+nhưng	C	O
+thực tế	N	O
+là	V	O
+lau	V	O
+lại	V	O
+bụi bặm	N	O
+trên	E	O
+tượng	N	O
+thờ	V	O
+và	C	O
+thay áo mão	V	O
+cho	E	O
+Bà	Np	O
+.	CH	O
+Vào	E	O
+giờ	N	O
+đó	P	O
+","	CH	O
+trong	E	O
+khuôn viên	N	O
+miếu	N	O
+","	CH	O
+hàng	R	O
+chục	M	O
+ngàn	M	O
+người	N	O
+chen chúc	V	O
+nhau	N	O
+trên	E	O
+sân	N	O
+","	CH	O
+mọi	L	O
+di chuyển	V	O
+tới lui	N	O
+chỉ	R	O
+có thể	R	O
+nhích	V	O
+từng	R	O
+bước	N	O
+một	M	O
+.	CH	O
+		
+Vào	E	O
+23	M	O
+giờ	N	O
+30	M	O
+","	CH	O
+ông	Nc	O
+chánh	V	O
+bái	N	O
+và	C	O
+Ban	N	O
+quản trị	V	O
+lăng miếu	N	O
+cùng	A	O
+các	L	O
+vị	Nc	O
+bô lão	N	O
+địa phương	N	O
+có mặt	V	O
+ở	E	O
+chánh	N	O
+điện	N	O
+.	CH	O
+		
+Các	L	O
+du khách	N	O
+dâng	V	O
+cúng	V	O
+áo mão	V	O
+cho	E	O
+tượng	N	O
+Bà	Np	O
+có	V	O
+vinh dự	A	O
+được	R	O
+đứng	V	O
+trong	E	O
+khu vực	N	O
+Chánh	Np	O
+điện	N	O
+để	E	O
+chứng kiến	V	O
+.	CH	O
+		
+Đúng	A	O
+0	M	O
+giờ	Nu	O
+ngày	N	O
+24	M	O
+","	CH	O
+lễ	N	B-EVE
+tắm	V	I-EVE
+Bà	Np	I-EVE
+được	R	O
+chính thức	A	O
+cử hành	V	O
+.	CH	O
+		
+Nghi thức	N	B-EVE
+đầu tiên	A	I-EVE
+là	V	O
+thắp	V	O
+sáng	A	O
+hai	M	O
+cây	Nc	O
+đèn	N	O
+cầy	N	O
+to	A	O
+trước	E	O
+tượng	N	O
+Bà	Np	O
+.	CH	O
+		
+Song song	A	O
+với	E	O
+cuộc	N	O
+lễ	N	O
+chính	T	O
+ở	E	O
+Miếu	Np	O
+bà Chúa Xứ	V	B-FER
+","	CH	O
+các	L	O
+hoạt động	N	O
+văn hoá	N	O
+nghệ thuật	N	O
+dân gian	N	O
+được	R	O
+biểu diễn	V	O
+như	C	O
+múa	V	B-EVE
+lân	N	I-EVE
+","	CH	O
+múa	V	B-EVE
+mâm	N	I-EVE
+thao	N	I-EVE
+","	CH	O
+múa	V	B-EVE
+đĩa	N	I-EVE
+chén	N	I-EVE
+...	CH	O
+thu hút	V	O
+nhiều	A	O
+du khách	N	O
+.	CH	O
+		
+Xưa	N	O
+","	CH	O
+bên	N	O
+cạnh	N	O
+các	L	O
+hoạt động	N	O
+chính	T	O
+xung quanh	N	O
+Miếu Bà	Np	O
+có	V	O
+biết bao	R	O
+tập tục	A	O
+như	C	O
+:	CH	O
+xin	V	O
+xâm	V	O
+","	CH	O
+bói toán	N	O
+","	CH	O
+đồng bóng	N	O
+...	CH	O
+được	V	O
+diễn	V	O
+ra	V	O
+rất	R	O
+nhiều	A	O
+","	CH	O
+liên tục	A	O
+trong	E	O
+những	L	O
+ngày	N	O
+này	P	O
+.	CH	O
+		
+Sau	N	O
+ngày	N	O
+miền	N	O
+Nam	Np	O
+giải phóng	V	O
+","	CH	O
+được	V	O
+sự	N	O
+chỉ đạo	V	O
+của	E	O
+ngành	N	O
+văn hoá	N	O
+và	C	O
+Ban	N	O
+quản trị	V	O
+","	CH	O
+nhân dân	N	O
+xã	N	O
+Vĩnh tế	N	O
+đã	R	O
+biến	V	O
+ngày Vía	V	O
+bà	Nc	O
+thành	V	O
+ngày hội	N	O
+truyền thống	N	O
+.	CH	O
+nhiều	A	O
+tập tục	N	O
+xấu	A	O
+được	R	O
+ngăn chặn	V	O
+.	CH	O
+		
+Thay	V	O
+vào	E	O
+đó	P	O
+là	V	O
+các	L	O
+hoạt động	N	O
+văn hoá	N	O
+lành mạnh	A	O
+","	CH	O
+truyền thống	N	O
+và	C	O
+sôi nổi	A	O
+hơn	A	O
+.	CH	O
+		
+Miếu	Np	O
+Bà chúa	V	O
+Xứ	N	O
+là	V	O
+một	M	O
+trong	E	O
+những	L	O
+danh thắng	N	O
+của	E	O
+núi	N	O
+Lam	Np	O
+được	V	O
+nhà nước	N	O
+xếp hạng	V	O
+.	CH	O
+		
+Nơi	N	O
+đây	P	O
+đã	R	O
+mang	V	O
+dấu ấn	N	O
+của	E	O
+cả	T	O
+một	M	O
+thời đại	N	O
+hào hùng	A	O
+","	CH	O
+thời đại	V	O
+chống	V	O
+giặc	N	O
+ngoại xâm	V	O
+.	CH	O
+		
+Và	C	O
+ngay	T	O
+nay	P	O
+miếu	N	O
+Bà Chúa	Np	O
+Xứ	Np	O
+vẫn	R	O
+thật sự	A	O
+là	V	O
+điểm	N	O
+đến	V	O
+của	E	O
+du khách	N	O
+bốn phương	N	O
+","	CH	O
+là	V	O
+nơi	N	O
+mà	C	O
+con người	N	O
+cầu mong	V	O
+về	E	O
+những	L	O
+điều	N	O
+thiêng liêng	A	O
+","	CH	O
+tốt đẹp	A	O
+nhất	R	O
+.	CH	O
+
+
+An Giang	Np	B-LOC
+","	CH	O
+mảnh	Nc	O
+đất	N	O
+có	V	O
+nhiều	A	O
+di tích	N	O
+lịch sử	N	O
+","	CH	O
+danh thắng	N	O
+và	C	O
+lễ hội	N	O
+mang	V	O
+đậm nét	N	O
+bản sắc	N	O
+văn hóa	V	O
+dân gian	N	O
+","	CH	O
+trong	E	O
+đó	P	O
+có	V	O
+lễ hội	N	O
+đua	V	O
+bò	N	O
+kéo	V	O
+bừa	V	O
+truyền thống	N	O
+là	V	O
+nét	N	O
+sinh hoạt	V	O
+văn hoá	N	O
+","	CH	O
+môn	N	O
+thể thao	N	O
+độc đáo	A	O
+và	C	O
+đặc sắc	A	O
+của	E	B-FOE
+đồng bào	N	O
+dân tộc	N	B-ETH
+Khơ	Np	I-ETH
+-	CH	I-ETH
+me	N	I-ETH
+vùng	N	I-ETH
+Bảy Núi	Np	I-ETH
+An Giang	Np	I-ETH
+.	CH	O
+		
+Lễ hội	N	B-FES
+đua	V	I-FES
+bò	N	I-FES
+được	V	O
+tổ chức	V	O
+vào	E	O
+lễ	N	B-ANN
+""""	CH	I-ANN
+Đôn	Np	I-ANN
+ta	P	I-ANN
+""""	CH	I-ANN
+(	CH	O
+lễ	N	B-ANN
+cúng	V	I-ANN
+ông bà	N	I-ANN
+)	CH	O
+","	CH	O
+từ	E	B-TIM
+ngày	N	I-TIM
+9	M	I-TIM
+đến	E	I-TIM
+ngày	N	I-TIM
+10	M	I-TIM
+tháng	N	I-TIM
+10	M	I-TIM
+âm lịch	N	I-TIM
+hàng	N	O
+năm	N	O
+.	CH	O
+		
+""""	CH	O
+Đôn	Np	O
+-	CH	O
+ta	P	O
+""""	CH	O
+là	V	O
+một	M	O
+trong	E	O
+những	L	O
+lễ hội	N	O
+lớn	A	O
+mang	V	O
+tính	N	O
+truyền thống	N	O
+của	E	B-FOE
+người	N	B-ETH
+Khơ	Np	I-ETH
+-	CH	O
+me	N	O
+để	E	B-FHC
+biểu lộ	V	B-CON
+lòng	N	I-CON
+tưởng nhớ	V	I-CON
+","	CH	I-CON
+biết ơn	V	I-CON
+đối với	E	I-CON
+tổ tiên	N	I-CON
+và	C	I-CON
+công lao	V	I-CON
+của	E	I-CON
+những	L	I-CON
+người	Nc	I-CON
+đã	R	I-CON
+khuất	V	I-CON
+.	CH	O
+		
+Sau	N	O
+khi	N	O
+đến	V	O
+chùa	N	O
+làm	V	O
+lễ	N	O
+rước	V	O
+vong linh	N	O
+ông bà	N	O
+tổ tiên	N	O
+về	V	O
+cùng	C	O
+chung	V	O
+vui	A	O
+với	E	O
+gia đình	N	O
+","	CH	O
+người	N	O
+Khơ	Np	O
+-	CH	O
+me	N	O
+thường	R	O
+kết	V	O
+những	L	O
+bè	N	O
+chuối	N	O
+để	E	O
+làm	V	O
+thuyền	N	O
+","	CH	O
+trên	E	O
+thuyền	N	O
+bày	V	O
+đủ	A	O
+các	L	O
+phẩm vật	N	O
+đã	R	O
+cúng	V	O
+","	CH	O
+mỗi	L	O
+thứ	N	O
+một ít	M	O
+","	CH	O
+sau	N	O
+đó	P	O
+đem	V	O
+thả	V	O
+xuống	V	O
+dòng	N	O
+nước	N	O
+cạnh	N	O
+nơi	N	O
+ở	V	O
+hoặc	C	O
+ao hồ	N	O
+","	CH	O
+sông	N	O
+rạch	N	O
+gần	A	O
+nhà	N	O
+...	CH	O
+		
+Cũng	R	O
+vào	E	O
+dịp	N	O
+này	P	O
+","	CH	O
+khách	N	O
+đến	V	O
+thăm	V	O
+phúm	N	O
+","	CH	O
+sóc	N	O
+sẽ	R	O
+được	V	O
+bà con	N	O
+Khơ	Np	O
+-	CH	O
+me	N	O
+đón tiếp	V	O
+nồng hậu	N	O
+","	CH	O
+tiếp đãi	N	O
+chu đáo	A	O
+.	CH	O
+		
+Vì	E	O
+họ	P	O
+quan niệm	V	O
+khách	N	O
+là	V	O
+sứ giả	N	O
+của	E	O
+tổ tiên	N	O
+về	V	O
+thăm	V	O
+gia đình	N	O
+","	CH	O
+con cháu	N	O
+...	CH	O
+		
+Trong	E	O
+lễ	N	O
+'	V	O
+' Đôn	N	O
+-	CH	O
+ta	P	O
+""""	CH	O
+ngoài	E	O
+tập tục	N	B-EVE
+thả	V	I-EVE
+thuyền	N	I-EVE
+","	CH	O
+người	N	O
+Khơ	Np	O
+-	CH	O
+me	N	O
+còn	R	O
+tổ chức	V	O
+hội	N	B-EVE
+đua	V	I-EVE
+bò	N	I-EVE
+truyền thống	V	I-EVE
+.	CH	O
+		
+Ngày hội	N	O
+đua	V	O
+","	CH	O
+từ	E	O
+sáng	N	O
+sớm	A	O
+bà con	N	O
+đã	R	O
+có mặt	V	O
+đông đảo	A	O
+tại	E	O
+địa điểm	N	O
+đua	V	O
+bò	N	O
+.	CH	O
+		
+Có	V	O
+người	N	O
+ở	E	O
+cách	V	O
+xa	A	O
+hàng	N	O
+vài	L	O
+cây số	N	O
+cũng	R	O
+mang	V	O
+theo	V	O
+cả	T	O
+xoong	N	O
+","	CH	O
+nồi	N	O
+","	CH	O
+mắm	N	O
+","	CH	O
+muối	N	O
+nấu ăn	V	O
+tại chỗ	A	O
+để	E	O
+xem	V	O
+cho	E	O
+trọn vẹn	V	O
+cuộc	N	O
+đua	V	O
+.	CH	O
+
+
+Đình Thần	Np	B-FAM
+Thắng	Np	I-FAM
+Tam	Np	I-FAM
+là	V	B-AHC
+một	M	B-CER
+quần thể	N	I-CER
+kiến trúc	N	I-CER
+gồm	V	I-CER
+có	V	I-CER
+3	M	I-CER
+di tích	N	I-CER
+:	CH	I-CER
+Đình Thần	Np	I-CER
+Thắng	Np	I-CER
+Tam	Np	I-CER
+","	CH	I-CER
+miếu	N	I-CER
+Bà	Nc	I-CER
+Ngũ Hành	Np	I-CER
+","	CH	I-CER
+lăng	N	I-CER
+ông	Nc	I-CER
+Nam Hải	Np	I-CER
+.	CH	O
+		
+Theo	V	O
+truyền thuyết	N	O
+Đình Thần	Np	O
+Thắng	Np	O
+Tam thờ	V	O
+chung	A	O
+cả	T	O
+ba	M	O
+người	N	O
+đã	R	O
+có	V	O
+công	N	O
+xây dựng	V	O
+nên	C	O
+ba	M	O
+làng	N	O
+Thắng	Np	O
+ở	E	O
+Vũng Tàu	Np	B-LOC
+","	CH	O
+đó	P	O
+là	V	O
+:	CH	O
+Phạm Văn Dinh	Np	B-PER
+","	CH	O
+Lê Văn Lộc	Np	B-PER
+và	C	O
+Ngô Văn Huyền	Np	B-PER
+.	CH	O
+		
+Chuyện	N	O
+kể	V	O
+rằng	C	O
+:	CH	O
+thuở	N	O
+ấy	P	O
+hải tặc	N	O
+Mã Lai	Np	O
+và	C	O
+Tàu Ô	Np	O
+thường	R	O
+hay	C	O
+đột nhập	V	O
+cửa sông	N	O
+Bến Nghé	Np	O
+đón đường	V	O
+cướp bóc	N	O
+tiền bạc	N	O
+","	CH	O
+hàng hoá	N	O
+","	CH	O
+bắt cóc	V	O
+người	N	O
+trên	E	O
+các	L	O
+thuyền	N	O
+buôn	V	O
+.	CH	O
+		
+Để	E	O
+bảo vệ	V	O
+thương thuyền	N	O
+của	E	O
+người	Nc	O
+Việt	Np	O
+","	CH	O
+vua	N	O
+Gia Long	Np	O
+liền	R	O
+phái	V	O
+ba	M	O
+đội	N	O
+quân	N	O
+đi	V	O
+trên	E	O
+ba	M	O
+chiếc	Nc	O
+thuyền	N	O
+.	CH	O
+		
+Mỗi	L	O
+đội	N	O
+quân	N	O
+do	E	O
+một	M	O
+viên	Nc	O
+xuất	N	O
+đội	N	O
+thống lĩnh	N	O
+.	CH	O
+		
+Đổ bộ	V	O
+lên	V	O
+bán đảo	N	O
+Vũng tàu	N	O
+","	CH	O
+họ	P	O
+đã	R	O
+lập	V	O
+trại	N	O
+và	C	O
+đặt	V	O
+tên	N	O
+cho	E	O
+doanh trại	N	O
+","	CH	O
+đồn	N	O
+binh	N	O
+của	E	O
+mình	P	O
+là	V	O
+Phước Thắng	Np	O
+.	CH	O
+		
+Ba	M	O
+đội	N	O
+quân	N	O
+vừa	R	O
+làm việc	V	O
+nước	N	O
+–	CH	O
+bảo vệ	V	O
+sự	N	O
+thanh bình	A	O
+của	E	O
+bờ	N	O
+biển	N	O
+cửa ngõ	N	O
+","	CH	O
+vừa	R	O
+khai hoang	V	O
+lập	V	O
+làng	N	O
+","	CH	O
+làm ăn	V	O
+sinh sống	V	O
+.	CH	O
+		
+Trong	E	O
+vòng	N	O
+mấy	L	O
+năm	N	O
+","	CH	O
+phần lớn	N	O
+hải tặc	N	O
+Mã Lai	Np	O
+và	C	O
+Tàu Ô	Np	O
+bị	V	O
+diệt trừ	V	O
+.	CH	O
+		
+Năm	N	O
+1822	M	O
+","	CH	O
+Minh Mạng ban	N	B-PER
+chiếu	N	O
+khen thưởng	V	O
+chức tước	N	O
+","	CH	O
+phẩm hàm	V	O
+cho	E	O
+đội	N	O
+quân	N	O
+cho	E	O
+giải ngũ	N	O
+và	C	O
+ban thưởng	V	O
+phần	N	O
+đất	N	O
+mà	C	O
+họ	P	O
+có	V	O
+công khai phá	N	O
+.	CH	O
+		
+Từ	E	O
+ba	M	O
+vị trí	N	O
+của	E	O
+ba	M	O
+đội	N	O
+quân	N	O
+dần dần	R	O
+hình thành	V	O
+nên	C	O
+ba	M	O
+làng	N	O
+Thắng	Np	O
+.	CH	O
+		
+Sau	N	O
+khi	N	O
+ba	M	O
+đội	N	O
+Ông	Nc	O
+chết	V	O
+","	CH	O
+Triều đình	V	O
+ban	N	O
+sắc phong	V	O
+cho	E	O
+ba	M	O
+ông	Nc	O
+.	CH	O
+		
+Ngoài	E	O
+những	L	O
+giá trị	N	O
+mang	V	O
+ý nghĩa	N	O
+lịch sử	N	O
+","	CH	O
+văn hoá	N	O
+","	CH	O
+đình thần	N	O
+thắng	V	O
+tam	N	O
+còn	R	O
+lưu giữ	V	O
+những	L	O
+lễ hội	N	O
+in	V	O
+đậm	A	O
+văn hoá	N	O
+dân gian	N	O
+và	C	O
+bản sắc	V	O
+dân tộc	N	O
+.	CH	O
+		
+Hàng	N	O
+năm	N	O
+lễ hội	M	B-FES
+Đình Thần	Np	I-FES
+Thắng	Np	I-FES
+Tam	Np	I-FES
+được	R	O
+tổ chức	V	B-FIT
+trong	E	B-TIM
+4	M	I-TIM
+ngày	N	I-TIM
+từ	E	I-TIM
+17	M	I-TIM
+đến	E	I-TIM
+20	M	I-TIM
+tháng	N	I-TIM
+2	M	I-TIM
+âm lịch	N	I-TIM
+.	CH	O
+		
+Đây	P	B-FHC
+là	V	I-FHC
+lễ hội	N	B-CON
+cầu an	A	I-CON
+","	CH	O
+là	V	O
+thời điểm	N	O
+kết thúc	V	O
+và	C	O
+mở đầu	V	O
+cho	E	O
+một	M	O
+mùa	N	O
+thu hoạch	V	O
+tôm	N	O
+cá	N	O
+.	CH	O
+		
+Phần	N	B-FHE
+lễ	N	I-FHE
+diễn	V	I-FHE
+ra	V	I-FHE
+rất	R	O
+cầu kỳ	A	O
+:	CH	O
+cúng tế	N	O
+","	CH	O
+lễ vật	N	B-EVE
+tế	V	I-EVE
+thần	N	I-EVE
+","	CH	O
+dâng	V	B-EVE
+hương	N	I-EVE
+quỳ lạy	N	I-EVE
+","	CH	O
+chiêng trống	N	B-EVE
+","	CH	O
+kèn	N	B-EVE
+nhạc	N	I-EVE
+...	CH	O
+và	C	O
+có	V	O
+rất	R	O
+nhiều	A	O
+điều	N	O
+kiêng kỵ	A	O
+như	C	O
+heo	N	O
+dùng	V	O
+để	E	O
+tế lễ	V	O
+phải	V	O
+có	V	O
+bộ lông	N	O
+cùng	A	O
+màu	N	O
+","	CH	O
+người	N	O
+có	V	O
+tang	N	O
+không	R	O
+được	V	O
+tham gia	V	O
+vào	E	O
+việc	N	O
+nghi thức	V	O
+tế lễ	N	O
+.	CH	O
+		
+Phần	V	O
+hội	N	O
+có	V	O
+nhiều	A	O
+trò	N	O
+vui chơi	V	O
+giải trí	V	O
+như	C	O
+múa	V	B-EVE
+lân	N	I-EVE
+","	CH	O
+hát bội	N	B-EVE
+...	CH	O
+		
+Lễ hội	V	B-FES
+đình Thần	N	I-FES
+Thắng	Np	I-FES
+Tam	Np	I-FES
+là	V	O
+một	M	O
+hoạt động	N	O
+văn hoá	N	O
+đặc sắc	A	O
+của	E	O
+ngư dân	N	O
+miền	N	O
+biển	N	O
+Vũng Tàu	Np	B-LOC
+.	CH	O
+		
+Du khách	N	O
+viếng thăm	V	B-EVE
+đình Thần	N	I-EVE
+Thắng	Np	I-EVE
+Tam	Np	I-EVE
+vào	E	O
+dịp	N	O
+lễ hội	N	O
+","	CH	O
+hẳn	R	O
+sẽ	R	O
+có	V	O
+chuyến	N	O
+tham quan	V	O
+thú vị	A	O
+và	C	O
+sinh động	A	O
+nhất	A	O
+trong	E	O
+chuyến	N	O
+du lịch	N	B-EVE
+Vũng Tàu	Np	I-EVE
+.	CH	O
+
+
+Chùa	N	B-FAM
+Bà	Nc	I-FAM
+Thiên Hậu	Np	I-FAM
+là	V	B-AHC
+một	M	I-AHC
+di tích	N	B-CER
+văn hoá	N	I-CER
+của	E	I-CER
+tỉnh	N	I-CER
+Bình Dương	Np	I-CER
+.	CH	O
+		
+Chùa	V	O
+được	R	O
+kiến trúc	V	O
+theo	V	O
+lối	N	O
+cổ	A	O
+","	CH	O
+là	V	O
+nơi	N	O
+thờ tự	V	O
+tôn nghiêm	N	O
+","	CH	O
+một	M	O
+điểm	N	O
+hành hương	A	O
+rất	R	O
+quen thuộc	A	O
+của	E	O
+người dân	N	O
+Bình Dương	Np	B-LOC
+","	CH	I-LOC
+Bình Phước	Np	I-LOC
+và	C	I-LOC
+một số	L	I-LOC
+tỉnh	N	I-LOC
+lân cận	A	I-LOC
+.	CH	O
+		
+Chùa	Np	O
+thờ	V	B-CON
+nữ thần	N	I-CON
+Thiên Hậu	Np	I-CON
+.	CH	O
+		
+Đề cao	N	O
+Bà	Nc	B-PER
+Thiên Hậu	Np	I-PER
+","	CH	O
+ngưỡng mộ	V	O
+và	C	O
+phụng thờ	N	O
+Bà	Np	O
+như	C	O
+một	M	O
+vị	Nc	O
+hiển thánh	N	O
+","	CH	O
+bà con	N	O
+người	N	O
+Hoa muốn	V	O
+thông qua	V	O
+tấm gương	N	O
+của	E	O
+Bà	Np	O
+mà	C	O
+giáo dục	V	O
+cộng đồng	N	O
+của	E	O
+mình	P	O
+hãy	R	O
+học tập	V	O
+lòng	N	O
+hiếu thuận	V	O
+","	CH	O
+đức	N	O
+nhân hậu	A	O
+của	E	O
+Bà	Np	O
+","	CH	O
+sống	V	O
+có	V	O
+đạo nghĩa	N	O
+.	CH	O
+		
+Mặt khác	X	O
+","	CH	O
+trên	E	O
+con	Nc	O
+đường	N	O
+vượt	V	O
+sóng gió	N	O
+biển	N	O
+khơi	N	O
+","	CH	O
+đi	V	O
+về	V	O
+hướng	N	O
+nam	N	O
+tìm	V	O
+đất	N	O
+lập nghiệp	V	O
+đầy	A	O
+gian truân	N	O
+","	CH	O
+họ	P	O
+luôn	R	O
+cầu nguyện	V	O
+Bà	Nc	O
+giúp đỡ	V	O
+","	CH	O
+phù hộ	V	O
+và	C	O
+sau	N	O
+khi	N	O
+đã	R	O
+định cư	V	O
+","	CH	O
+ổn định	V	O
+đời sống	N	O
+","	CH	O
+sum họp	V	O
+đông	A	O
+vui	A	O
+","	CH	O
+làm ăn	V	O
+phát đạt	A	O
+trên	E	O
+đất	N	O
+Việt Nam	Np	O
+","	CH	O
+quê hương	N	O
+thứ	N	O
+hai	M	O
+của	E	O
+họ	P	O
+","	CH	O
+họ	P	O
+cùng	A	O
+nhau	N	O
+lập	V	O
+đền	N	O
+thờ	V	O
+để	E	B-FHC
+tỏ	V	B-CON
+lòng	N	I-CON
+biết ơn	V	I-CON
+sâu xa	A	I-CON
+đối với	E	I-CON
+Bà	Np	I-CON
+.	CH	O
+		
+Lễ hội chùa	V	B-FES
+Bà	Nc	I-FES
+hàng	N	O
+năm	N	O
+được	R	O
+tổ chức	V	B-FIT
+vào	E	I-FIT
+3	M	B-TIM
+ngày	N	I-TIM
+từ	E	I-TIM
+13	M	I-TIM
+đến	E	I-TIM
+15	M	I-TIM
+tháng	N	I-TIM
+1	M	I-TIM
+âm lịch	N	I-TIM
+.	CH	O
+		
+ Đêm	N	O
+13/1	V	O
+âm lịch	N	O
+","	CH	O
+nhân dân	N	O
+ở	E	B-FIL
+thị xã	N	B-LOC
+Thủ Dầu Một	Np	I-LOC
+bày	V	O
+bàn ra	V	O
+trước	E	O
+nhà	N	O
+để	E	O
+cúng tế	V	O
+chuẩn bị	V	O
+cho	E	O
+lễ	N	O
+rước	V	O
+Bà	Nc	O
+ngày	N	O
+hôm	N	O
+sau	N	O
+.	CH	O
+		
+Dân chúng	V	O
+các	L	O
+vùng	N	O
+lân cận	N	O
+cũng	R	O
+đổ	V	O
+về	V	O
+đây	P	O
+khá	R	O
+đông	A	O
+.	CH	O
+		
+Sáng	N	O
+14	M	O
+lễ	N	I-EVE
+rước	V	I-EVE
+Bà	Np	I-EVE
+được	R	O
+tổ chức	V	O
+theo	V	O
+nghi thức	N	O
+cổ truyền	A	O
+:	CH	O
+kiệu	N	O
+Bà	Np	O
+được	R	O
+rước	V	O
+đi	V	O
+khắp	A	O
+các	L	O
+đường phố	N	O
+cùng	C	O
+với	E	O
+những	L	O
+đội	N	O
+múa	V	O
+lân	A	O
+","	CH	O
+sư tử	N	O
+","	CH	O
+rồng	N	O
+","	CH	O
+cờ xí	N	O
+ngợp trời	V	O
+.	CH	O
+		
+Ngày	N	O
+15/1	M	O
+dân chúng	V	O
+lại	R	O
+kéo	V	O
+nhau	N	O
+về	V	O
+chùa	N	O
+Bà	Np	O
+để	E	O
+thắp	V	B-EVE
+hương	N	I-EVE
+cúng lễ	A	I-EVE
+","	CH	O
+cầu phúc	N	B-CON
+","	CH	O
+cầu lộc	V	B-CON
+cho	E	O
+năm	N	O
+mới	A	O
+.	CH	O
+		
+Hàng năm	V	O
+","	CH	O
+ngày	N	O
+hội	N	O
+rằm	N	O
+tháng Giêng	V	O
+tại	E	O
+Chùa Bà	Np	O
+thị xã	N	O
+Thủ Dầu Một	Np	O
+đã	R	O
+trở thành	V	O
+ngày	N	O
+hội	N	O
+lớn	A	O
+của	E	B-FOE
+cư dân	N	B-ETH
+Hoa	Np	I-ETH
+","	CH	I-ETH
+Việt	Np	I-ETH
+ở	E	I-ETH
+Nam Bộ	Np	I-ETH
+.	CH	O
+		
+Lễ hội	N	O
+đã	R	O
+tạo	V	O
+điều kiện	N	O
+tăng cường	V	O
+tình	N	O
+đoàn kết	V	O
+gắn bó	V	O
+của	E	O
+hai	M	O
+dân tộc	N	O
+nhiều	A	O
+hơn	A	O
+và	C	O
+đã	R	O
+trở thành	V	O
+một	M	O
+nét	N	O
+văn hóa	N	O
+chung	A	O
+của	E	O
+dân tộc	N	O
+Việt Nam	Np	O
+.	CH	O
+
+
+Bình Định	Np	B-LOC
+là	V	O
+một	M	O
+tỉnh	N	O
+mà	C	O
+đặc điểm	N	O
+địa lý	V	O
+từ	E	O
+xưa	N	O
+gắn bó	V	O
+rất	R	O
+mật thiết	A	O
+với	E	O
+nền	N	O
+văn hóa	V	O
+lúa	N	O
+nước	N	O
+.	CH	O
+		
+Khát vọng	N	O
+của	E	O
+nhân dân	N	O
+Bình Định	Np	O
+xưa	N	O
+","	CH	O
+chủ yếu	A	O
+là	V	O
+nông dân	N	O
+","	CH	O
+về	E	O
+cuộc sống	N	O
+ấm no	N	O
+","	CH	O
+mùa màng	N	O
+tươi tốt	N	O
+thường	R	O
+gắn	V	O
+liền	R	O
+với	E	O
+nhu cầu	N	O
+ổn định	V	O
+thời tiết	N	O
+","	CH	O
+chinh phục	V	O
+thiên nhiên	N	O
+.	CH	O
+		
+Ở	E	O
+một	M	O
+bộ phận	N	O
+dân cư	N	O
+","	CH	O
+thường	R	O
+là	V	O
+các	L	O
+dân tộc	N	O
+ít	A	O
+người	N	O
+","	CH	O
+khả năng	N	O
+khám phá	V	O
+và	C	O
+chinh phục	V	O
+thiên nhiên	N	O
+còn	R	O
+hạn chế	V	O
+đồng bào	N	O
+đã	R	O
+nhìn	V	O
+các	L	O
+hiện tượng	N	O
+thiên nhiên	N	O
+qua	V	O
+ánh sáng	N	O
+huyền bí	A	O
+","	CH	O
+với	E	O
+quan niệm	N	O
+mọi	L	O
+biến chuyển	N	O
+của	E	O
+vũ trụ	N	O
+đều	R	O
+do	E	O
+Phật	Np	O
+trời	T	O
+","	CH	O
+thần linh	N	O
+hoặc	C	O
+ma quỷ	V	O
+điều khiển	V	O
+.	CH	O
+		
+Con người	N	O
+muốn	V	O
+đạt	V	O
+được	R	O
+sở nguyện	V	O
+thì	C	O
+phải	V	O
+cầu nguyện	V	O
+","	CH	O
+cúng	V	O
+khấn	V	O
+để	E	O
+được	V	O
+thần linh	V	O
+trợ giúp	V	O
+.	CH	O
+		
+Lễ	N	B-FES
+cầu	N	I-FES
+mưa	V	I-FES
+(	CH	O
+oai	V	B-ANN
+lơ	N	I-ANN
+cau	V	I-ANN
+chăhơzan	N	I-ANN
+)	CH	O
+của	E	B-FOE
+dân tộc	N	B-ETH
+Chăm H	Np	I-ETH
+'	V	I-ETH
+roi	N	I-ETH
+ở	E	O
+Vân Canh	Np	B-LOC
+","	CH	O
+một thể thức	V	O
+cổ xưa	N	O
+","	CH	O
+có lẽ	X	O
+cũng	R	O
+xuất phát	V	O
+từ	E	O
+quan niệm	N	O
+đó	P	O
+.	CH	O
+		
+Dân tộc	N	O
+Chăm H	Np	O
+'	V	O
+roi	N	O
+sống	V	O
+ở	E	O
+Vân Canh	Np	B-LOC
+","	CH	O
+một	M	O
+huyện	N	O
+miền	N	O
+núi	N	O
+của	E	O
+Bình Định	Np	O
+nằm	V	O
+ở	E	O
+chân	N	O
+dãy	N	O
+núi	N	O
+Trường Sơn	Np	O
+","	CH	O
+nguồn	N	O
+nước	N	O
+khan hiếm	V	O
+mưa	V	O
+ít	A	O
+","	CH	O
+nắng	V	O
+nhiều	A	O
+","	CH	O
+dẫn	V	O
+đến	E	O
+tâm lý	N	O
+sợ	V	O
+nắng hạn	N	O
+kéo dài	V	O
+sẽ	R	O
+mất mùa	V	O
+","	CH	O
+gây	V	O
+sự	N	O
+đói kém	V	O
+.	CH	O
+		
+Do vậy	C	O
+","	CH	O
+cứ	R	O
+vào	E	B-FIT
+đầu	N	B-TIM
+tháng	N	I-TIM
+hai	M	I-TIM
+âm lịch	N	I-TIM
+hàng	N	O
+năm	M	O
+(	CH	O
+sau	N	O
+Tết Nguyên đán	M	O
+)	CH	O
+","	CH	O
+dù	E	O
+trời	N	O
+hạn	V	O
+hay	C	O
+trời	N	O
+mưa	V	O
+","	CH	O
+đồng bào	N	O
+đều	R	O
+tổ chức	V	B-FIT
+lễ hội	V	I-FIT
+.	CH	O
+		
+Tùy	Np	O
+theo	V	O
+thời tiết	N	O
+mà	C	O
+có	V	O
+tên	N	O
+gọi	V	O
+cho	E	O
+từng	P	O
+dịp	N	O
+lễ hội	N	O
+-	CH	O
+trời	N	O
+hạn	V	O
+thì	C	O
+gọi	V	O
+là	C	O
+lễ	N	B-ANN
+cầu	N	I-ANN
+mưa	V	I-ANN
+","	CH	O
+còn	C	O
+có	V	O
+mưa	N	O
+mà	C	O
+hành lễ	V	O
+thì	C	O
+gọi	V	B-FHA
+là	C	I-FHA
+lễ	N	B-ANN
+mừng	V	I-ANN
+mưa	N	I-ANN
+.	CH	O
+		
+Để	E	O
+cầu	N	O
+mưa	V	O
+(	CH	O
+hay	C	O
+mừng	V	O
+mưa	N	O
+)	CH	O
+","	CH	O
+đồng bào	N	O
+có thể	R	O
+làm	V	O
+lễ	N	O
+riêng	A	O
+","	CH	O
+trên	E	O
+rẫy	N	O
+của	E	O
+mình	P	O
+.	CH	O
+		
+Hoặc	C	O
+nếu	C	O
+trời	N	O
+nắng	V	O
+quá	R	O
+lâu	A	O
+","	CH	O
+cả	P	O
+làng	N	O
+(	CH	O
+Plây	Np	O
+)	CH	O
+phải	V	O
+làm	V	O
+chung	A	O
+một	M	O
+lễ	N	O
+","	CH	O
+cả	P	O
+làng	N	O
+cùng	A	O
+chuẩn bị	V	O
+và	C	O
+cùng	A	O
+đóng góp	V	O
+lễ vật	N	O
+để	E	O
+cúng	V	O
+.	CH	O
+		
+Mọi	L	O
+người	N	O
+ăn uống	V	O
+","	CH	O
+nhảy múa	V	O
+.	CH	O
+""""	CH	O
+Người	Nc	O
+của	E	O
+Giàng	Np	O
+""""	CH	O
+vẩy	V	O
+nước	N	O
+xuống	V	O
+cho	E	O
+ướt	A	O
+mọi	L	O
+người	N	O
+và	C	O
+rải	V	O
+những	L	O
+hạt	N	O
+lúa	N	O
+xuống	V	O
+…	CH	O
+
+Dân làng	N	O
+tin	V	O
+rằng	C	O
+trời	N	O
+chấp thuận	V	O
+cho	E	O
+mưa	N	O
+","	CH	O
+vui vẻ	A	O
+vào	E	O
+hội	N	O
+.	CH	O
+		
+Trong	E	O
+dịp	N	O
+Kơtoong	Np	O
+-	CH	O
+chiêng	N	O
+","	CH	O
+dân làng	N	O
+uống	V	O
+rượu	N	O
+và	C	O
+múa	V	B-EVE
+xoang	N	I-EVE
+Ch	Np	I-EVE
+'	V	O
+yong	V	O
+với	E	O
+niềm	N	O
+tin	V	O
+trời	N	O
+sẽ	R	O
+mưa	V	O
+thuận gió	A	O
+hòa	V	O
+cho	E	O
+dân	N	O
+Plây	Np	O
+có	V	O
+nước	N	O
+sản xuất	V	O
+.	CH	O
+		
+Sau	N	O
+cách mạng tháng	N	O
+19-Aug	N	O
+45	M	O
+đến	E	O
+nay	P	O
+","	CH	O
+bà con	N	O
+không	R	O
+còn	V	O
+làm lễ	N	O
+""""	CH	O
+cầu	N	O
+mưa	V	O
+""""	CH	O
+riêng	A	O
+nữa	R	O
+mà	C	O
+gắn	V	O
+chung	A	O
+trong	E	O
+""""	CH	O
+Hội	N	O
+đâm	V	O
+trâu	N	O
+mừng	V	O
+lúa	N	O
+mới	A	O
+""""	CH	O
+để	E	B-FHC
+mừng	V	B-CON
+mưa	V	I-CON
+thuận gió	N	I-CON
+hòa	V	I-CON
+cho	E	I-CON
+ngô	N	I-CON
+lúa	N	I-CON
+tươi tốt	V	I-CON
+.	CH	O
+		
+Do đó	C	O
+mô hình	N	O
+trang trí	V	O
+của	E	O
+lễ hội	N	O
+này	P	O
+có	V	O
+những	L	O
+thay đổi	V	O
+như	C	O
+sau	N	O
+:	CH	O
+Đài	N	O
+và	C	O
+án	N	O
+được	V	O
+dựng	V	O
+từ	E	O
+4	M	O
+gốc	N	O
+cây	N	O
+Pay Ch	Np	O
+'	V	O
+panh	N	O
+(	CH	O
+người	Nc	O
+Kinh	Np	O
+gọi	V	O
+là	C	O
+cây gạo	N	O
+)	CH	O
+.	CH	O
+		
+Có thể	A	O
+nói	V	O
+","	CH	O
+lễ hội	V	O
+cầu	N	O
+mưa	V	O
+là	V	O
+một	M	O
+dạng thức	N	O
+văn hóa	N	O
+phi	Z	O
+vật thể	N	O
+khá	R	O
+đặc sắc	A	O
+của	E	B-FOE
+người	N	B-ETH
+Chăm H	Np	I-ETH
+'	V	I-ETH
+roi	N	I-ETH
+Vân Canh	Np	B-LOC
+","	CH	I-LOC
+Bình Định	Np	I-LOC
+.	CH	O
+
+
+Năm	N	O
+nào	P	O
+cũng	R	O
+vậy	P	O
+","	CH	O
+tại	E	B-FIL
+Vạn Thủy Tú	Np	B-LOC
+(	CH	I-LOC
+Bình Thuận	Ny	I-LOC
+)	CH	I-LOC
+-	CH	O
+nơi	N	O
+trưng bày	V	O
+một	M	O
+bộ	Nc	O
+xương cốt	N	O
+cá Ông	N	O
+(	CH	O
+cá voi	M	O
+)	CH	O
+thuộc	V	O
+loại	N	O
+lớn	A	O
+nhất	R	O
+nước	N	O
+-	CH	O
+đều	R	O
+tổ chức	V	O
+Lễ hội	V	B-FES
+cầu	N	I-FES
+ngư	V	I-FES
+.	CH	O
+		
+Một	M	O
+năm	N	O
+tại	E	O
+đây	P	O
+tổ chức	V	O
+tới	E	O
+5	M	O
+lần	N	O
+lễ hội	V	O
+này	P	O
+.	CH	O
+		
+Lễ	N	B-FES
+cầu	V	I-FES
+ngư	N	I-FES
+mang	V	O
+đậm	A	O
+các	L	O
+yếu tố	N	O
+văn hóa	V	O
+dân gian	N	O
+chủ yếu	A	O
+của	E	O
+ngư dân	N	O
+người	Nc	O
+Việt	Np	O
+","	CH	O
+vừa	R	O
+thực hiện	V	O
+trên	E	O
+bờ	N	O
+","	CH	O
+vừa	R	O
+thực hiện	V	O
+trên	E	O
+mặt biển	N	O
+","	CH	O
+kết hợp	V	B-FHE
+nhiều	A	I-FHE
+hoạt động	N	I-FHE
+lễ nghi	V	O
+đa dạng	A	O
+và	C	O
+các	L	B-EVE
+loại hình	N	I-EVE
+văn nghệ	N	I-EVE
+dân gian	N	I-EVE
+đặc sắc	A	I-EVE
+.	CH	O
+		
+Lễ hội	N	O
+thường	R	O
+diễn	V	O
+ra	V	O
+trong	E	O
+vòng	N	B-TIM
+5	M	I-TIM
+ngày	N	I-TIM
+tại	E	B-FIL
+Vạn Thủy Tú	Np	B-LOC
+.	CH	O
+		
+Từ	E	O
+khi	N	O
+mở đầu	V	O
+đến	E	O
+kết thúc	V	O
+","	CH	O
+lễ hội	N	O
+đều	R	O
+theo	V	O
+một	M	O
+chương trình	N	O
+nghiêm ngặt	A	O
+bao gồm	V	O
+nhiều	A	O
+lễ nghi	N	O
+","	CH	O
+trong	E	O
+đó	P	O
+đáng	V	O
+chú ý	V	O
+là	V	O
+lễ	N	B-EVE
+Nghệ sắc	V	I-EVE
+(	CH	O
+Ban lâm tế	N	O
+cúng vái	V	O
+thần	N	O
+","	CH	O
+đưa	V	O
+sắc phong	V	O
+xuống	V	O
+các	L	O
+hương án	N	O
+","	CH	O
+báo cáo	V	O
+lễ	N	O
+tết	N	O
+chính thức	A	O
+bắt đầu	V	O
+và	C	O
+mời	V	O
+các	L	O
+thần	N	O
+về	E	O
+chứng giám	N	O
+)	CH	O
+.	CH	O
+		
+Lễ	V	O
+cúng	V	O
+cá Ông	N	O
+Sanh Thủy Lục	Np	O
+diễn	V	O
+ra	V	O
+tại	E	O
+biển	N	O
+phía	N	O
+ngoài	N	O
+cảng	N	O
+Phan Thiết	Np	O
+trong	E	O
+2	M	O
+giờ	Nu	O
+.	CH	O
+		
+Đoàn	Np	O
+chèo	V	O
+Bá Trạo	Np	O
+trình diễn	V	O
+lễ	N	B-EVE
+cung	V	I-EVE
+nghinh	N	I-EVE
+thần	N	I-EVE
+Nam Hải	Np	I-EVE
+từ	E	O
+biển	N	O
+khơi	N	O
+xa	A	O
+về	V	O
+.	CH	O
+		
+Ngoài ra	X	O
+","	CH	O
+còn	C	O
+có	V	B-FHE
+lễ	N	B-EVE
+phóng	V	I-EVE
+đăng	V	I-EVE
+trên	E	I-EVE
+biển	N	I-EVE
+","	CH	O
+lễ	N	B-EVE
+thả	V	I-EVE
+thuyền	N	I-EVE
+cúng	V	I-EVE
+các	L	O
+linh hồn	N	O
+đã	R	O
+khuất	V	O
+trên	E	O
+biển	N	O
+","	CH	O
+lễ	N	B-EVE
+phóng	V	I-EVE
+sanh	A	I-EVE
+","	CH	O
+lễ	N	B-EVE
+phá	V	I-EVE
+cộ	A	I-EVE
+","	CH	O
+bao hàm	V	O
+cả	P	O
+hai	M	O
+yếu tố	N	O
+:	CH	O
+lễ	N	O
+và	C	O
+hội	N	O
+phối hợp	V	O
+.	CH	O
+		
+Trong	E	O
+đó	P	O
+","	CH	O
+lễ	N	B-EVE
+rước	V	I-EVE
+thần	N	I-EVE
+Nam Hải	Np	I-EVE
+là	V	O
+lễ nghi	N	O
+quan trọng	A	O
+nhất	R	O
+mang	V	O
+tính	N	O
+cộng đồng	N	O
+rõ	A	O
+nét	N	O
+","	CH	O
+mở đầu	V	O
+cho	E	O
+hàng	R	O
+chục	M	O
+lễ nghi	N	O
+nối	V	O
+tiếp theo	V	O
+.	CH	O
+		
+Nội dung	N	O
+của	E	O
+lễ	N	B-EVE
+rước	V	I-EVE
+thần	N	I-EVE
+Nam Hải	Np	I-EVE
+là	V	O
+lễ	N	O
+chính	T	O
+và	C	O
+là	V	O
+điểm	N	O
+nhấn	V	O
+của	E	O
+lễ	N	B-ANN
+cầu	V	I-ANN
+ngư	N	I-ANN
+.	CH	O
+		
+Đoàn	Np	O
+rước	V	O
+gồm	V	B-FHE
+nhiều	A	O
+người	Nc	O
+tham gia	V	O
+","	CH	O
+trong	E	O
+đó	P	O
+có	V	O
+đoàn	N	O
+lễ	N	O
+","	CH	O
+đoàn	N	O
+nhạc lễ	V	O
+","	CH	O
+đoàn	N	O
+chèo	V	O
+Bá Trạo	Np	O
+","	CH	O
+các	L	O
+nhà sư	N	O
+","	CH	O
+đủ	A	O
+các	L	O
+loại	N	O
+trang phục	N	O
+…	CH	O
+		
+Đặc biệt	A	B-FHE
+là	C	O
+hàng	R	O
+chục	M	O
+chiếc	Nc	O
+thuyền	N	O
+lớn	A	O
+được	R	O
+trang bị	V	O
+cờ quạt	N	O
+và	C	O
+đông đảo	A	O
+người	N	O
+tham gia	V	O
+cùng	C	O
+các	L	O
+điệu	N	O
+hò	N	O
+chèo	V	O
+Ba Trạo	Np	O
+diễn	V	B-FIT
+ra	V	I-FIT
+một	M	O
+giờ	N	O
+để	E	O
+nghinh	V	O
+Thần	Np	O
+trên	E	O
+biển	N	O
+gây	V	O
+ấn tượng	N	O
+lớn	A	O
+và	C	O
+xúc cảm	V	O
+cho	E	O
+người	N	O
+xem	V	O
+.	CH	O
+		
+Lễ	N	B-FES
+cầu	V	I-FES
+ngư	N	I-FES
+là	V	O
+một	M	O
+loại hình	N	O
+văn hóa	N	O
+dân gian	N	O
+của	E	O
+ngư dân	N	O
+người	Nc	O
+Việt	Np	O
+có	V	O
+nguồn gốc	N	O
+từ	E	O
+lâu đời	A	O
+","	CH	O
+trong	E	O
+đó	P	O
+có	V	O
+sự	N	O
+tiếp	V	O
+biến	V	O
+và	C	O
+kế thừa	V	O
+nội dung	N	O
+từ	E	O
+các	L	O
+lễ nghi	N	O
+mang	V	O
+tính	N	O
+cầu	N	O
+ngư	N	O
+của	E	B-FOE
+người	N	B-ETH
+Chăm	Np	I-ETH
+xưa	N	I-ETH
+.	CH	O
+		
+Thực tế	N	O
+lễ	N	O
+hội	N	O
+cầu	N	O
+ngư	N	O
+là	V	O
+một	M	O
+hình thái	N	O
+sinh hoạt	V	O
+văn hóa	N	O
+cộng đồng	N	O
+đặc biệt	A	O
+.	CH	O
+		
+Đây	P	O
+còn	R	O
+là	V	O
+môi trường	N	O
+văn hóa	N	O
+đặc thù	N	O
+","	CH	O
+nhiều	A	O
+loại hình	N	O
+nghệ thuật	N	O
+đã	R	O
+ra đời	V	O
+và	C	O
+được	V	O
+gìn giữ	V	O
+trong	E	O
+môi trường	N	O
+này	P	O
+.	CH	O
+		
+Lễ	N	B-FES
+cầu	V	I-FES
+ngư	N	I-FES
+còn	R	O
+có	V	B-FHC
+vai trò	N	B-CON
+to lớn	A	I-CON
+trong	E	I-CON
+việc	N	I-CON
+tích lũy	V	I-CON
+","	CH	I-CON
+kế thừa	N	I-CON
+và	C	I-CON
+củng cố	V	I-CON
+sự	N	I-CON
+gắn bó	V	I-CON
+đoàn kết	V	I-CON
+cộng đồng	N	I-CON
+.	CH	O
+		
+Chính	T	O
+vì vậy	C	O
+Vạn Thủy Tú	Np	O
+được	R	B-RBO
+Bộ Văn hóa	V	B-ORG
+Thông tin	N	I-ORG
+cấp	V	I-REC
+bằng	E	I-REC
+công nhận	N	I-REC
+di tích	N	I-REC
+lịch sử	N	I-REC
+văn hóa	V	I-REC
+cấp	N	I-REC
+quốc gia	N	I-REC
+.	CH	O
+
+
+Hằng	R	O
+năm	N	O
+vào	E	O
+ngày rằm	N	B-TIM
+tháng	N	I-TIM
+7	M	I-TIM
+","	CH	O
+nhân dân	N	O
+huyện	N	O
+An Nhơn	Np	O
+thường	R	O
+đổ	V	O
+về	V	O
+làng	N	B-LOC
+An Thái	Np	I-LOC
+","	CH	I-LOC
+huyện	N	I-LOC
+An Nhơn	Np	I-LOC
+","	CH	I-LOC
+tỉnh	N	I-LOC
+Bình Định	Np	I-LOC
+để	E	O
+dự	V	O
+lễ	N	B-FES
+Vu Lan	Np	I-FES
+-	CH	I-FES
+báo hiếu	V	I-FES
+của	E	B-FOR
+nhà	N	B-REL
+Phật	Np	I-REL
+–	CH	O
+xem	V	B-FHE
+hát bội	N	B-EVE
+và	C	O
+những	L	B-EVE
+cuộc	N	I-EVE
+thi tài	V	I-EVE
+.	CH	O
+		
+Cũng	R	O
+như	C	O
+nhiều	A	O
+chùa	N	O
+khác	A	O
+ở	E	O
+Việt Nam	Np	O
+","	CH	O
+vào	E	O
+dịp	N	O
+này	P	O
+nhà chùa	V	O
+trong	E	O
+lễ	N	B-EVE
+cúng	V	I-EVE
+cô hồn	N	I-EVE
+","	CH	O
+xá tội	V	B-EVE
+vong nhân	N	I-EVE
+","	CH	O
+thường	R	O
+dựng	V	O
+rạp	N	O
+làm chay	N	O
+(	CH	O
+tức	E	O
+lập	V	O
+đàn	N	O
+cầu nguyện	V	O
+cho	E	O
+mọi	L	O
+oan hồn	N	O
+được	R	O
+siêu thoát	V	O
+)	CH	O
+","	CH	O
+tổ chức	V	B-EVE
+hát bội	N	I-EVE
+cả	T	O
+ngày	N	O
+và	C	O
+đêm	N	O
+.	CH	O
+		
+Ngày rằm	V	O
+tháng	N	O
+7	M	O
+cũng	R	O
+là	V	O
+tết	N	O
+Trung nguyên	N	O
+của	E	O
+đạo Lão	N	O
+.	CH	O
+		
+Dĩ nhiên	R	O
+vào	E	O
+những	L	O
+dịp	N	O
+hội hè	A	O
+","	CH	O
+việc	N	O
+tổ chức	V	B-EVE
+thi đấu	V	I-EVE
+côn	N	I-EVE
+","	CH	O
+quyền	N	B-EVE
+là	V	O
+tiết mục	N	O
+không thể	R	O
+thiếu	V	O
+được	R	O
+.	CH	O
+		
+về	V	O
+dự	V	O
+hội	N	O
+","	CH	O
+cũng	R	O
+là	V	O
+dịp	N	O
+để	E	O
+các	L	O
+môn đệ	N	O
+thăm viếng	N	O
+","	CH	O
+gặp	V	O
+lại	V	O
+bạn bè	N	O
+đồng khoá	V	O
+","	CH	O
+đồng môn	N	O
+và	C	O
+cũng	R	O
+là	V	O
+dịp	N	O
+để	E	O
+các	L	O
+võ sĩ	N	O
+thử	V	O
+tài	N	O
+cao	A	O
+thấp	A	O
+trên	E	O
+võ đài	N	O
+.	CH	O
+		
+Tuy nhiên	C	O
+không	R	O
+cuộc vui	N	O
+nào	P	O
+hấp dẫn	V	O
+và	C	O
+cuốn hút	V	O
+nhiều	A	O
+người	Nc	O
+như	C	O
+hội	N	O
+xô	V	O
+cỗ	N	O
+(	CH	O
+người	Nc	O
+Việt	Np	O
+gọi	V	O
+là	C	O
+xô	N	O
+giàn	N	O
+","	CH	O
+về	V	O
+sau	N	O
+gọi	V	O
+thành	V	O
+đổ	V	O
+giàn	N	O
+–	CH	O
+Theo	V	O
+Quách Tấn –	N	O
+Quách Giao	Np	O
+","	CH	O
+Võ nhân	N	O
+Bình Định	Np	O
+)	CH	O
+.	CH	O
+
+
+Nếu	C	O
+bạn	N	O
+đến	V	O
+di tich	V	O
+vào	E	B-FIT
+ngày	N	B-TIM
+29/3	M	I-TIM
+âm lịch	N	I-TIM
+bạn	N	O
+sẽ	R	O
+được	V	O
+dự	V	O
+lễ sinh nhật	N	O
+ông	Nc	O
+Bổn	Np	O
+","	CH	O
+được	V	O
+tổ chức	V	B-FIL
+tại	E	I-FIL
+Phước Đức	Np	B-LOC
+cổ	N	I-LOC
+miếu	N	I-LOC
+(	CH	I-LOC
+còn	R	I-LOC
+gọi là	X	I-LOC
+Chùa Bang	Np	I-LOC
+)	CH	I-LOC
+.	CH	O
+		
+Lễ	V	O
+được	V	O
+diễn	V	B-FIT
+ra	V	I-FIT
+vào	E	I-FIT
+lúc	N	B-TIM
+tám	M	I-TIM
+giờ	Nu	I-TIM
+sáng	N	I-TIM
+","	CH	O
+nghi lễ	N	O
+diễn	V	O
+ra	V	O
+rất	R	O
+đơn giản	A	O
+nhưng	C	O
+rất	R	O
+trang nghiêm	A	O
+","	CH	O
+nghi lễ	N	O
+phải	V	O
+trãi	V	O
+qua	E	O
+nhiều	A	O
+giai đoạn	N	B-FHE
+như	C	I-FHE
+:	CH	O
+Hiến	V	B-EVE
+đèn	N	I-EVE
+","	CH	O
+hiến	V	B-EVE
+hương	N	I-EVE
+","	CH	O
+dâng	V	B-EVE
+hoa	N	I-EVE
+","	CH	O
+dâng	V	B-EVE
+trà	N	I-EVE
+","	CH	O
+dâng	V	B-EVE
+rượu	N	I-EVE
+","	CH	O
+hiến	V	B-EVE
+vật tế	N	I-EVE
+(	CH	O
+thường	R	O
+là	V	O
+heo	N	O
+)	CH	O
+…	CH	O
+		
+Sau	N	O
+Lễ tế	N	O
+Ông	Nc	O
+là	V	O
+Lễ	Np	B-EVE
+""""	CH	I-EVE
+Đấu	V	I-EVE
+đèn	N	I-EVE
+""""	CH	I-EVE
+","	CH	O
+lễ	N	O
+này	P	O
+diễn	V	O
+ra	V	O
+trong	E	O
+không khí	N	O
+vui nhộn	A	O
+của	E	O
+những	L	O
+người	Nc	O
+đến	V	O
+dự	V	O
+lễ	N	O
+","	CH	O
+ban	N	O
+tổ chức	V	O
+lễ	N	O
+sẽ	R	O
+định	V	O
+số	N	O
+đèn	N	O
+theo	V	O
+từng	R	O
+năm	N	O
+(	CH	O
+thường	R	O
+thì	C	O
+chọn	V	O
+3	M	O
+cây đèn	N	O
+-	CH	O
+dạng	N	O
+đèn Kéo quân	M	O
+)	CH	O
+và	C	O
+sau	N	O
+đó	P	O
+sẽ	R	O
+đem	V	O
+từng	R	O
+cây đèn	V	O
+ra	V	O
+đấu giá	N	O
+","	CH	O
+ai	P	O
+trả giá	V	O
+cao	A	O
+sẽ	R	O
+được	V	O
+""""	CH	O
+Thỉnh	Ny	O
+đèn	N	O
+""""	CH	O
+về	V	O
+nhà	N	O
+. Số	V	O
+tiền	N	O
+thu	V	O
+được	R	O
+từ	E	O
+cuộc	N	O
+đấu	V	O
+đèn	N	O
+sẽ	R	O
+sử dụng	V	O
+cho	E	O
+công tác	N	O
+cứu tế	V	O
+hay	C	O
+những	L	O
+hoạt động	N	O
+xã hội	N	O
+khác	A	O
+.	CH	O
+
+
+Trên	E	O
+những	L	O
+thửa	Nc	O
+ruộng	N	O
+bậc thang	N	O
+thuộc	V	O
+xã	N	B-LOC
+Lam Sơn	Np	I-LOC
+","	CH	I-LOC
+huyện	N	I-LOC
+Na Rì	Np	I-LOC
+","	CH	I-LOC
+tỉnh	N	I-LOC
+Bắc Cạn	Np	I-LOC
+","	CH	O
+cứ	R	B-FIT
+vào	E	I-FIT
+ngày	N	B-TIM
+mồng	N	I-TIM
+8	M	I-TIM
+tết âm lịch	N	I-TIM
+hàng	N	O
+năm	N	O
+","	CH	O
+lại	R	O
+diễn	V	O
+ra	V	O
+một	M	O
+lễ hội	N	O
+của	E	B-FOE
+đồng bào	N	B-ETH
+Tày	Np	I-ETH
+","	CH	O
+Nùng	Np	B-ETH
+mang	V	O
+tên	N	O
+""""	CH	O
+Lễ hội	N	B-FES
+Lồng Tồng	Np	I-FES
+""""	CH	O
+.	CH	O
+		
+Những	L	O
+người	Nc	O
+dân	N	O
+sở tại	A	O
+sẽ	R	O
+dâng	V	O
+lên	V	O
+những	L	O
+mâm	N	O
+cỗ	A	O
+do	E	O
+chính	T	O
+tay	N	O
+mình	P	O
+tự	P	O
+làm	V	O
+","	CH	O
+bao gồm	N	O
+tám	M	O
+mâm	N	O
+","	CH	O
+tám	M	O
+chén	N	O
+","	CH	O
+tám	M	O
+đôi	M	O
+đũa	N	O
+cùng	A	O
+tám	M	O
+chai	N	O
+rượu	N	O
+.	CH	O
+		
+Nắng mưa	N	O
+cũng	R	O
+mặc	V	O
+","	CH	O
+lễ hội	N	O
+vẫn	R	O
+cứ	R	O
+diễn	V	O
+ra	V	O
+","	CH	O
+mâm	N	O
+cỗ	N	O
+vẫn	R	O
+cứ	R	O
+dâng	V	O
+lên	V	O
+vì	E	O
+trên	E	O
+mỗi	L	O
+mâm	N	O
+đã	R	O
+có	V	O
+những	L	O
+chiếc	Nc	O
+ô	N	O
+che	V	O
+sẵn	A	O
+.	CH	O
+		
+Chủ	N	O
+hội	N	O
+sẽ	R	O
+đích thân	P	O
+làm	V	O
+lễ	N	O
+cúng	V	B-EVE
+Thần nông	N	I-EVE
+-	CH	O
+vị	Nc	O
+thần	N	O
+cai quản	V	O
+ruộng đồng	N	O
+","	CH	O
+làng	N	O
+bản	N	O
+để	E	B-FHC
+cầu	V	B-CON
+ấm no	V	I-CON
+","	CH	I-CON
+sức khỏe	V	I-CON
+và	C	I-CON
+hạnh phúc	A	I-CON
+cho	E	O
+mọi	L	O
+người	N	O
+dân	N	O
+trong	E	O
+bản	N	O
+.	CH	O
+		
+Lễ	V	B-EVE
+rước	V	I-EVE
+cỗ	N	I-EVE
+mở đầu	V	O
+cho	E	O
+Lễ hội	N	B-FES
+Lồng Tồng	Np	I-FES
+diễn	V	O
+ra	V	O
+tại	E	O
+khu	N	O
+đất	N	O
+trống	A	O
+ở	E	O
+bản	N	O
+Pioo	Np	O
+xã	N	O
+Lam Sơn	Np	O
+khiến	V	O
+người ta	P	O
+nghĩ	V	O
+đến	E	O
+lễ	N	O
+dâng	V	O
+bánh chưng	N	O
+bánh	N	O
+dày	A	O
+của	E	O
+Lang Liêu	Np	O
+thủa	V	O
+trước	N	O
+.	CH	O
+		
+Trang trọng	N	O
+và	C	O
+đầy ắp	V	O
+hương	N	O
+xuân	N	O
+","	CH	O
+mỗi	L	O
+mâm	N	O
+cỗ	N	O
+là	V	O
+một	M	O
+tác phẩm	N	O
+nghệ thuật	N	O
+của	E	O
+nấu nướng	N	O
+và	C	O
+sắp đặt	V	O
+.	CH	O
+		
+Chỉ	V	O
+với	E	O
+một	M	O
+loại	N	O
+nếp	N	O
+nương	A	O
+","	CH	O
+người	N	O
+dân	N	O
+Na Rì	Np	O
+đã	R	O
+chế biến	V	O
+được	R	O
+10-Aug	V	O
+món	N	O
+bánh	N	O
+trên	E	O
+mâm	N	O
+cỗ	N	O
+","	CH	O
+từ	E	O
+bánh	N	O
+dày	A	O
+","	CH	O
+bánh chưng	N	O
+","	CH	O
+xôi	N	O
+mật	N	O
+","	CH	O
+xôi	N	O
+ngũ sắc	N	O
+...	CH	O
+đến	E	O
+các	L	O
+loại	N	O
+bánh	N	O
+phỏng	N	O
+nhào	V	O
+mật	N	O
+đủ	A	O
+cả	T	O
+vuông	N	O
+","	CH	O
+tròn	A	O
+","	CH	O
+sao	P	O
+năm	M	O
+cánh	N	O
+.	CH	O
+		
+Rồi	C	O
+chuối	N	O
+","	CH	O
+dứa	N	O
+","	CH	O
+và	C	O
+các	L	O
+loại	N	O
+hoa	N	O
+rừng	N	O
+","	CH	O
+mùa	N	O
+nào	P	O
+thức	V	O
+đấy	P	O
+","	CH	O
+mâm	N	O
+cỗ	V	O
+đầu	N	O
+xuân	N	O
+của	E	O
+ngày	N	O
+hội	N	O
+xuống	V	O
+đồng	N	O
+cũng	R	O
+là	V	O
+mâm	N	O
+cỗ	V	O
+đủ	A	O
+cả	T	O
+sản vật	N	O
+của	E	O
+12	M	O
+tháng	N	O
+với	E	O
+ước mong	N	B-CON
+về	E	I-CON
+một	M	I-CON
+sự	N	I-CON
+no đủ	A	I-CON
+.	CH	O
+
+
+Hồ	Np	B-FAM
+Ba Bể	Np	I-FAM
+nằm	V	I-FAM
+ở	E	O
+trung du	N	B-LOC
+phía	N	I-LOC
+Bắc thuộc	N	I-LOC
+tỉnh	N	I-LOC
+Bắc Kạn	Np	I-LOC
+","	CH	O
+cách	V	O
+Hà Nội	Np	O
+240km	A	O
+.	CH	O
+		
+Nơi	N	O
+đây	P	O
+tập trung	V	O
+7	M	O
+dân tộc	N	O
+gồm	V	O
+dân tộc	N	B-ETH
+Tày	Np	I-ETH
+","	CH	O
+Nùng	Np	B-ETH
+","	CH	O
+Dao	Np	B-ETH
+và	C	O
+H	Ny	B-ETH
+'	N	I-ETH
+Mông	Np	I-ETH
+...	CH	O
+","	CH	O
+trong	E	O
+đó	P	O
+dân tộc	N	B-ETH
+Tày	Np	I-ETH
+chiếm	V	O
+61	M	O
+%	N	O
+.	CH	O
+		
+Phong tục	N	O
+và	C	O
+văn hóa	V	O
+truyền thống	N	O
+của	E	O
+các	L	O
+dân tộc	N	O
+này	P	O
+đã	R	O
+thu hút	V	O
+rất	R	O
+nhiều	A	O
+du khách	N	O
+từ	E	O
+khắp	A	O
+các	L	O
+nơi	N	O
+trong	E	O
+nước	N	O
+cũng	R	O
+như	C	O
+khách	N	O
+quốc tế	N	O
+.	CH	O
+		
+Lễ hội	V	B-FES
+mùa	N	I-FES
+xuân	N	I-FES
+diễn	V	O
+ra	V	O
+với	E	O
+các	L	O
+trò chơi	N	B-EVE
+và	C	O
+các	L	O
+tiết mục	N	O
+biểu diễn	V	B-EVE
+nghệ thuật	N	I-EVE
+như	C	O
+đấu vật	N	B-EVE
+","	CH	O
+thi	V	B-EVE
+hát	V	I-EVE
+và	C	O
+đặc biệt	A	O
+hấp dẫn	V	O
+người	N	O
+xem	V	O
+là	C	O
+các	L	O
+cuộc	N	O
+đua thuyền	V	B-EVE
+.	CH	O
+		
+Người	Nc	O
+đi	V	O
+trảy	V	O
+hội	N	O
+có thể	R	O
+tham gia	V	O
+các	L	O
+điệu	N	O
+hát	V	O
+và	C	O
+múa	V	B-EVE
+trong	E	O
+điệu	N	O
+nhạc	N	O
+dân tộc	N	O
+du dương	V	O
+trầm bổng	N	O
+.	CH	O
+		
+Hồ	Np	B-FAM
+Ba Bể	Np	I-FAM
+là	V	B-AHC
+thắng cảnh	N	B-CER
+đẹp	A	I-CER
+nhất	A	I-CER
+của	E	I-CER
+tỉnh	N	I-CER
+Bắc Kạn	Np	O
+với	E	O
+một	M	O
+kho tàng	N	O
+văn hóa	V	O
+truyền thống	N	O
+đặc sắc	A	O
+của	E	O
+các	L	O
+dân tộc thiểu số	N	O
+.	CH	O
+		
+Nơi	N	O
+đây	P	O
+đã	R	O
+thu hút	V	O
+rất	R	O
+nhiều	A	O
+khách	N	O
+du lịch	V	O
+trong	E	O
+cũng	R	O
+như	C	O
+ngoài	E	O
+nước	N	O
+tới	E	O
+.	CH	O
+		
+Lễ hội	N	B-ANN
+Hồ	Np	I-ANN
+Ba Bể	Np	I-ANN
+được	V	O
+tổ chức	V	B-FIT
+vào	E	I-FIT
+ngày	N	B-TIM
+mùng	M	I-TIM
+9	M	I-TIM
+và	C	I-TIM
+10	M	I-TIM
+tháng	N	I-TIM
+giêng	M	I-TIM
+âm lịch	N	I-TIM
+hàng	N	O
+năm	N	O
+.	CH	O
+		
+Ðua	Np	B-EVE
+thuyền	N	I-EVE
+","	CH	O
+ném	V	B-EVE
+Còn	Np	I-EVE
+","	CH	O
+đấu vật	N	B-EVE
+","	CH	O
+bắn	V	B-EVE
+cung	N	I-EVE
+và	C	O
+biểu diễn	V	B-EVE
+múa	V	I-EVE
+","	CH	I-EVE
+hát	V	I-EVE
+truyền thống	N	O
+của	E	O
+các	L	O
+dân tộc	N	O
+được	V	O
+tổ chức	V	O
+trong	E	O
+suốt	A	O
+thời gian	N	O
+diễn	V	O
+ra	V	O
+lễ hội	N	O
+.	CH	O
+		
+Lễ hội	N	B-FHC
+cũng	R	I-FHC
+giúp	V	B-CON
+cho	E	I-CON
+khách	N	I-CON
+thập phương	V	I-CON
+hiểu	V	I-CON
+thêm	V	I-CON
+về	E	I-CON
+con người	N	I-CON
+và	C	I-CON
+truyền thống	N	I-CON
+văn hoá	N	I-CON
+nơi	N	I-CON
+đây	P	I-CON
+.	CH	O
+		
+Giống	A	O
+như	C	O
+nhiều	A	O
+lễ hội	N	O
+khác	A	O
+","	CH	O
+lễ hội	N	O
+mùa	N	O
+xuân	N	O
+Hồ Ba Bể	Np	O
+là	V	O
+nơi	N	O
+gặp gỡ	V	O
+","	CH	O
+giao lưu	V	O
+và	C	O
+để	E	O
+hít	V	B-EVE
+thở	V	I-EVE
+không khí	N	I-EVE
+trong lành	A	I-EVE
+của	E	I-EVE
+vùng đất	N	I-EVE
+tươi đẹp	A	I-EVE
+này	P	I-EVE
+.	CH	O
+
+
+Lễ hội	N	B-FES
+rước	V	I-FES
+Đất	N	I-FES
+","	CH	I-FES
+rước	V	I-FES
+Nước	N	I-FES
+của	E	B-FOE
+người	N	B-ETH
+Tày	Np	I-ETH
+-	CH	O
+Bắc Hà	Np	B-LOC
+diễn	V	B-FIT
+ra	V	I-FIT
+vào	E	I-FIT
+ngày rằm	N	B-TIM
+tháng	N	I-TIM
+giêng	M	I-TIM
+hàng	N	O
+năm	N	O
+để	E	B-FHC
+cầu xin	V	B-CON
+Mẹ	N	I-CON
+Đất	N	I-CON
+","	CH	I-CON
+Mẹ	N	I-CON
+Nước	N	I-CON
+phù hộ	V	I-CON
+cho	E	I-CON
+đất	N	I-CON
+luôn	R	I-CON
+màu mỡ	V	I-CON
+","	CH	O
+cầu	N	B-CON
+cho	E	I-CON
+nguồn	N	I-CON
+nước	N	I-CON
+không	R	I-CON
+bao giờ	P	I-CON
+cạn	A	I-CON
+","	CH	O
+giúp	V	B-CON
+dân	N	I-CON
+bản	N	I-CON
+có	V	I-CON
+cuộc sống	N	I-CON
+no đủ	V	I-CON
+quanh năm	N	I-CON
+.	CH	O
+		
+Từ	E	O
+sáng	N	O
+sớm	A	O
+","	CH	O
+dân làng	N	O
+đã	R	O
+cử	V	O
+một	M	O
+đoàn	Nc	O
+người	N	O
+gồm	V	O
+:	CH	O
+thầy cúng	N	O
+","	CH	O
+đội	N	O
+trống	A	O
+","	CH	O
+chiêng	N	O
+","	CH	O
+khèn	N	O
+và	C	O
+các	L	O
+cô	Nc	O
+","	CH	O
+các	L	O
+chị	Nc	O
+(	CH	O
+là	V	O
+những	L	O
+người	Nc	O
+chăm chỉ	A	O
+làm ăn	V	O
+","	CH	O
+có	V	O
+cuộc sống	N	O
+gia đình	N	O
+yên bình	V	O
+khoẻ mạnh	A	O
+)	CH	O
+…	CH	O
+đi	V	O
+lên	V	O
+ngọn	Nc	O
+núi	N	O
+Pản Phố	Np	O
+-	CH	O
+nơi	N	O
+có	V	O
+nguồn	N	O
+nước	N	O
+trong	A	O
+nhất	R	O
+bản	N	O
+-	CH	O
+rước	V	B-EVE
+hồn Đất	N	I-EVE
+","	CH	I-EVE
+hồn Nước	V	I-EVE
+về	V	O
+dự	V	O
+hội	N	O
+.	CH	O
+		
+Sau	N	O
+phần	N	O
+lễ nghi	V	O
+trên	E	O
+","	CH	O
+mọi	L	O
+người	N	O
+bước	V	O
+vào	E	O
+phần	N	B-FHE
+hội	N	I-FHE
+với	E	I-FHE
+những	L	O
+màn	N	B-EVE
+xoè	V	I-EVE
+điệu nghệ	N	I-EVE
+của	E	O
+các	L	O
+cô	Nc	O
+gái	N	O
+","	CH	O
+chàng	Nc	O
+trai	N	O
+.	CH	O
+		
+Khi	N	O
+các	L	O
+màn	N	O
+xoè	V	O
+kết thúc	V	O
+là	V	O
+các	L	O
+trò chơi	N	B-EVE
+dân gian	N	I-EVE
+như	C	O
+kéo co	N	B-EVE
+","	CH	O
+đẩy	V	B-EVE
+gậy	N	I-EVE
+","	CH	O
+chọi gà	N	B-EVE
+","	CH	O
+chọi	V	B-EVE
+trâu	N	I-EVE
+(	CH	O
+bằng	E	O
+bắp	N	O
+bi	N	O
+chuối	N	O
+và	C	O
+măng	N	O
+)	CH	O
+","	CH	O
+ném	V	B-EVE
+còn	R	I-EVE
+…	CH	O
+bắt đầu	V	O
+
+
+Hội	N	B-FES
+Lim	Np	I-FES
+là	V	O
+lễ hội	N	O
+văn hoá	N	O
+nghệ thuật	N	O
+đặc sắc	A	O
+của	E	O
+những	L	O
+làng	N	O
+quê	N	O
+quan họ	V	O
+","	CH	O
+hình thành	V	B-FFT
+từ	E	I-FFT
+xa xưa	A	I-FFT
+.	CH	O
+		
+Ngày hội	N	O
+đã	R	O
+thu hút	V	O
+nhiều	A	O
+thành phần	N	O
+","	CH	O
+lứa	N	O
+tuổi	N	O
+từ	E	O
+khắp	A	O
+nơi	N	O
+về	V	O
+trẩy hội	N	B-EVE
+vui	A	I-EVE
+xuân	N	I-EVE
+","	CH	O
+trong	E	O
+đó	P	O
+phần đông	N	O
+là	V	O
+trai	N	O
+thanh	V	O
+gái	N	O
+lịch	V	O
+.	CH	O
+		
+Đến	N	O
+hẹn	V	O
+lại	V	O
+lên	V	O
+","	CH	O
+họ	P	O
+đến	V	O
+với	E	O
+nhau	N	O
+để	E	O
+ca hát	V	O
+","	CH	O
+với	E	O
+người	N	O
+lớn	A	O
+tuổi	N	O
+thì	C	O
+đến	E	O
+hội	N	O
+là	V	O
+dịp	N	O
+tìm	V	O
+về	E	O
+tuổi	N	O
+xuân	N	O
+","	CH	O
+với	E	O
+nam	N	O
+thanh nữ	N	O
+tú	A	O
+thì	C	O
+hội	N	O
+là	V	O
+dịp	N	B-CON
+tìm	V	I-CON
+bạn	N	I-CON
+","	CH	I-CON
+tìm	V	I-CON
+duyên	N	I-CON
+.	CH	O
+Sự kiện	N	O
+văn hoá	N	O
+độc đáo	A	O
+này	P	O
+trở thành	V	O
+tài sản	N	O
+vô giá	A	O
+trong	E	O
+kho tàng	N	O
+văn hoá	N	O
+dân gian	N	O
+Việt Nam	Np	O
+.	CH	O
+		
+Cũng	R	O
+như	C	O
+các	L	O
+lễ hội	N	O
+truyền thống	N	O
+khác	A	O
+","	CH	O
+hội	N	O
+Lim	Np	O
+cũng	R	O
+có	V	O
+những	L	O
+hoạt động	V	B-EVE
+nghi lễ	V	I-EVE
+trang nghiêm	N	I-EVE
+","	CH	O
+thành kính	N	O
+nhằm	V	B-FHC
+tôn vinh	V	B-CON
+công đức	N	I-CON
+các	L	I-CON
+vị	Nc	I-CON
+thần	N	I-CON
+như	C	O
+lễ	N	B-EVE
+rước	V	I-EVE
+","	CH	O
+lễ	N	B-EVE
+tế	V	I-EVE
+hay	C	O
+các	L	O
+trò	N	B-EVE
+hội	N	I-EVE
+dân gian	N	I-EVE
+mua vui	N	I-EVE
+","	CH	O
+thi tài	N	B-EVE
+.	CH	O
+		
+Sáng	N	O
+sớm	A	O
+ngày	N	O
+13	M	O
+là	C	O
+lễ	N	B-EVE
+rước	V	I-EVE
+kinh	N	I-EVE
+từ	E	O
+chùa	N	O
+Trũng	Np	O
+tới	V	O
+chùa	N	O
+Hồng Ân	Np	O
+","	CH	O
+sau	N	O
+những	L	O
+nghi thức	N	O
+tế lễ	A	O
+","	CH	O
+đoàn	N	O
+rước	V	O
+đón	V	O
+nước	N	O
+thiêng	V	O
+từ	E	O
+chùa	N	O
+Hồng Ân	Np	O
+trở	V	O
+về	V	O
+chùa	N	O
+Trũng	Np	O
+.	CH	O
+		
+Kết thúc	V	B-EVE
+lễ	N	I-EVE
+rước	V	I-EVE
+","	CH	O
+vào	E	O
+lễ	N	O
+khai hội	V	O
+		
+.	CH	O
+Nhưng	C	O
+đến	E	O
+Hội Lim	Np	O
+khách	N	O
+trảy	V	O
+hội	N	O
+đều	R	O
+muốn	V	O
+xem	V	O
+","	CH	O
+nghe	V	O
+và	C	O
+được	V	O
+hát quan họ	V	O
+với	E	O
+các	L	O
+liền	R	O
+anh	Nc	O
+liền	R	O
+chị	Nc	O
+","	CH	O
+đó	P	O
+cũng	R	O
+là	V	O
+đặc trưng	N	O
+cơ bản	A	O
+nhất	R	O
+của	E	O
+lễ hội	N	O
+này	P	O
+.	CH	O
+		
+Đến	V	O
+hội	N	O
+Lim	Np	O
+","	CH	O
+khách	N	O
+du xuân	V	O
+được	V	O
+xem	V	B-EVE
+và	C	I-EVE
+nghe	V	I-EVE
+hát	V	I-EVE
+trên	E	I-EVE
+đồi	N	I-EVE
+","	CH	O
+hát	V	O
+sau	N	O
+chùa	N	O
+","	CH	O
+hát	V	O
+trên	E	O
+thuyền	N	O
+và	C	O
+hát	V	O
+trong	E	O
+các	L	O
+tư gia	N	O
+(	CH	O
+hát	V	O
+trong	E	O
+nhà	N	O
+)	CH	O
+;	CH	O
+lại	R	O
+có thể	R	O
+nghe	V	O
+hát	V	O
+đối	V	O
+từng	R	O
+cặp	N	O
+(	CH	O
+đôi nam	N	O
+","	CH	O
+đôi nữ	N	O
+)	CH	O
+","	CH	O
+hoặc	C	O
+""""	CH	O
+bọn	Nc	O
+""""	CH	O
+nam	N	O
+","	CH	O
+nữ	N	O
+.	CH	O
+Khách	N	O
+hành hương	V	O
+","	CH	O
+trẩy hội	N	O
+Lim	Np	O
+còn	R	O
+được	V	O
+xem	V	O
+nhiều	A	O
+hoạt động	N	O
+văn hoá	N	O
+truyền thống	N	O
+khác	A	O
+của	E	O
+địa phương	N	O
+","	CH	O
+hay	C	O
+tham dự	V	O
+các	L	O
+trò chơi	N	B-EVE
+đu bay	N	I-EVE
+","	CH	O
+chọi gà	N	B-EVE
+","	CH	O
+chọi	V	B-EVE
+chim	N	I-EVE
+","	CH	O
+đấu vật	N	B-EVE
+","	CH	O
+tổ tôm	V	B-EVE
+điếm	N	I-EVE
+...	CH	O
+vốn	R	O
+là	V	O
+những	L	O
+trò chơi	N	O
+của	E	O
+hội	N	O
+làng	N	O
+cổ truyền	A	O
+mà	C	O
+hội	N	O
+Lim	Np	O
+vẫn	R	O
+giữ	V	O
+lại	V	O
+như	C	O
+một	M	O
+di sản	N	O
+.	CH	O

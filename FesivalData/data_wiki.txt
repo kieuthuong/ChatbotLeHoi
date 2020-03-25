@@ -1,0 +1,822 @@
+		
+
+
+
+
+
+
+
+
+
+Hội	N	B-FES
+Gióng	Np	I-FES
+là	V	B-FHR
+một	M	I-FHR
+lễ hội	N	B-REC
+truyền thống	N	I-REC
+hàng	N	O
+năm	N	O
+ở	E	O
+nhiều	A	O
+nơi	N	O
+thuộc	V	O
+vùng	N	O
+Hà Nội	Np	O
+để	E	B-FHC
+tưởng niệm	V	B-CON
+và	C	I-CON
+ca ngợi	V	I-CON
+chiến công	N	I-CON
+của	E	I-CON
+người	N	I-CON
+anh hùng	N	I-CON
+truyền thuyết	N	I-CON
+Thánh Gióng	Np	I-CON
+","	CH	O
+một	M	O
+trong	E	O
+tứ	Nc	O
+bất tử	N	O
+của	E	O
+tín ngưỡng	N	O
+dân gian	N	O
+Việt Nam	Np	O
+.	CH	O
+		
+Có	V	O
+2	M	O
+hội	N	B-FES
+Gióng	Np	I-FES
+tiêu biểu	V	O
+ở	E	O
+Hà Nội	Np	B-LOC
+là	V	O
+hội	N	B-FES
+Gióng	Np	I-FES
+Sóc Sơn	Np	I-FES
+ở	E	B-FIL
+đền Sóc	N	B-LOC
+xã	N	I-LOC
+Phù Linh	Np	I-LOC
+","	CH	I-LOC
+huyện	N	I-LOC
+Sóc Sơn	Np	I-LOC
+và	C	O
+hội	N	B-FES
+Gióng	Np	I-FES
+Phù Đổng	Np	I-FES
+ở	E	B-FIL
+đền	N	B-LOC
+Phù Đổng	Np	I-LOC
+","	CH	I-LOC
+xã	N	I-LOC
+Phù Đổng	Np	I-LOC
+","	CH	I-LOC
+huyện	N	I-LOC
+Gia Lâm	Np	I-LOC
+đã	R	O
+được	V	O
+UNESCO	Np	B-ORG
+ghi	V	B-FHR
+danh	N	I-FHR
+là	V	B-FHR
+di sản	N	B-REC
+văn hóa	N	I-REC
+phi	Z	I-REC
+vật thể	N	I-REC
+của	E	I-REC
+nhân loại	N	I-REC
+.	CH	O
+		
+Giá trị	N	O
+nổi bật	A	O
+toàn cầu	N	O
+ở	E	O
+hội	N	O
+Gióng	Np	O
+chính	T	O
+là	V	O
+một	M	O
+hiện tượng văn hóa	N	O
+được	V	O
+bảo lưu	V	O
+","	CH	O
+trao	V	O
+truyền	V	O
+khá	R	O
+liên tục	A	O
+và	C	O
+toàn vẹn	V	O
+qua	E	O
+nhiều	A	O
+thế hệ	N	O
+.	CH	O
+		
+Mặc dù	C	O
+ở	E	O
+gần	A	O
+trung tâm	N	O
+thủ đô	N	O
+và	C	O
+đời sống	N	O
+cộng đồng	N	O
+trải	V	O
+qua	R	O
+nhiều	A	O
+biến động	N	O
+do	E	O
+chiến tranh	N	O
+","	CH	O
+do	E	O
+sự	N	O
+xâm nhập	V	O
+và	C	O
+tiếp	V	O
+biến	V	O
+văn hóa	A	O
+","	CH	O
+hội	N	B-FES
+Gióng	Np	I-FES
+vẫn	R	O
+tồn tại	V	O
+một cách	N	O
+độc lập	A	O
+và	C	O
+bền vững	A	O
+","	CH	O
+không	R	O
+bị	V	O
+nhà nước	N	O
+hóa	V	O
+","	CH	O
+thương mại hóa	N	O
+.	CH	O
+		
+Hội	N	B-FES
+Gióng	Np	I-FES
+là	V	O
+một	M	O
+lễ hội	N	O
+văn hóa	N	O
+cổ truyền	A	O
+mô phỏng	V	O
+rõ	A	O
+một cách	N	O
+sinh động	A	O
+và	C	O
+khoa học	N	O
+diễn biến	V	O
+các	L	O
+trận	N	O
+đấu	V	O
+của	E	O
+thánh Gióng	N	B-PER
+và	C	O
+nhân dân	N	O
+Văn Lang	Np	O
+với	E	O
+giặc	N	O
+Ân	Np	O
+.	CH	O
+		
+Thông qua	V	O
+đó	P	O
+có thể	R	O
+nâng	V	O
+cao	A	O
+""""	CH	O
+nhận thức	V	O
+cộng đồng	N	O
+về	E	O
+các	L	O
+hình thức	N	O
+chiến tranh	N	O
+bộ lạc	V	O
+thời	N	O
+cổ xưa	V	O
+và	C	O
+liên tưởng	V	O
+tới	E	O
+bản chất	N	O
+tất thắng	V	O
+của	E	O
+cuộc	N	O
+chiến tranh	N	O
+nhân dân	N	O
+","	CH	O
+toàn dân	N	O
+","	CH	O
+toàn diện	A	O
+trong	E	O
+sự nghiệp	N	O
+giải phóng	V	O
+và	C	O
+bảo vệ	V	O
+Tổ quốc	N	O
+""""	CH	O
+.	CH	O
+
+Hội	N	B-FES
+Gióng	Np	I-FES
+Phù Đổng	Np	I-FES
+chính thống	V	O
+được	V	O
+tổ chức	V	B-FIT
+hàng	N	B-TIM
+năm	N	I-TIM
+vào	E	I-TIM
+ba	M	I-TIM
+ngày	N	I-TIM
+mùng	V	I-TIM
+7	M	I-TIM
+","	CH	I-TIM
+mùng	N	I-TIM
+8	M	I-TIM
+và	C	I-TIM
+mùng	N	I-TIM
+9	M	I-TIM
+tháng	N	I-TIM
+4	M	I-TIM
+Âm lịch	N	I-TIM
+tại	E	B-FIL
+xã	N	B-LOC
+Phù Đổng	Np	I-LOC
+","	CH	I-LOC
+huỵện	N	I-LOC
+Gia Lâm	Np	I-LOC
+","	CH	I-LOC
+thành phố	N	I-LOC
+Hà Nội	Np	I-LOC
+","	CH	O
+nơi	N	O
+sinh	V	O
+ra	V	O
+người	N	O
+anh hùng	N	O
+huyền thoại	N	O
+""""	CH	O
+Phù Đổng Thiên Vương	Np	O
+""""	CH	O
+.	CH	O
+		
+Theo	V	O
+truyền thuyết	N	O
+","	CH	O
+xã	N	B-LOC
+Phù Linh	Np	I-LOC
+","	CH	I-LOC
+huyện	N	I-LOC
+Sóc Sơn	Np	I-LOC
+(	CH	I-LOC
+Hà Nội	Np	I-LOC
+)	CH	O
+là	V	O
+nơi	N	O
+dừng	V	O
+chân	N	O
+cuối cùng	A	O
+trước	E	O
+khi	N	O
+Thánh Gióng	Np	O
+về	V	O
+trời	T	O
+","	CH	O
+nên	C	O
+hàng	N	O
+năm	N	O
+cứ	R	O
+ngày	N	I-TIM
+mồng	N	I-TIM
+6	M	I-TIM
+tháng Giêng	N	I-TIM
+âm lịch	N	I-TIM
+","	CH	O
+dân làng	N	O
+ở	E	O
+đây	P	O
+mở	V	O
+hội	N	O
+linh đình	V	B-FIL
+tại	E	I-FIL
+Khu	N	B-LOC
+di tích	N	I-LOC
+đền Sóc	V	I-LOC
+thờ	N	I-LOC
+Thánh Gióng	Np	I-LOC
+–	CH	I-LOC
+Phù Đổng Thiên Vương	Np	I-LOC
+.	CH	O
+		
+Lễ hội	N	B-FES
+Gióng	Np	I-FES
+Sóc Sơn	Np	I-FES
+diễn	V	O
+ra	V	O
+trong	E	O
+ba	M	O
+ngày	N	O
+với	E	O
+đầy đủ	A	O
+các	L	O
+nghi lễ	N	O
+truyền thống	N	O
+như	C	O
+:	CH	O
+lễ	N	B-EVE
+khai quang	V	I-EVE
+","	CH	O
+lễ	N	B-EVE
+rước	V	I-EVE
+","	CH	O
+lễ	N	B-EVE
+dâng	V	I-EVE
+hương	N	I-EVE
+","	CH	O
+dâng	V	O
+hoa	N	O
+tre	N	O
+lên	V	O
+đền	N	B-LOC
+Thượng	Np	I-LOC
+","	CH	O
+nơi	N	O
+thờ	V	O
+Thánh Gióng	Np	B-PER
+.	CH	O
+		
+Trong	E	O
+lễ hội	N	B-FES
+đền	N	I-FES
+Gióng	Np	I-FES
+","	CH	O
+có	V	B-FHE
+tục lệ	N	O
+gọi	V	O
+là	C	O
+tục	N	B-EVE
+cướp	V	I-EVE
+lộc	N	I-EVE
+thánh	N	I-EVE
+","	CH	O
+cướp	V	O
+chiếu	N	O
+","	CH	O
+cướp	V	O
+giò	N	O
+hoa	N	O
+tre	N	O
+","	CH	O
+cướp	V	O
+trầu cau	N	O
+.	CH	O
+		
+Phó	Z	O
+trưởng	N	O
+Ban	N	O
+Tuyên giáo	N	O
+Thành ủy	N	O
+Hà Nội	Np	O
+Phan Đăng Long	Np	O
+giải thích	V	O
+","	CH	O
+“	CH	O
+Đây	P	O
+là	V	O
+cướp	N	O
+có	V	O
+văn hóa	N	O
+","	CH	O
+cướp	V	O
+trong	E	O
+tục lệ	N	O
+.	CH	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tết	N	B-FES
+Nguyên Tiêu	Np	I-FES
+(	CH	O
+Rằm	Np	B-ANN
+Tháng Giêng	Np	I-ANN
+)	CH	O
+là	V	O
+ngày	N	O
+lễ hội	M	B-REC
+cổ truyền	N	I-REC
+tại	E	I-REC
+Trung Quốc	Np	I-REC
+và	C	O
+là	V	O
+tết	N	O
+Thượng Nguyên	Np	O
+tại	E	O
+Việt Nam	Np	O
+.	CH	O
+		
+Lễ hội	V	O
+trăng	N	O
+rằm	N	O
+từ	E	B-EIT
+giữa	E	B-TIM
+đêm	N	I-TIM
+14	M	I-TIM
+(	CH	I-TIM
+đêm	N	I-TIM
+trước	E	I-TIM
+trăng	N	I-TIM
+rằm	N	I-TIM
+)	CH	I-TIM
+trọn	A	I-TIM
+ngày	N	I-TIM
+15	M	I-TIM
+(	CH	I-TIM
+ngày rằm	N	I-TIM
+)	CH	I-TIM
+cho	E	I-TIM
+đến	E	I-TIM
+nửa đêm	N	I-TIM
+15	M	I-TIM
+(	CH	I-TIM
+đêm	N	I-TIM
+trăng	N	I-TIM
+rằm	N	I-TIM
+)	CH	I-TIM
+của	E	I-TIM
+tháng	N	I-TIM
+giêng	M	I-TIM
+Âm lịch	N	I-TIM
+.	CH	O
+		
+Ở	E	O
+Việt Nam	Np	O
+","	CH	O
+ngày rằm	N	O
+Tháng Giêng	Np	O
+là	V	O
+dịp	N	O
+dân chúng	V	O
+lên	V	B-EVE
+chùa	N	I-EVE
+cúng	V	O
+sao	P	O
+giải hạn	A	O
+","	CH	O
+ước nguyện	V	B-CON
+điều	N	I-CON
+lành	A	I-CON
+","	CH	O
+tuy	C	O
+kinh điển	N	O
+nhà	N	O
+Phật	Np	O
+không	R	O
+nói	V	O
+đến	V	O
+.	CH	O
+		
+Các	L	O
+chùa	N	O
+thường	R	O
+tụng kinh	V	O
+Dược Sư	Np	O
+và	C	O
+khuyên	V	O
+các	L	O
+Phật tử	N	O
+cùng	A	O
+tụng niệm	N	O
+và	C	O
+hồi	N	O
+hướng	N	O
+công đức	N	O
+để	E	O
+thế giới	N	O
+được	V	O
+an lành	V	O
+.	CH	O
+		
+Lễ hội	N	O
+đêm	N	O
+trăng	N	O
+rằm	N	O
+hiện	N	O
+được	V	O
+nhiều	A	O
+nơi	N	O
+Việt Nam	Np	O
+khôi phục	V	O
+truyền thống	N	O
+văn hóa	N	O
+cổ	N	O
+","	CH	O
+tổ chức	V	O
+đêm	N	O
+Nguyên tiêu	V	O
+của	E	O
+Ngày	N	O
+thơ	N	O
+Việt Nam	Np	O
+","	CH	O
+hiện nay	N	O
+đã	R	O
+thành	V	O
+nếp	N	O
+thường xuyên	A	O
+ở	E	O
+nhiều	A	O
+địa phương	N	O
+.	CH	O
+		
+Đặc biệt	A	O
+ở	E	O
+những	L	O
+nơi	N	O
+có	V	O
+đông	N	O
+cộng đồng	N	O
+người	Nc	O
+Hoa	Np	O
+sinh sống	V	O
+như	C	O
+Chợ Lớn	Np	O
+","	CH	O
+Hội An	Np	O
+","	CH	O
+lễ hội	V	O
+trăng	N	O
+rằm	N	O
+có	V	O
+nhiều	A	O
+sinh hoạt	N	O
+đặc biệt	A	O
+.	CH	O
+		
+Tết	N	B-FES
+Nguyên tiêu	N	I-FES
+của	E	B-FOE
+người	N	B-ETH
+Hoa	Np	I-ETH
+ở	E	I-ETH
+Quận	Np	I-ETH
+5	M	I-ETH
+","	CH	O
+TPHCM	Np	O
+với	E	O
+phần	N	O
+lễ	N	O
+","	CH	O
+hội	N	O
+đa dạng	A	O
+","	CH	O
+đặc sắc	A	O
+và	C	O
+phong phú	A	O
+tại	E	O
+các	L	O
+Hội quán	N	O
+","	CH	O
+gia đình	N	O
+như	C	O
+:	CH	O
+các	L	O
+nghi thức	N	B-EVE
+lễ	N	I-EVE
+","	CH	O
+diễu hành	V	B-EVE
+","	CH	O
+trình diễn	V	B-EVE
+ca kịch	N	I-EVE
+cổ truyền	A	I-EVE
+","	CH	O
+múa	V	B-EVE
+lân	N	I-EVE
+sư	N	I-EVE
+rồng	N	I-EVE
+","	CH	O
+đố chữ	N	B-EVE
+","	CH	O
+thư pháp	N	B-EVE
+","	CH	O
+trình diễn âm nhạc	N	B-EVE
+(	CH	O
+Đại la	N	O
+cổ	N	O
+Triều Châu	Np	O
+","	CH	O
+Nhạc lễ	N	O
+Phúc Kiến	Np	O
+)	CH	O
+","	CH	O
+đốt	V	B-EVE
+nhang	N	I-EVE
+vòng	N	I-EVE
+","	CH	O
+dán	V	B-EVE
+giấy	N	O
+cầu an	V	O
+","	CH	O
+lì xì	N	B-EVE
+","	CH	O
+dâng	V	B-EVE
+dầu đèn	N	I-EVE
+","	CH	O
+chui	V	B-EVE
+bụng	N	I-EVE
+ngựa	N	I-EVE
+...	CH	O
+đã	R	O
+được	V	B-RBO
+Bộ Văn hóa	V	B-ORG
+-	CH	I-ORG
+Thể thao	N	I-ORG
+và	C	I-ORG
+Du lịch	V	I-ORG
+Việt Nam	Np	I-ORG
+đưa	V	O
+vào	E	O
+danh mục	V	O
+Di sản	N	B-REC
+văn hóa	N	I-REC
+phi	Z	I-REC
+vật thể	N	I-REC
+quốc gia	N	I-REC
+từ	E	O
+năm	N	O
+2020	M	O
+.	CH	O
+
+
+
+	
+
+
+
+
+
+
+
+Đền Kiếp Bạc	Np	B-FAM
+thuộc	V	O
+địa phận	N	O
+hai	M	O
+thôn	N	B-LOC
+Dược Sơn	Np	I-LOC
+và	C	I-LOC
+Vạn Kiếp	Np	I-LOC
+","	CH	I-LOC
+xã	N	I-LOC
+Hưng Đạo	Np	I-LOC
+","	CH	I-LOC
+thành phố	N	I-LOC
+Chí Linh	Np	I-LOC
+","	CH	I-LOC
+tỉnh	N	I-LOC
+Hải Dương	Np	I-LOC
+","	CH	I-LOC
+Việt Nam	Np	I-LOC
+;	CH	O
+là	V	O
+nơi	N	O
+thờ phụng	V	B-CON
+Hưng Đạo	Np	I-CON
+Đại Vương	Np	I-CON
+Trần Quốc Tuấn	Np	I-CON
+.	CH	O
+		
+Đây	P	B-AHC
+là	V	I-AHC
+di tích	N	B-CER
+quan trọng	A	I-CER
+thuộc	V	I-CER
+khu	N	I-CER
+di tích	N	I-CER
+Côn Sơn	Np	I-CER
+-	CH	I-CER
+Kiếp Bạc	Np	I-CER
+.	CH	O
+		
+Lễ hội	N	O
+chính	T	O
+tổ chức	V	B-FIT
+từ	E	B-TIM
+ngày	N	I-TIM
+15	M	I-TIM
+đến	E	I-TIM
+ngày	N	I-TIM
+20	M	I-TIM
+tháng	N	I-TIM
+8	M	I-TIM
+âm lịch	N	I-TIM
+","	CH	O
+ngoài ra	X	O
+đầu	N	O
+xuân	N	O
+cũng	R	O
+có	V	O
+các	L	O
+hoạt động	N	O
+lễ hội	V	O
+ở	E	O
+đây	P	O
+.	CH	O
+		
+Do	V	O
+tính chất	N	O
+địa lý	N	O
+(	CH	O
+gần	A	O
+chùa	N	O
+Côn Sơn	Np	O
+)	CH	O
+và	C	O
+lịch sử	N	O
+","	CH	O
+lễ hội	N	B-FES
+Côn Sơn	Np	I-FES
+(	CH	O
+gắn	V	B-FHP
+liền	R	I-FHP
+với	E	I-FHP
+Nguyễn Trãi	Np	B-PER
+)	CH	O
+và	C	O
+lễ hội	V	B-FES
+đền Kiếp Bạc	N	I-FES
+(	CH	O
+gắn	V	B-FHP
+liền	R	I-FHP
+với	E	I-FHP
+Trần Hưng Đạo	Np	B-PER
+)	CH	O
+thường	R	O
+được	V	O
+tổ chức	V	O
+trùng	V	O
+nhau	N	O
+để	E	B-FHC
+nhân dân	N	O
+tưởng nhớ	V	B-CON
+tới	E	I-CON
+hai	M	I-CON
+vị	Nc	I-CON
+anh hùng	N	I-CON
+dân tộc	N	I-CON
+.	CH	O
+		
+Ngoài ra	X	O
+","	CH	O
+tại	E	O
+đền	N	O
+Kiếp Bạc	Np	O
+vào	E	O
+năm	N	O
+2006	M	O
+","	CH	O
+chính quyền	N	O
+chính thức	A	O
+công nhận	V	O
+hình thức	N	O
+sinh hoạt	V	O
+tín ngưỡng	V	O
+lên	V	O
+đồng	N	O
+.	CH	O
+		
+Những	L	O
+người	Nc	O
+theo	V	O
+tín ngưỡng	N	O
+lên	V	O
+đồng	N	O
+thờ	N	O
+Thánh	Np	O
+Trần	Np	O
+được	R	O
+gọi là	X	O
+Thanh đồng	V	O
+.	CH	O
+		
+Hiện nay	N	O
+lên đồng	N	O
+Trần triều	V	O
+diễn	V	O
+ra	V	O
+thường xuyên	A	O
+tại	E	B-FIL
+đền	N	B-LOC
+Kiếp Bạc	Np	I-LOC
+.	CH	O
+	

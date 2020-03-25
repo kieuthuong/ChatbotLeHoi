@@ -1,0 +1,397 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#"
+     xml:base="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:untitled-ontology-5="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#coHoatDong -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#coHoatDong">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#lễ_hội"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoạt_động"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#congNhanBoi -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#congNhanBoi">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#danh_hiệu"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tổ_chức"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#duocCongNhan -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#duocCongNhan">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#lễ_hội"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#danh_hiệu"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#nhacDen -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#nhacDen">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#lễ_hội"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#nhân_vật"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#nhamHuongDen -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#nhamHuongDen">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#lễ_hội"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mục_đích"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#toChucONoiCo -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#toChucONoiCo">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#lễ_hội"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#danh_lam"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#toChucTai -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#toChucTai">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#lễ_hội"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#địa_điểm"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#dacDiemVeDanhLam -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#dacDiemVeDanhLam">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#danh_lam"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#lichSu -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#lichSu">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#lễ_hội"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#linkChiTiet -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#linkChiTiet">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#lễ_hội"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#noiDungMucDich -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#noiDungMucDich">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mục_đích"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tenDanToc -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tenDanToc">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#dân_tộc"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tenDanhHieu -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tenDanhHieu">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#danh_hiệu"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tenDanhLam -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tenDanhLam">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#danh_lam"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tenDiaDiem -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tenDiaDiem">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#địa_điểm"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tenHoatDong -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tenHoatDong">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoạt_động"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tenKhac -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tenKhac">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#lễ_hội"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tenLeHoi -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tenLeHoi">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#lễ_hội"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tenNhanVat -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tenNhanVat">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#nhân_vật"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tenToChuc -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tenToChuc">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tổ_chức"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tenTonGiao -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tenTonGiao">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tôn_giáo"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#thoiGianToChuc -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#thoiGianToChuc">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#lễ_hội"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#danh_hiệu -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#danh_hiệu">
+        <rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">danh hiệu</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#danh_lam -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#danh_lam">
+        <rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">danh lam</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#dân_tộc -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#dân_tộc">
+        <rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">dân tộc</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoạt_động -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoạt_động"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoạt_động_lịch_sử -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoạt_động_lịch_sử">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoạt_động"/>
+        <rdfs:label>hoạt động lịch sử</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoạt_động_tham_quan -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoạt_động_tham_quan">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoạt_động"/>
+        <rdfs:label>hoạt động tham quan</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoạt_động_tín_ngưỡng -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoạt_động_tín_ngưỡng">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoạt_động"/>
+        <rdfs:label>hoạt động tín ngưỡng</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoạt_động_vui_chơi -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoạt_động_vui_chơi">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoạt_động"/>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoạt_động_văn_hóa_dân_gian -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoạt_động_văn_hóa_dân_gian">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoạt_động"/>
+        <rdfs:label>hoạt động văn hóa dân gian</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#lễ_hội -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#lễ_hội">
+        <rdfs:label>lễ hội</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mục_đích -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mục_đích">
+        <rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">mục đích</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mục_đích_quảng_bá -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mục_đích_quảng_bá">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mục_đích"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">mục đích quảng bá</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mục_đích_tâm_linh -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mục_đích_tâm_linh">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mục_đích"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">mục đích tâm linh</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mục_đích_tưởng_nhớ -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mục_đích_tưởng_nhớ">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mục_đích"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">mục đích tưởng nhớ</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#nhân_vật -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#nhân_vật">
+        <rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">nhân vật</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tôn_giáo -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tôn_giáo">
+        <rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">tôn giáo</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tổ_chức -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tổ_chức">
+        <rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">tổ chức</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#địa_điểm -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#địa_điểm">
+        <rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">địa điểm</rdfs:label>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
