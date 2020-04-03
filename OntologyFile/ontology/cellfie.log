@@ -1,0 +1,2366 @@
+Date: 2020-04-03 15:17:30
+Ontology source: /C:/Users/admin/Downloads/Programs/DATN/OntologyFile/save_ver1.owl
+Worksheet source: C:\Users\admin\Downloads\Programs\DATN\OntologyFile\rec.xlsx
+Transformation rules: C:\Users\admin\Downloads\Programs\DATN\OntologyFile\RuleRec.json
+
+# Cell range: (rec!A2:AH+) Comment: ""
+# Individual: @E*
+#    Types: 'toChuc'
+#     Facts: 
+#           tenToChuc@D*
+
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+Individual: O0  # Generated from value "O0" located at cell 'rec'!E12.
+   Facts: tenToChuc "Bộ Văn hóa , Thể thao và Du lịch Việt Nam"  # Generated from value "Bộ Văn hóa , Thể thao và Du lịch Việt Nam" located at cell 'rec'!D12.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E13.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D13.
+   Types: 'toChuc'
+Individual: O4  # Generated from value "O4" located at cell 'rec'!E14.
+   Facts: tenToChuc "các triều đại phong kiến"  # Generated from value "các triều đại phong kiến" located at cell 'rec'!D14.
+   Types: 'toChuc'
+Individual: O3  # Generated from value "O3" located at cell 'rec'!E24.
+   Facts: tenToChuc "Bộ trưởng Bộ VHTTDL"  # Generated from value "Bộ trưởng Bộ VHTTDL" located at cell 'rec'!D24.
+   Types: 'toChuc'
+Individual: O2  # Generated from value "O2" located at cell 'rec'!E33.
+   Facts: tenToChuc "Thủ tướng chính phủ"  # Generated from value "Thủ tướng chính phủ" located at cell 'rec'!D33.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E52.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D52.
+   Types: 'toChuc'
+Individual: O1  # Generated from value "O1" located at cell 'rec'!E63.
+   Facts: tenToChuc "UNESCO"  # Generated from value "UNESCO" located at cell 'rec'!D63.
+   Types: 'toChuc'
+
+# Cell range: (rec!A2:AH+) Comment: ""
+# Individual: @C*
+#    Types:'danhHieu'
+#     Facts: 
+#           congNhanBoi@E*
+
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+Individual: RE5  # Generated from value "RE5" located at cell 'rec'!C8.
+
+   Types: 'danhHieu'
+Individual: RE1  # Generated from value "RE1" located at cell 'rec'!C10.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C12.
+   Facts: congNhanBoi "O0"  # Generated from value "O0" located at cell 'rec'!E12.
+   Types: 'danhHieu'
+Individual: RE11  # Generated from value "RE11" located at cell 'rec'!C13.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E13.
+   Types: 'danhHieu'
+Individual: RE3  # Generated from value "RE3" located at cell 'rec'!C14.
+   Facts: congNhanBoi "O4"  # Generated from value "O4" located at cell 'rec'!E14.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C24.
+   Facts: congNhanBoi "O3"  # Generated from value "O3" located at cell 'rec'!E24.
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C25.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C26.
+
+   Types: 'danhHieu'
+Individual: RE0  # Generated from value "RE0" located at cell 'rec'!C32.
+
+   Types: 'danhHieu'
+Individual: RE6  # Generated from value "RE6" located at cell 'rec'!C33.
+   Facts: congNhanBoi "O2"  # Generated from value "O2" located at cell 'rec'!E33.
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C34.
+
+   Types: 'danhHieu'
+Individual: RE8  # Generated from value "RE8" located at cell 'rec'!C39.
+
+   Types: 'danhHieu'
+Individual: RE2  # Generated from value "RE2" located at cell 'rec'!C40.
+
+   Types: 'danhHieu'
+Individual: RE9  # Generated from value "RE9" located at cell 'rec'!C44.
+
+   Types: 'danhHieu'
+Individual: RE10  # Generated from value "RE10" located at cell 'rec'!C52.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E52.
+   Types: 'danhHieu'
+Individual: RE4  # Generated from value "RE4" located at cell 'rec'!C63.
+   Facts: congNhanBoi "O1"  # Generated from value "O1" located at cell 'rec'!E63.
+   Types: 'danhHieu'
+
+===========================================================================================================

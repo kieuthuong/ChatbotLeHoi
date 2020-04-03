@@ -17,8 +17,17 @@ class QuotesSpider(scrapy.Spider):
 		strContent = '|'.join(content)
 		nameFile = strName.lstrip()+'.txt'
 		text = strContent.replace('\n','').replace('|','').encode('utf-8')
+		link = response.url.encode("utf-8")
 		f = open('76lehoi_maxreading/'+nameFile,'wb')
 		f.write(text)
 		f.close()
+		#ghi link cac le hoi
+		# nameFileLink = 'link76Lehoi.txt'
+		# f = open(nameFileLink,'ab+')
+		# f.write(strName.encode('utf-8'))
+		# f.write('\t'.encode('utf-8'))
+		# f.write(link)
+		# f.write('\n'.encode('utf-8'))
+		# f.close()
 				
 			

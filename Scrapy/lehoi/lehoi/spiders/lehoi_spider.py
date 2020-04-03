@@ -16,11 +16,21 @@ class QuotesSpider(scrapy.Spider):
 			link = "https://vi.wikipedia.org" + festival.xpath('string(td[3]/a/@href)').extract_first()
 			
 
-			print("Vi Tri :" + viTri)
-			print("Ten Le Hoi"+tenLeHoi)
-			print("Lan Dau To Chuc"+lanDauToChuc)
-			print("Ghi Chu"+ghiChu)
+			# print("Vi Tri :" + viTri)
+			# print("Ten Le Hoi"+tenLeHoi)
+			# print("Lan Dau To Chuc"+lanDauToChuc)
+			# print("Ghi Chu"+ghiChu)
 			print("link"+link)
+			nameFile = 'link.txt'
+			nameFes = tenLeHoi.encode('utf-8')
+			
+			text = link.encode('utf-8')
+			f = open(nameFile,'ab+')
+			f.write(nameFes)
+			f.write('\t'.encode('utf-8'))
+			f.write('\n'.encode('utf-8'))
+			f.write(text)
+			f.close()
 			# if link is not None:
 			# 	yield scrapy.Request(link, callback=self.saveFile)
 			# else:
@@ -34,4 +44,6 @@ class QuotesSpider(scrapy.Spider):
 		noiDung = response.xpath('string(//*[@id="mw-content-text"]/div/p[1])').extract_first()
 		if noiDung is not None:
 			print("THUONG6"+noiDung)
+		
+				
 				
