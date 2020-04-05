@@ -1,0 +1,1 @@
+{"Collections":[{"sheetName":"savLinkFes","startColumn":"A","endColumn":"D","startRow":"2","endRow":"+","comment":"","rule":"Individual: @C*\n   Types:\u0027leHoi\u0027\n    Facts: \n          linkChiTiet@D*","active":true}]}

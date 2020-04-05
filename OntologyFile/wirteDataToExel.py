@@ -7,7 +7,7 @@ class Data:
         print(self.text + " - " + self.label)
 
 import pandas as pd
-df = pd.read_csv('../FesivalData/output/dataFromWiki.csv', encoding='utf-16', header=None, sep='\t')
+df = pd.read_csv('../FesivalData/output/DATA.csv', encoding='utf-16', header=None, sep='\t')
 numData = len(df)
 
 listTexts = []
@@ -111,7 +111,7 @@ for fes in results:
     data.append(list) 
 
 
-# print("Có: ",len(data)," lễ hội.")
+print("Có: ",len(data)," lễ hội.")
 # for d in data:    
 #     print(d['FES'])
 #     print(d['REC'])
@@ -187,11 +187,23 @@ df['REC'] = x1
 df['IdREC'] = x3
 df['ORG'] = x2
 df['IdORG'] = x4
-df.to_csv('rec.csv', encoding='utf-16',index='true',sep='\t')
+df.to_csv('saveRec.csv', encoding='utf-16',index='true',sep='\t')
 
+#file link lehoi
+x5=[]
+x6=[]
+for x in data:
+  x5.append(x.get('FES',[]))
+  x6.append('F'+setIdForStr(data,'FES',x.get('FES',[])))
+import pandas as pd
+df1 = pd.DataFrame(None)
+df1['FES'] = x5
+df1['IdFES'] = x6
+df1.to_csv('savLinkFes.csv', encoding='utf-16',index='true',sep='\t')
+
+#file fesival
 import csv
-
-with open('name.csv','w', newline='',encoding='utf-16') as csvfile:
+with open('saveAllFes.csv','w', newline='',encoding='utf-16') as csvfile:
     fieldnames = ["Mã lễ hội","Tên lễ hội","Địa điểm","Mã LOC","Thời gian","Tên gọi khác",
                 "Lịch sử hình thành","Hoạt động vui chơi","Mã AC1","Hoạt động du lịch","Mã AC2",
                 "Hoạt động mang tính lịch sử","Mã AC3","Hoạt động tín ngưỡng","Mã AC4",

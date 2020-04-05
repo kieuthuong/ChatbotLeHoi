@@ -7,7 +7,7 @@ class Data:
         print(self.text + " - " + self.label)
 
 import pandas as pd
-df = pd.read_csv('../FesivalData/output/dataFromWiki.csv', encoding='utf-16', header=None, sep='\t')
+df = pd.read_csv('../FesivalData/output/DATA.csv', encoding='utf-16', header=None, sep='\t')
 numData = len(df)
 
 listTexts = []
@@ -111,7 +111,7 @@ for fes in results:
     data.append(list) 
 
 
-# print("Có: ",len(data)," lễ hội.")
+print("Có: ",len(data)," lễ hội.")
 # for d in data:    
 #     print(d['FES'])
 #     print(d['REC'])
@@ -126,10 +126,12 @@ def setIdForList(dataInput,object,value):
     for x in dataInput:
         a += x.get(object,[])
     a=set(a) #xoa phan tu trung
+
     id_dict = {}
+    
     for index, i in enumerate(a):
-        id_dict[i] = index
-        if i==value:
+        id_dict[i.lower()] = index
+        if i.lower()==value.lower():
             return str(index)  
                 
 def setIdForStr(dataInput,object,value):
@@ -139,9 +141,9 @@ def setIdForStr(dataInput,object,value):
     a=set(a) #xoa phan tu trung
     id_dict = {}
     for index, i in enumerate(a):
-        id_dict[i] = index
-        if i==value:
-            return str(index) 
+        id_dict[i.lower()] = index
+        if i.lower()==value.lower():
+            return str(index)
 
 #wirte to csv
 #file rec.csv
@@ -185,11 +187,23 @@ df['REC'] = x1
 df['IdREC'] = x3
 df['ORG'] = x2
 df['IdORG'] = x4
-df.to_csv('rec.csv', encoding='utf-16',index='true',sep='\t')
+df.to_csv('saveRec.csv', encoding='utf-16',index='true',sep='\t')
 
+#file link lehoi
+x5=[]
+x6=[]
+for x in data:
+  x5.append(x.get('FES',[]))
+  x6.append('F'+setIdForStr(data,'FES',x.get('FES',[])))
+import pandas as pd
+df1 = pd.DataFrame(None)
+df1['FES'] = x5
+df1['IdFES'] = x6
+df1.to_csv('savLinkFes.csv', encoding='utf-16',index='true',sep='\t')
+
+#file fesival
 import csv
-
-with open('name.csv','w', newline='',encoding='utf-16') as csvfile:
+with open('saveAllFes.csv','w', newline='',encoding='utf-16') as csvfile:
     fieldnames = ["Mã lễ hội","Tên lễ hội","Địa điểm","Mã LOC","Thời gian","Tên gọi khác",
                 "Lịch sử hình thành","Hoạt động vui chơi","Mã AC1","Hoạt động du lịch","Mã AC2",
                 "Hoạt động mang tính lịch sử","Mã AC3","Hoạt động tín ngưỡng","Mã AC4",
@@ -200,10 +214,8 @@ with open('name.csv','w', newline='',encoding='utf-16') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames,delimiter='\t')
     writer.writeheader()
     fes=[]
-    
-    for x in data :
+    for x in data:
         fes = x.get('FES',[])
-    
         for i in x.get('LOC',[]):
             writer.writerow({'Mã lễ hội':"F"+setIdForStr(data,'FES',fes),'Tên lễ hội':fes,'Địa điểm':i,
                                                                     'Mã LOC':"L"+setIdForList(data,'LOC',i),'Thời gian':"",'Tên gọi khác':"",
