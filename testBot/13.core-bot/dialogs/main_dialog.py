@@ -11,11 +11,10 @@ from botbuilder.dialogs.prompts import TextPrompt, PromptOptions
 from botbuilder.core import MessageFactory, TurnContext
 from botbuilder.schema import InputHints
 
-from booking_details import BookingDetails
+from booking_details import BookingDetails, LeHoiDetails
 from flight_booking_recognizer import FlightBookingRecognizer
 from helpers.luis_helper import LuisHelper, Intent
 from .booking_dialog import BookingDialog
-
 
 class MainDialog(ComponentDialog):
     def __init__(
@@ -74,6 +73,7 @@ class MainDialog(ComponentDialog):
 
         if intent == Intent.BOOK_FLIGHT.value and luis_result:
             # Show a warning for Origin and Destination if we can't resolve them.
+            print(luis_result)
             await MainDialog._show_warning_for_unsupported_cities(
                 step_context.context, luis_result
             )
@@ -87,6 +87,49 @@ class MainDialog(ComponentDialog):
                 get_weather_text, get_weather_text, InputHints.ignoring_input
             )
             await step_context.context.send_activity(get_weather_message)
+
+        if intent == Intent.TIMLEHOI.value:
+            
+            import rdfextras
+            rdfextras.registerplugins()
+            filename = "fesivalVietNam.owl" 
+            import rdflib
+            g = rdflib.Graph()
+
+            result = g.parse(filename, format='xml')
+            print(result)
+            query = """
+            PREFIX owl: <http://www.w3.org/2002/07/owl#>    
+            PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>   
+            PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>    
+            PREFIX xml: <http://www.w3.org/XML/1998/namespace>  
+            PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+            PREFIX :<http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#> 
+            SELECT ?name  ?nloc
+            WHERE 
+            { 
+            ?x :tenLeHoi ?name.
+            {
+            ?x :toChucTai ?loc.
+            {
+            ?loc :tenDiaDiem ?nloc
+            FILTER( regex(?nloc,"abc","i") ) 
+            }
+            }
+            }
+            """
+            query=query.replace("abc",luis_result.diaDiem)
+            get_weather_text = " "
+            for row in g.query(query):
+                print(repr(row))
+                print(type(row))
+            for row in g.query(query):
+                print("%s tổ chức tại: %s" % row)
+                get_weather_text = "%s tổ chức tại: %s" % row+'\n'
+                get_weather_message = MessageFactory.text(
+                    get_weather_text, get_weather_text, InputHints.ignoring_input
+                )
+                await step_context.context.send_activity(get_weather_message)
 
         else:
             didnt_understand_text = (

@@ -16,3 +16,10 @@ class BookingDetails:
         self.origin = origin
         self.travel_date = travel_date
         self.unsupported_airports = unsupported_airports
+
+class LeHoiDetails:
+      def __init__(
+        self,
+        diaDiem: str = None,
+    ):
+        self.diaDiem = diaDiem 

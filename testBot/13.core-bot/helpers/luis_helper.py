@@ -5,7 +5,7 @@ from typing import Dict
 from botbuilder.ai.luis import LuisRecognizer
 from botbuilder.core import IntentScore, TopIntent, TurnContext
 
-from booking_details import BookingDetails
+from booking_details import BookingDetails, LeHoiDetails
 
 
 class Intent(Enum):
@@ -13,6 +13,7 @@ class Intent(Enum):
     CANCEL = "Cancel"
     GET_WEATHER = "GetWeather"
     NONE_INTENT = "NoneIntent"
+    TIMLEHOI = "timLeHoi"
 
 
 def top_intent(intents: Dict[Intent, dict]) -> TopIntent:
@@ -92,11 +93,14 @@ class LuisHelper:
                         datetime = timex[0].split("T")[0]
 
                         result.travel_date = datetime
-
                 else:
                     result.travel_date = None
 
+            if intent == Intent.TIMLEHOI.value:
+                result = LeHoiDetails()
+                result.diaDiem = recognizer_result.entities.get("$instance", {}).get("diaDiem", [])[0]['text'].capitalize()
+        
         except Exception as exception:
             print(exception)
-
+        print(result)
         return intent, result
