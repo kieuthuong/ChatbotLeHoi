@@ -325,6 +325,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDong"/>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:Class>
     
 
@@ -399,6 +400,9 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA0">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tung còn</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi của người dân tộc</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -408,6 +412,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA1">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tổ tôm điếm</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -417,6 +423,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA10">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">đánh Phết</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -426,6 +434,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA100">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cuộc thi tài</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -435,6 +444,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA101">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cung nỏ</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi của người dân tộc</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -444,6 +455,9 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA102">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">môn Đua thuyền</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -453,6 +467,9 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA103">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">đua ngựa truyền thống</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -462,6 +479,9 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA104">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">đua trải</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -471,6 +491,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA105">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">đấu cờ người</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -480,6 +502,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA106">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">múa hát</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -489,6 +512,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA107">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bơi thuyền</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -498,6 +523,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA108">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">đua Ghe mo</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -516,6 +543,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA11">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">võ vật</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -525,6 +554,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA110">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ðua thuyền</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -534,6 +565,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA111">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thi đi cà kheo</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -543,6 +576,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA112">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thi dệt vải</tenHoatDong>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -552,6 +586,9 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA113">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tục bơi trải</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -561,6 +598,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA114">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thi bắn súng hỏa mai</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -570,6 +609,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA115">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hái đào tiên</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -579,6 +619,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA116">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">chơi cờ phạ</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -588,6 +630,9 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA117">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bắn cung</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi của người dân tộc</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -597,6 +642,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA12">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nấu cơm</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -606,6 +653,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA13">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">các hoạt động thể thao</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -615,6 +664,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA14">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nhiều trò vui</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -624,6 +674,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA15">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">chợ đêm Cổng Đình</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -633,6 +684,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA16">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tranh tài</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -642,6 +695,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA17">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trò chơi truyền thống</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trò chơi truyền thống</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -651,6 +706,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA18">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thi trâu béo</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -660,6 +717,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA19">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dập úp cá</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -669,6 +728,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA2">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hội đua thúng lắc</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -678,6 +739,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA20">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">múa rồng</tenHoatDong>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
+        <rdfs:label>văn hóa dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -687,6 +750,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA21">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hội cướp đầu pháo</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -696,6 +761,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA22">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hội thi nấu ăn chay</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -705,6 +772,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA23">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">chồng tháp</tenHoatDong>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -714,6 +782,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA24">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hội đua bò</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -723,6 +793,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA25">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ca hát</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -732,6 +803,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA26">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mở hội linh đình</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -741,6 +813,9 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA27">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">múa lân</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
+        <rdfs:label>văn hóa dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -750,6 +825,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA28">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">đốt đèn trời</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -759,6 +836,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA29">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cờ người</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -768,6 +847,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA3">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trò chơi cướp đầu pháo</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -777,6 +858,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA30">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thi tài thể thao</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -786,6 +869,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA31">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">chọi gà</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -795,6 +880,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA32">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cuộc thi vật</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -804,6 +891,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA33">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vật võ</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -813,6 +902,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA34">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">đẩy gậy</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -822,6 +913,9 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA35">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thi cờ</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -831,6 +925,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA36">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hoạt động vui chơi</tenHoatDong>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -840,6 +935,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA37">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thi giã Bánh giầy</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -849,6 +946,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA38">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngắm trăng phá cỗ</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -858,6 +956,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA39">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">chợ quê ngày hội</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -867,6 +966,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA4">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cuộc thi làm bánh giầy</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -876,6 +977,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA40">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hoạt động văn hoá thể thao</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -885,6 +988,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA41">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Đua thuyền thúng</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -894,6 +999,9 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA42">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trò chơi đua thuyền</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -903,6 +1011,9 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA43">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Đua thuyền rồng</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -912,6 +1023,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA44">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">triển lãm</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -921,6 +1033,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA45">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hội thi</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -930,6 +1043,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA46">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thi dệt cửi</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -939,6 +1054,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA47">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trò chơi</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -949,6 +1065,7 @@
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hội chợ</tenHoatDong>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hội chợ</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -958,6 +1075,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA49">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ném cầu giỏ</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -967,6 +1086,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA5">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thi tay nghề</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -976,6 +1097,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA50">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kéo lửa nấu cơm</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -985,6 +1108,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA51">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trò dân gian</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -994,6 +1119,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA53">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">đánh đáo đá</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1004,6 +1131,8 @@
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bơi lội</tenHoatDong>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bơi lội</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1013,6 +1142,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA55">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trông trăng</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1023,6 +1153,9 @@
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ném Còn</tenHoatDong>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ném còn</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi của người dân tộc</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1032,6 +1165,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA57">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thể thao</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1041,6 +1176,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA58">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">chơi cờ người</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1050,6 +1187,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA59">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thi làm cỗ</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1059,6 +1198,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA6">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thả diều</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1068,6 +1208,9 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA60">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Đua thuyền chài</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1077,6 +1220,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA61">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trò chơi phục vụ nhu cầu</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1086,6 +1230,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA62">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">đánh quay lửa</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1095,6 +1241,9 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA63">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">đấu võ</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1104,6 +1253,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA64">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bắt lợn lấy thưởng</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1113,6 +1264,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA65">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">đấu cờ</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1122,6 +1275,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA67">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thổi cơm thi</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1131,6 +1286,9 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA68">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hội đua thuyền</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1140,6 +1298,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA69">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bày cỗ</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1149,6 +1308,9 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA7">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cuộc đua thuyền</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1158,6 +1320,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA71">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thổi kèn</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1167,6 +1330,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA72">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ hội biển</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1176,6 +1340,9 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA73">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thi đấu côn , quyền</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1185,6 +1352,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA74">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">đánh cờ người</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1194,6 +1363,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA75">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">chơi diều</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1203,6 +1373,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA76">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hội thi pha chế cà phê</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1212,6 +1383,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA77">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thi bắn nỏ</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1221,6 +1394,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA78">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">đu quay</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1230,6 +1404,9 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA79">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tổ chức đua thuyền</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1239,6 +1416,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA8">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thi đấu thể thao</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1248,6 +1427,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA80">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">kéo quân</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1257,6 +1438,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA81">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">đu tiên</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1266,6 +1449,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA82">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">đi cà kheo</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1275,6 +1460,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA83">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội nhảy lửa</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1284,6 +1471,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA84">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trò chơi dân gian</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1293,6 +1482,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA85">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">chọi trâu</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1302,6 +1493,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA86">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hoạt động văn hóa</tenHoatDong>
+        <rdfs:label></rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1311,6 +1503,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA87">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trò đu dây</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1320,6 +1514,9 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA88">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">đấu vật</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1330,6 +1527,9 @@
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bơi Trải</tenHoatDong>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bơi trải</tenHoatDong>
+        <rdfs:label>hoạt động thể thao</rdfs:label>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1339,6 +1539,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA90">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">biểu diễn văn nghệ</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1348,6 +1549,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA91">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trò chơi kéo co truyền thống</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1357,6 +1560,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA92">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">đốt ông lói</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1366,6 +1571,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA93">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">kéo co nam , nữ</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1375,6 +1582,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA94">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hội đánh cá</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1384,6 +1593,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA95">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">chơi đu</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1393,6 +1604,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA96">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thi kéo co</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1402,6 +1615,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA97">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">kéo co</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1411,6 +1626,9 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA98">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trò chơi Bình Ngô phá trận</tenHoatDong>
+        <rdfs:label>hoạt động vui chơi</rdfs:label>
+        <rdfs:label>sự kiện lịch sử</rdfs:label>
+        <rdfs:label>trò chơi dân gian</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6908,10 +7126,6 @@
         <toChucONoiCo rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#FA47"/>
         <toChucONoiCo rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#FA49"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L131"/>
-        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L155"/>
-        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L165"/>
-        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L49"/>
-        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L66"/>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/L%E1%BB%85_h%E1%BB%99i_mi%E1%BA%BFu_B%C3%A0_Ch%C3%BAa_X%E1%BB%A9</linkChiTiet>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/an-giang-le-hoi-ba-chua-xu-3260.html</linkChiTiet>
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ Vía Bà</tenKhac>
@@ -6931,6 +7145,7 @@
         <coHoatDong rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA86"/>
         <nhamHuongDen rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA42"/>
         <nhamHuongDen rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA8"/>
+        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L151"/>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/L%E1%BB%85_h%E1%BB%99i_Hoa_Ph%C6%B0%E1%BB%A3ng_%C4%91%E1%BB%8F</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội Hoa Phượng đỏ Hải Phòng</tenLeHoi>
     </owl:NamedIndividual>
@@ -7019,12 +7234,9 @@
         <nhamHuongDen rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB105"/>
         <nhamHuongDen rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB17"/>
         <nhamHuongDen rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB91"/>
-        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L115"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L118"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L30"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L31"/>
-        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L66"/>
-        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L79"/>
         <lichSu rdf:datatype="http://www.w3.org/2001/XMLSchema#string">đã trở thành truyền thống hàng năm</lichSu>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/long-an-le-hoi-lam-chay-o-tam-vu-3307.html</linkChiTiet>
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội làm trai</tenKhac>
@@ -7174,6 +7386,7 @@
         <coHoatDong rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AD51"/>
         <coHoatDong rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AE106"/>
         <coHoatDong rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AE70"/>
+        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L120"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L38"/>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/L%E1%BB%85_h%E1%BB%99i_%C4%91%E1%BA%A7m_%C3%94_Loan</linkChiTiet>
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ cúng cá Ông</tenKhac>
@@ -7362,7 +7575,6 @@
         <coHoatDong rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AE86"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L114"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L54"/>
-        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L75"/>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/H%E1%BB%99i_Lim</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hội Lim</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày 13 tháng giêng hàng năm</thoiGianToChuc>
@@ -7433,7 +7645,6 @@
         <nhamHuongDen rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA46"/>
         <nhamHuongDen rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB57"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L129"/>
-        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L49"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L51"/>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/soc-trang-le-cung-dua-3325.html</linkChiTiet>
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ Cúng dừa Sóc Trăng</tenKhac>
@@ -7665,7 +7876,6 @@
         <coHoatDong rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AE5"/>
         <cuaDanToc rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#E26"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L112"/>
-        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L136"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L163"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L5"/>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/lao-cai-le-hoi-trum-chan-3306.html</linkChiTiet>
@@ -7885,7 +8095,6 @@
         <toChucONoiCo rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#FA30"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L123"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L139"/>
-        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L72"/>
         <lichSu rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ hội cổ truyền</lichSu>
         <lichSu rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày hội cổ truyền</lichSu>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/L%E1%BB%85_h%E1%BB%99i_%C4%91ua_voi</linkChiTiet>
@@ -8177,9 +8386,6 @@
         <nhamHuongDen rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB80"/>
         <toChucONoiCo rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#FA0"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L14"/>
-        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L161"/>
-        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L166"/>
-        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L7"/>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/ha-noi-le-hoi-lang-trieu-khuc-3295.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội làng Triều Khúc</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">từ mùng 10 đến 12 tháng giêng âm lịch</thoiGianToChuc>
@@ -8273,8 +8479,6 @@
         <coHoatDong rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AD188"/>
         <coHoatDong rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AD34"/>
         <nhamHuongDen rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AC15"/>
-        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L6"/>
-        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L95"/>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/T%E1%BA%BFt_H%C3%A0n_th%E1%BB%B1c</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tết Hàn Thực</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày mồng 3 tháng 3 Âm lịch</thoiGianToChuc>
@@ -8480,7 +8684,6 @@
         <cuaDanToc rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#E28"/>
         <toChucONoiCo rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#FA44"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L162"/>
-        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L171"/>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/bac-can-le-hoi-mua-xuan-ho-ba-be-3266.html</linkChiTiet>
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ hội mùa xuân Hồ Ba Bể</tenKhac>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội Hồ Ba Bể</tenLeHoi>
@@ -8516,10 +8719,8 @@
         <nhacDen rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#P5"/>
         <nhacDen rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#P7"/>
         <toChucONoiCo rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#FA10"/>
-        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L124"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L140"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L166"/>
-        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L64"/>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/ha-tay-le-hoi-chua-thay-3297.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hội chùa Thầy</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">từ ngày mùng 5 đến ngày mùng 7 tháng ba Âm lịch hàng năm</thoiGianToChuc>
@@ -8537,7 +8738,6 @@
         <nhamHuongDen rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB73"/>
         <nhamHuongDen rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB82"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L128"/>
-        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L170"/>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/L%E1%BB%85_h%E1%BB%99i_k%C3%A9o_ch%C3%A0y_(ng%C6%B0%E1%BB%9Di_P%C3%A0_Th%E1%BA%BBn)</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội kéo chày</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày 16 tháng 10 âm lịch hàng năm</thoiGianToChuc>
@@ -8829,6 +9029,7 @@
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#leHoi"/>
         <nhamHuongDen rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA10"/>
         <nhamHuongDen rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA3"/>
+        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L166"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L32"/>
         <lichSu rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lần đầu tiên vào ngày 1 tháng 1 năm 2009</lichSu>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/L%E1%BB%85_h%E1%BB%99i_ph%E1%BB%91_hoa_H%C3%A0_N%E1%BB%99i</linkChiTiet>
@@ -8957,7 +9158,6 @@
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L11"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L39"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L42"/>
-        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L81"/>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/L%E1%BB%85_h%E1%BB%99i_%C4%91%E1%BB%81n_Nguy%E1%BB%85n_C%C3%B4ng_Tr%E1%BB%A9</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội đền Nguyễn Công Trứ</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">từ ngày 14 tháng 11 đến 16 tháng 11 âm lịch hàng năm</thoiGianToChuc>
@@ -8980,6 +9180,7 @@
         <coHoatDong rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AE107"/>
         <duocCongNhan rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#RE5"/>
         <nhamHuongDen rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AC46"/>
+        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L39"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L70"/>
         <lichSu rdf:datatype="http://www.w3.org/2001/XMLSchema#string">có lịch sử lâu đời</lichSu>
         <lichSu rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ hội truyền thống</lichSu>
@@ -9032,7 +9233,6 @@
         <nhamHuongDen rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AC33"/>
         <nhamHuongDen rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AC50"/>
         <nhamHuongDen rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB74"/>
-        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L23"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L3"/>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/dong-thap-hoi-dinh-dinh-yen-3285.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hội đình Định Yên</tenLeHoi>
@@ -9142,7 +9342,6 @@
         <coHoatDong rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AE28"/>
         <nhamHuongDen rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AC49"/>
         <toChucONoiCo rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#FA21"/>
-        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L135"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L142"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L166"/>
         <lichSu rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ hội truyền thống của người Hà Nội</lichSu>
@@ -9255,7 +9454,6 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#F93">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#leHoi"/>
         <toChucONoiCo rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#FA34"/>
-        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L102"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L12"/>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/Ch%C3%B9a_C%C3%B4n_S%C6%A1n</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội chùa Côn Sơn</tenLeHoi>
@@ -9919,7 +10117,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L12">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#diaDiem"/>
-        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">phường Cộng Hoà , thành phố Chí Linh</tenDiaDiem>
+        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">phường Cộng Hoà , thành phố Chí Linh, tỉnh Hải Dương</tenDiaDiem>
     </owl:NamedIndividual>
     
 
@@ -10108,7 +10306,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L14">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#diaDiem"/>
-        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">xã Tân Triều , huyện Thanh Trì Hà Nội</tenDiaDiem>
+        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">xã Tân Triều, huyện Thanh Trì, Hà Nội</tenDiaDiem>
     </owl:NamedIndividual>
     
 
@@ -10126,7 +10324,6 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L141">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#diaDiem"/>
-        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">huyện cùng tên</tenDiaDiem>
     </owl:NamedIndividual>
     
 
@@ -10243,7 +10440,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L153">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#diaDiem"/>
-        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thành phố Huế đúng dịp</tenDiaDiem>
+        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thành phố Huế</tenDiaDiem>
     </owl:NamedIndividual>
     
 
@@ -10279,7 +10476,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L157">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#diaDiem"/>
-        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">làng Liễu Đôi , xã Liêm Túc , huyện Thanh Liêm Hà Nam</tenDiaDiem>
+        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">làng Liễu Đôi , xã Liêm Túc , huyện Thanh Liêm, Hà Nam</tenDiaDiem>
     </owl:NamedIndividual>
     
 
@@ -10414,7 +10611,6 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L170">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#diaDiem"/>
-        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vùng núi</tenDiaDiem>
     </owl:NamedIndividual>
     
 
@@ -10423,7 +10619,6 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L171">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#diaDiem"/>
-        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trung du phía Bắc thuộc</tenDiaDiem>
     </owl:NamedIndividual>
     
 
@@ -10567,7 +10762,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L3">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#diaDiem"/>
-        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ấp An Lợi A , xã Định Yên , huyện Lấp Vò</tenDiaDiem>
+        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ấp An Lợi A , xã Định Yên , huyện Lấp Vò, Đồng Tháp</tenDiaDiem>
     </owl:NamedIndividual>
     
 
@@ -10757,7 +10952,6 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L49">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#diaDiem"/>
         <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nam Bộ</tenDiaDiem>
-        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nam bộ</tenDiaDiem>
     </owl:NamedIndividual>
     
 
@@ -10865,7 +11059,6 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L6">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#diaDiem"/>
-        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">miền bắc</tenDiaDiem>
     </owl:NamedIndividual>
     
 
@@ -10982,7 +11175,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L71">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#diaDiem"/>
-        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">xã Cổ Loa , huyện Đông Anh Hà Nội</tenDiaDiem>
+        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">xã Cổ Loa , huyện Đông Anh, Hà Nội</tenDiaDiem>
     </owl:NamedIndividual>
     
 
@@ -11135,7 +11328,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L87">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#diaDiem"/>
-        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">làng Ném Thượng ( phường Khắc Niệm , thành phố Bắc Ninh</tenDiaDiem>
+        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">làng Ném Thượng ( phường Khắc Niệm , thành phố Bắc Ninh)</tenDiaDiem>
     </owl:NamedIndividual>
     
 
@@ -11171,7 +11364,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L90">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#diaDiem"/>
-        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ở Vũng Tàu</tenDiaDiem>
+        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vũng Tàu</tenDiaDiem>
     </owl:NamedIndividual>
     
 
