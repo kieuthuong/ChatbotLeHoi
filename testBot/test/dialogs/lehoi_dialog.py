@@ -23,9 +23,9 @@ class LehoiDialog(CancelAndHelpDialog):
                 WaterfallDialog.__name__,
                 [
                     self.destination_step,
-                    self.origin_step,
-                    self.travel_date_step,
-                    self.confirm_step,
+                    # self.origin_step,
+                    # self.travel_date_step,
+                    # self.confirm_step,
                     self.final_step,
                 ],
             )
@@ -36,128 +36,338 @@ class LehoiDialog(CancelAndHelpDialog):
     async def destination_step(
         self, step_context: WaterfallStepContext
     ) -> DialogTurnResult:
-
-        luis_result = step_context.options
-        import rdfextras
-        rdfextras.registerplugins()
-        filename = "fesivalVietNam.owl" 
-        import rdflib
-        g = rdflib.Graph()
-
-        result = g.parse(filename, format='xml')
-        # print(result)
-        query = """
-        PREFIX owl: <http://www.w3.org/2002/07/owl#>    
-        PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>   
-        PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>    
-        PREFIX xml: <http://www.w3.org/XML/1998/namespace>  
-        PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-        PREFIX :<http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#> 
-        SELECT ?name  ?nloc
-        WHERE 
-        { 
-        ?x :tenLeHoi ?name.
-        {
-        ?x :toChucTai ?loc.
-        {
-        ?loc :tenDiaDiem ?nloc
-        FILTER( regex(?nloc,"abc","i") ) 
-        }
-        }
-        }
         """
-        query=query.replace("abc",luis_result.diaDiem)
-        get_weather_text = " "
-        # for row in g.query(query):
-        #     print(repr(row))
-        #     print(type(row))
-        for row in g.query(query):
-            print("%s tổ chức tại: %s" % row)
-            get_weather_text = "%s tổ chức tại: %s" % row+'\n'
-            get_weather_message = MessageFactory.text(
-                get_weather_text, get_weather_text, InputHints.ignoring_input
-            )
-            await step_context.context.send_activity(get_weather_message)
-        return await step_context.next(None)
-
-    async def origin_step(self, step_context: WaterfallStepContext) -> DialogTurnResult:
-        """
-        If an origin city has not been provided, prompt for one.
+        If a destination city has not been provided, prompt for one.
         :param step_context:
         :return DialogTurnResult:
         """
-        booking_details = step_context.options
+        # booking_details = step_context.options
 
-        # Capture the response to the previous step's prompt
-        booking_details.destination = step_context.result
-        if booking_details.origin is None:
-            message_text = "From what city will you be travelling?"
-            prompt_message = MessageFactory.text(
-                message_text, message_text, InputHints.expecting_input
-            )
-            return await step_context.prompt(
-                TextPrompt.__name__, PromptOptions(prompt=prompt_message)
-            )
-        return await step_context.next(booking_details.origin)
-
-    async def travel_date_step(
-        self, step_context: WaterfallStepContext
-    ) -> DialogTurnResult:
-        """
-        If a travel date has not been provided, prompt for one.
-        This will use the DATE_RESOLVER_DIALOG.
-        :param step_context:
-        :return DialogTurnResult:
-        """
-        booking_details = step_context.options
-
-        # Capture the results of the previous step
-        booking_details.origin = step_context.result
-        if not booking_details.travel_date or self.is_ambiguous(
-            booking_details.travel_date
-        ):
-            return await step_context.begin_dialog(
-                DateResolverDialog.__name__, booking_details.travel_date
-            )
-        return await step_context.next(booking_details.travel_date)
-
-    async def confirm_step(
-        self, step_context: WaterfallStepContext
-    ) -> DialogTurnResult:
-        """
-        Confirm the information the user has provided.
-        :param step_context:
-        :return DialogTurnResult:
-        """
-        booking_details = step_context.options
-
-        # Capture the results of the previous step
-        booking_details.travel_date = step_context.result
-        message_text = (
-            f"Please confirm, I have you traveling to: { booking_details.destination } from: "
-            f"{ booking_details.origin } on: { booking_details.travel_date}."
-        )
+        message_text = "Bạn muốn biết thêm thông về lề hội:"
         prompt_message = MessageFactory.text(
             message_text, message_text, InputHints.expecting_input
         )
-
-        # Offer a YES/NO prompt.
         return await step_context.prompt(
-            ConfirmPrompt.__name__, PromptOptions(prompt=prompt_message)
+            TextPrompt.__name__, PromptOptions(prompt=prompt_message)
         )
 
     async def final_step(self, step_context: WaterfallStepContext) -> DialogTurnResult:
-        """
-        Complete the interaction and end the dialog.
-        :param step_context:
-        :return DialogTurnResult:
-        """
-        if step_context.result:
-            booking_details = step_context.options
+        ten_le_hoi = step_context.result
+        
+        import rdfextras
+        rdfextras.registerplugins()
+        filename = "../../OntologyFile/fesivalVietNam.owl"
+        import rdflib
+        g = rdflib.Graph()
+        result = g.parse(filename, format='xml')
+        
+        #query loc
+        data=[]
+        count = 0
+        get_text = ""
+        query = """
+            PREFIX owl: <http://www.w3.org/2002/07/owl#>    
+            PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>   
+            PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>    
+            PREFIX xml: <http://www.w3.org/XML/1998/namespace>  
+            PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+            PREFIX :<http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#> 
 
-            return await step_context.end_dialog(booking_details)
-        return await step_context.end_dialog()
+            SELECT DISTINCT ?data
+            WHERE 
+            { 
+            ?x :tenLeHoi ?name.
+            ?x :toChucTai ?loc.
+            ?loc :tenDiaDiem ?data.
+            FILTER( regex(?name,"fes","i") ) 
+            }
 
-    def is_ambiguous(self, timex: str) -> bool:
-        timex_property = Timex(timex)
-        return "definite" not in timex_property.types
+            """
+        query=query.replace("fes",step_context.result)
+        get_text += "Tổ chức tại "
+        for row in g.query(query):
+            a="%s" % row
+            for x in data:
+                if a==x:
+                    break
+            data.append(a)
+        for x in data:
+            get_text += x.lower()
+            get_text += " "
+            count +=1
+        get_text += "."
+        if count != 0:
+            get_message = MessageFactory.text(
+            get_text, get_text, InputHints.ignoring_input
+                )
+            await step_context.context.send_activity(get_message)
+        data.clear()
+        get_text = ""
+        count=0
+
+        #query time
+        data=[]
+        count = 0
+        get_text = ""
+        query = """
+            PREFIX owl: <http://www.w3.org/2002/07/owl#>    
+            PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>   
+            PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>    
+            PREFIX xml: <http://www.w3.org/XML/1998/namespace>  
+            PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+            PREFIX :<http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#> 
+
+            SELECT DISTINCT ?data
+            WHERE 
+            { 
+            ?x :tenLeHoi ?name.
+            ?x :thoiGianToChuc ?data.
+            FILTER( regex(?name,"fes","i") ) 
+            }
+
+            """
+        query=query.replace("fes",step_context.result)
+        get_text += "Tổ chức vào "
+        for row in g.query(query):
+            a="%s" % row
+            for x in data:
+                if a==x:
+                    break
+            data.append(a)
+        for x in data:
+            get_text += x.lower()
+            get_text += " "
+            count +=1
+        get_text += "."
+        if count != 0:
+            get_message = MessageFactory.text(
+            get_text, get_text, InputHints.ignoring_input
+                )
+            await step_context.context.send_activity(get_message)
+        data.clear()
+        get_text = ""
+        count=0
+
+        #query ten khac
+        data=[]
+        count = 0
+        get_text = ""
+        query = """
+            PREFIX owl: <http://www.w3.org/2002/07/owl#>    
+            PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>   
+            PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>    
+            PREFIX xml: <http://www.w3.org/XML/1998/namespace>  
+            PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+            PREFIX :<http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#> 
+
+            SELECT DISTINCT ?data
+            WHERE 
+            { 
+            ?x :tenLeHoi ?name.
+            ?x :tenKhac ?data.
+            FILTER( regex(?name,"fes","i") ) 
+            }
+
+            """
+        query=query.replace("fes",step_context.result)
+        get_text += "Còn có tên gọi khác là: "
+        for row in g.query(query):
+            a="%s" % row
+            for x in data:
+                if a==x:
+                    break
+            data.append(a)
+        for x in data:
+            get_text += x.lower()
+            get_text += ", "
+            count +=1
+        if count != 0:
+            get_message = MessageFactory.text(
+            get_text, get_text, InputHints.ignoring_input
+                )
+            await step_context.context.send_activity(get_message)
+        data.clear()
+        get_text = ""
+        count=0
+        
+        #query lich su
+        query = """
+            PREFIX owl: <http://www.w3.org/2002/07/owl#>    
+            PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>   
+            PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>    
+            PREFIX xml: <http://www.w3.org/XML/1998/namespace>  
+            PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+            PREFIX :<http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#> 
+
+            SELECT DISTINCT ?data
+            WHERE 
+            { 
+            ?x :tenLeHoi ?name.
+            ?x :lichSu ?data.
+            FILTER( regex(?name,"fes","i") ) 
+            }
+
+            """
+        query=query.replace("fes",step_context.result)
+        get_text += "Lịch sử: "
+        for row in g.query(query):
+            a="%s" % row
+            data.append(a)
+        for x in data:
+            get_text += x.lower()
+            get_text += " "
+            count +=1
+        get_text += "."
+        if count != 0:
+            get_message = MessageFactory.text(
+            get_text, get_text, InputHints.ignoring_input
+                )
+            await step_context.context.send_activity(get_message)
+        data.clear()
+        get_text = ""
+        count=0
+        
+        #query act
+        query = """
+         PREFIX owl: <http://www.w3.org/2002/07/owl#>    
+            PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>   
+            PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>    
+            PREFIX xml: <http://www.w3.org/XML/1998/namespace>  
+            PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+            PREFIX :<http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#> 
+
+            SELECT DISTINCT ?data
+            WHERE 
+            { 
+            ?x :tenLeHoi ?name.
+            ?x :coHoatDong ?a.
+            ?a :tenHoatDong ?data.
+            FILTER( regex(?name,"fes","i") ) 
+            }
+        """
+        query=query.replace("fes",step_context.result)
+        get_text += "Trong lễ hội có các hoạt động như: "
+        for row in g.query(query):
+            a="%s" % row
+            data.append(a)
+        for x in data:
+            get_text += x.lower() 
+            get_text += ", "
+            count +=1
+        get_text += "..."
+        if count != 0:
+            get_message = MessageFactory.text(
+            get_text, get_text, InputHints.ignoring_input
+                )
+            await step_context.context.send_activity(get_message)
+        data.clear()
+        get_text = ""
+        count=0
+
+        #query muc dich
+        query = """
+         PREFIX owl: <http://www.w3.org/2002/07/owl#>    
+            PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>   
+            PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>    
+            PREFIX xml: <http://www.w3.org/XML/1998/namespace>  
+            PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+            PREFIX :<http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#> 
+
+            SELECT DISTINCT ?data
+            WHERE 
+            { 
+            ?x :tenLeHoi ?name.
+            ?x :nhamHuongDen ?a.
+            ?a :noiDungMucDich ?data.
+            FILTER( regex(?name,"fes","i") ) 
+            }
+        """
+        query=query.replace("fes",step_context.result)
+        get_text += " Mục đích của lễ hội là: "
+        for row in g.query(query):
+            a="%s" % row
+            data.append(a)
+        for x in data:
+            get_text += x.lower() 
+            get_text += ", "
+            count +=1
+        get_text += "..."
+        if count != 0:
+            get_message = MessageFactory.text(
+            get_text, get_text, InputHints.ignoring_input
+                )
+            await step_context.context.send_activity(get_message)
+        data.clear()
+        get_text = ""
+        count=0
+
+        #query danh hieu
+        query = """
+            PREFIX owl: <http://www.w3.org/2002/07/owl#>    
+            PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>   
+            PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>    
+            PREFIX xml: <http://www.w3.org/XML/1998/namespace>  
+            PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+            PREFIX :<http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#> 
+
+            SELECT DISTINCT ?d3 ?d1 
+            WHERE 
+            { 
+            ?x :tenLeHoi ?name.
+            ?x :duocCongNhan ?d.
+            ?d :tenDanhHieu ?d1.
+            ?d :congNhanBoi ?d2.
+            ?d2 :tenToChuc ?d3
+            FILTER( regex(?name,"fes","i") ) 
+            }
+
+            """
+        query=query.replace("fes",step_context.result)
+        get_text += "Lễ hội được "
+        for row in g.query(query):
+            get_text +="%s công nhận %s" % row
+            get_text += "; "
+            count +=1
+        if count != 0:
+            get_message = MessageFactory.text(
+            get_text, get_text, InputHints.ignoring_input
+                )
+            await step_context.context.send_activity(get_message)
+        data.clear()
+        get_text = ""
+        count=0
+
+        #query link
+        query = """
+            PREFIX owl: <http://www.w3.org/2002/07/owl#>    
+            PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>   
+            PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>    
+            PREFIX xml: <http://www.w3.org/XML/1998/namespace>  
+            PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+            PREFIX :<http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#> 
+
+            SELECT DISTINCT ?link
+            WHERE 
+            { 
+            ?x :tenLeHoi ?name.
+            ?x :linkChiTiet ?link
+            FILTER( regex(?name,"fes","i") ) 
+            }
+
+            """
+        query=query.replace("fes",step_context.result)
+        get_text += "Bạn có thể tham khảo chi tiết thông tin về " + step_context.result + " trong link bài viết sau: "
+        for row in g.query(query):
+            get_text +="%s" % row
+            count +=1
+        if count != 0:
+            get_message = MessageFactory.text(
+            get_text, get_text, InputHints.ignoring_input
+                )
+            await step_context.context.send_activity(get_message)
+        data.clear()
+        get_text = ""
+        count=0
+        
+        return await step_context.next(None)
+

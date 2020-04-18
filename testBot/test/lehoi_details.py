@@ -1,13 +1,13 @@
 # Copyright (c) Microsoft Corporation. All rights reserved.
 # Licensed under the MIT License.
 
-
-class GoiyLehoiDetails:
+class LeHoiDetails:
       def __init__(
         self,
         diaDiem: str = None,
+        danToc: str = None,
         hoatDong: str = None,
     ):
-        self.diaDiem = diaDiem
-        self.hoatDong = hoatDong 
-
+        self.diaDiem = diaDiem 
+        self.danToc = danToc 
+        self.hoatDong = hoatDong

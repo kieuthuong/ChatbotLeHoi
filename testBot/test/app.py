@@ -21,7 +21,7 @@ from botbuilder.core.integration import aiohttp_error_middleware
 from botbuilder.schema import Activity
 
 from config import DefaultConfig
-from dialogs import MainDialog, BookingDialog, LehoiDialog, GoiyLehoiDialog
+from dialogs import MainDialog, DiadiemDialog, LehoiDialog, DantocDialog, GoiyLehoiDialog
 from bots import DialogAndWelcomeBot
 
 from adapter_with_error_handler import AdapterWithErrorHandler
@@ -44,11 +44,12 @@ ADAPTER = AdapterWithErrorHandler(SETTINGS, CONVERSATION_STATE)
 
 # Create dialogs and Bot
 RECOGNIZER = FlightBookingRecognizer(CONFIG)
-BOOKING_DIALOG = BookingDialog()
 LEHOI_DIALOG = LehoiDialog()
+DIADIEM_DIALOG = DiadiemDialog()
+DANTOC_DIALOG = DantocDialog()
 GOIYLEHOI_DIALOG = GoiyLehoiDialog()
 
-DIALOG = MainDialog(RECOGNIZER, BOOKING_DIALOG, LEHOI_DIALOG, GOIYLEHOI_DIALOG)
+DIALOG = MainDialog(RECOGNIZER, LEHOI_DIALOG, DIADIEM_DIALOG, DANTOC_DIALOG, GOIYLEHOI_DIALOG)
 
 BOT = DialogAndWelcomeBot(CONVERSATION_STATE, USER_STATE, DIALOG)
 

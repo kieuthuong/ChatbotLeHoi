@@ -42,16 +42,18 @@ class GoiyLehoiDialog(CancelAndHelpDialog):
         :return DialogTurnResult:
         """
         goiylehoi_details = step_context.options
-
-        if goiylehoi_details.diaDiem is None:
-            message_text = "Bạn dự định du lịch lễ hội ở tỉnh nào của Việt Nam ?"
-            prompt_message = MessageFactory.text(
-                message_text, message_text, InputHints.expecting_input
-            )
-            return await step_context.prompt(
-                TextPrompt.__name__, PromptOptions(prompt=prompt_message)
-            )
-        return await step_context.next(goiylehoi_details.diaDiem)
+        if goiylehoi_details.hoatDong is None:
+            return await step_context.end_dialog()
+        else:
+            if goiylehoi_details.diaDiem is None:
+                message_text = "Bạn dự định du lịch lễ hội ở tỉnh nào của Việt Nam ?"
+                prompt_message = MessageFactory.text(
+                    message_text, message_text, InputHints.expecting_input
+                )
+                return await step_context.prompt(
+                    TextPrompt.__name__, PromptOptions(prompt=prompt_message)
+                )
+            return await step_context.next(goiylehoi_details.diaDiem)
 
     async def confirm_step(
         self, step_context: WaterfallStepContext
@@ -61,22 +63,9 @@ class GoiyLehoiDialog(CancelAndHelpDialog):
         :param step_context:
         :return DialogTurnResult:
         """
+        count = 0
         goiylehoi_details = step_context.options
-
-        # Capture the results of the previous step
         goiylehoi_details.diaDiem = step_context.result
-        # message_text = (
-        #     f"Please confirm, I have you traveling to: { goiylehoi_details.diaDiem } from: "
-        #     f"{ goiylehoi_details.diaDiem } on: {goiylehoi_details.hoatDong}."
-        # )
-        # prompt_message = MessageFactory.text(
-        #     message_text, message_text, InputHints.expecting_input
-        # )
-
-        # # Offer a YES/NO prompt.
-        # return await step_context.prompt(
-        #     ConfirmPrompt.__name__, PromptOptions(prompt=prompt_message)
-        # )
         import rdfextras
         rdfextras.registerplugins()
         # filename = "fesivalVietNam.owl" 
@@ -112,7 +101,8 @@ class GoiyLehoiDialog(CancelAndHelpDialog):
         query=query.replace("hoatDong",goiylehoi_details.hoatDong)
         for row in g.query(query):
             fes="%s" % row
-            loc=[]
+            count+=1
+            data=[]
             query1 = """
             PREFIX owl: <http://www.w3.org/2002/07/owl#>    
             PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>   
@@ -121,49 +111,110 @@ class GoiyLehoiDialog(CancelAndHelpDialog):
             PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
             PREFIX :<http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#> 
 
-            SELECT DISTINCT ?nloc
+            SELECT DISTINCT ?nact
             WHERE 
             { 
             ?x :tenLeHoi ?name.
-            ?x :toChucTai ?loc.
-            ?loc :tenDiaDiem ?nloc.
+            ?x :coHoatDong ?act.
+            ?act rdfs:label ?l.
+            ?act :tenHoatDong ?nact.
             FILTER( regex(?name,"fes","i") ) 
+            FILTER( regex(?l,"hoatDong","i") ) 
             }
 
             """
             query1=query1.replace("fes",fes)
-            get_weather_text = fes+" tổ chức tại: "
+            query1=query1.replace("hoatDong",goiylehoi_details.hoatDong)
+            get_text = fes+" với các hoạt động: "
             for row in g.query(query1):
                 a="%s" % row
-                for x in loc:
+                for x in data:
                     if a==x:
                         break
-                loc.append(a)
-            for x in loc:
-                get_weather_text += x 
-                get_weather_text += " "
-            get_weather_message = MessageFactory.text(
-            get_weather_text, get_weather_text, InputHints.ignoring_input
+                data.append(a)
+            for x in data:
+                get_text += x 
+                get_text += ", "
+            get_text += "..."
+            get_message = MessageFactory.text(
+            get_text, get_text, InputHints.ignoring_input
                 )
-            await step_context.context.send_activity(get_weather_message)
-            loc.clear()
-            
+            await step_context.context.send_activity(get_message)
+            data.clear()
+            get_text = ""
+        
+        if count == 0:
+            get_text = "Bạn có thể tham khảo:"
+            get_message = MessageFactory.text(
+            get_text, get_text, InputHints.ignoring_input
+                    )
+            await step_context.context.send_activity(get_message)
+            query = """
+            PREFIX owl: <http://www.w3.org/2002/07/owl#>    
+            PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>   
+            PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>    
+            PREFIX xml: <http://www.w3.org/XML/1998/namespace>  
+            PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+            PREFIX :<http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#> 
+
+            SELECT DISTINCT ?name
+            WHERE 
+            { 
+            ?x :tenLeHoi ?name.
+            ?x :coHoatDong ?act.
+            ?act rdfs:label ?l.
+            ?act :tenHoatDong ?nact.
+            FILTER( regex(?l,"hoatDong","i") ) 
+            }
+
+            """
+            query=query.replace("hoatDong",goiylehoi_details.hoatDong)
+            for row in g.query(query):
+                fes="%s" % row
+                count+=1
+                data=[]
+                query1 = """
+                PREFIX owl: <http://www.w3.org/2002/07/owl#>    
+                PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>   
+                PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>    
+                PREFIX xml: <http://www.w3.org/XML/1998/namespace>  
+                PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+                PREFIX :<http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#> 
+
+                SELECT DISTINCT ?nloc
+                WHERE 
+                { 
+                ?x :tenLeHoi ?name.
+                ?x :coHoatDong ?act.
+                ?act rdfs:label ?l.
+                ?act :tenHoatDong ?nact.
+                ?x :toChucTai ?loc.
+                ?loc :tenDiaDiem ?nloc.
+                FILTER( regex(?name,"fes","i") ) 
+                FILTER( regex(?l,"hoatDong","i") ) 
+                }
+
+                """
+                query1=query1.replace("fes",fes)
+                query1=query1.replace("hoatDong",goiylehoi_details.hoatDong)
+                get_text = fes+" tổ chức tại: "
+                for row in g.query(query1):
+                    a="%s" % row
+                    for x in data:
+                        if a==x:
+                            break
+                    data.append(a)
+                for x in data:
+                    get_text += x 
+                    get_text += ", "
+                get_text += "..."
+                get_message = MessageFactory.text(
+                get_text, get_text, InputHints.ignoring_input
+                    )
+                await step_context.context.send_activity(get_message)
+                data.clear()
+
         return await step_context.next(None)
-            # print('\n')
-        # query=query.replace("diaDiem",goiylehoi_details.diaDiem)
-        # query=query.replace("hoatDong",goiylehoi_details.hoatDong)
-        # get_weather_text = " "
-        # # for row in g.query(query):
-        # #     print(repr(row))
-        # #     print(type(row))
-        # for row in g.query(query):
-        #     # print("%s với hoạt động: %s" % row)
-        #     get_weather_text = "%s với hoạt động: %s" % row+'\n'
-        #     get_weather_message = MessageFactory.text(
-        #         get_weather_text, get_weather_text, InputHints.ignoring_input
-        #     )
-        #     await step_context.context.send_activity(get_weather_message)
-        # return await step_context.next(None)
 
     async def final_step(self, step_context: WaterfallStepContext) -> DialogTurnResult:
         """
