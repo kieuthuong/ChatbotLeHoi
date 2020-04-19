@@ -21,7 +21,7 @@ from botbuilder.core.integration import aiohttp_error_middleware
 from botbuilder.schema import Activity
 
 from config import DefaultConfig
-from dialogs import MainDialog, DiadiemDialog, LehoiDialog, DantocDialog, GoiyLehoiDialog
+from dialogs import MainDialog, DiadiemDialog, LehoiDialog, DantocDialog, GoiyLehoiDialog, GoiyLehoiDialog2
 from bots import DialogAndWelcomeBot
 
 from adapter_with_error_handler import AdapterWithErrorHandler
@@ -48,8 +48,9 @@ LEHOI_DIALOG = LehoiDialog()
 DIADIEM_DIALOG = DiadiemDialog()
 DANTOC_DIALOG = DantocDialog()
 GOIYLEHOI_DIALOG = GoiyLehoiDialog()
+GOIYLEHOI2_DIALOG = GoiyLehoiDialog2()
 
-DIALOG = MainDialog(RECOGNIZER, LEHOI_DIALOG, DIADIEM_DIALOG, DANTOC_DIALOG, GOIYLEHOI_DIALOG)
+DIALOG = MainDialog(RECOGNIZER, LEHOI_DIALOG, DIADIEM_DIALOG, DANTOC_DIALOG, GOIYLEHOI_DIALOG, GOIYLEHOI2_DIALOG)
 
 BOT = DialogAndWelcomeBot(CONVERSATION_STATE, USER_STATE, DIALOG)
 

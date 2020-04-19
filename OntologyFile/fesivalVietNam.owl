@@ -1151,7 +1151,6 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AA56">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVuiChoi"/>
-        <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ném Còn</tenHoatDong>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ném còn</tenHoatDong>
         <rdfs:label>hoạt động vui chơi</rdfs:label>
         <rdfs:label>trò chơi của người dân tộc</rdfs:label>
@@ -4753,7 +4752,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AE50">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongVanHoa"/>
-        <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tục “ tắm phỗng</tenHoatDong>
+        <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tục “ tắm phỗng&quot;</tenHoatDong>
         <rdfs:label>văn hóa dân gian</rdfs:label>
     </owl:NamedIndividual>
     
@@ -5284,6 +5283,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA0">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thu hút đông đảo du khách trong và ngoài nước tới tham dự</noiDungMucDich>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5293,6 +5293,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA1">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">quảng bá một nét văn hoá đặc sắc của dân tộc tới khách du lịch cả trong và ngoài nước</noiDungMucDich>
+        <rdfs:label>giới thiệu văn hóa</rdfs:label>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5302,6 +5304,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA10">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">quảng bá các sản phẩm hoa , cây cảnh</noiDungMucDich>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5311,6 +5314,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA11">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">phản ánh bề dày lịch sử , văn hoá của làng quê này</noiDungMucDich>
+        <rdfs:label>giới thiệu văn hóa</rdfs:label>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5329,6 +5334,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA13">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tôn vinh tinh thần thượng võ và tài nghệ thuần dưỡng voi</noiDungMucDich>
+        <rdfs:label>giới thiệu văn hóa</rdfs:label>
+        <rdfs:label>tôn vinh văn hóa</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5338,6 +5345,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA14">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">quảng bá hình ảnh Thủ phủ cà phê Buôn Ma Thuột</noiDungMucDich>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5347,6 +5355,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA15">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">rèn luyện ý chí , kích thích con người phấn đấu vươn lên làm ăn</noiDungMucDich>
+        <rdfs:label>tôn vinh con người</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5356,6 +5365,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA16">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tôn vinh giá trị của hoa và nghề trồng hoa</noiDungMucDich>
+        <rdfs:label>giới thiệu văn hóa</rdfs:label>
+        <rdfs:label>tôn vinh văn hóa</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5365,6 +5376,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA17">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thu hút khá đông khách hành hương cùng khách du lịch trong và ngoài nước</noiDungMucDich>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5374,6 +5386,9 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA18">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tôn vinh các di sản văn hóa Huế</noiDungMucDich>
+        <rdfs:label>giới thiệu văn hóa</rdfs:label>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
+        <rdfs:label>tôn vinh văn hóa</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5383,6 +5398,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA19">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thúc đẩy tăng trưởng kinh tế cho thành phố</noiDungMucDich>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5392,6 +5408,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA2">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">về dừa</noiDungMucDich>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5401,6 +5418,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA20">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">khuyến ngư và giữ gìn môi trường sinh thái vùng sông Tích</noiDungMucDich>
+        <rdfs:label>tôn vinh nghề truyền thống</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5410,6 +5428,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA21">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trưng bày , triển lãm các loại rau , hoa , cây cảnh của địa phương</noiDungMucDich>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5419,6 +5438,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA22">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">triển lãm chuyên ngành cà phê</noiDungMucDich>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5428,6 +5448,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA23">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">khai thác du lịch</noiDungMucDich>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5437,6 +5458,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA24">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">khuyến nông và là nét đẹp văn hóa trở về nguồn cội</noiDungMucDich>
+        <rdfs:label>tôn vinh nghề truyền thống</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5455,6 +5477,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA26">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gợi lại tinh thần thượng võ của một vùng đất</noiDungMucDich>
+        <rdfs:label>tôn vinh văn hóa</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5464,6 +5487,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA27">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">quảng bá về điểm đến hấp dẫn này</noiDungMucDich>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5473,6 +5497,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA28">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">phản ánh tinh thần thượng võ của người M &apos; nông</noiDungMucDich>
+        <rdfs:label>tôn vinh văn hóa</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5482,6 +5507,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA29">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thu hút khách du lịch trong và ngoài nước của địa phương</noiDungMucDich>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5491,6 +5517,9 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA3">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">chiêm ngưỡng nghệ thuật sắp đặt hoa và các sản phẩm thủ công truyền thống</noiDungMucDich>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
+        <rdfs:label>tôn vinh nghề truyền thống</rdfs:label>
+        <rdfs:label>tôn vinh văn hóa</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5500,6 +5529,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA30">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">quảng bá hình ảnh , vẻ đẹp của thành phố , văn hóa và con người Đà Lạt</noiDungMucDich>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
+        <rdfs:label>tôn vinh văn hóa</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5509,6 +5540,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA31">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tôn vinh tổ nghề dệt xúc</noiDungMucDich>
+        <rdfs:label>tôn vinh nghề truyền thống</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5518,6 +5550,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA32">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">văn hóa cộng đồng cư dân ven biển Việt Nam , du lịch</noiDungMucDich>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5527,6 +5560,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA33">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">giáo dục truyền thống yêu nước , niềm tự hào dân tộc , tinh thần đoàn kết</noiDungMucDich>
+        <rdfs:label>tôn vinh văn hóa</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5536,6 +5570,9 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA34">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nâng cao vốn hiểu biết về văn hóa các vùng quê thuộc miệt vuờn Nam bộ</noiDungMucDich>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
+        <rdfs:label>tôn vinh văn hóa</rdfs:label>
+        <rdfs:label>tồn vinh nghề truyền thống</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5545,6 +5582,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA35">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tôn vinh tinh thần thượng võ</noiDungMucDich>
+        <rdfs:label>tôn vinh văn hóa</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5554,6 +5592,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA36">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">khôi phục các giá trị truyền thống dân gian</noiDungMucDich>
+        <rdfs:label>tôn vinh văn hóa</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5563,6 +5602,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA37">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">góp phần làm nên văn hiến xứ Kinh Bắc - Bắc Ninh</noiDungMucDich>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
+        <rdfs:label>tôn vinh văn hóa</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5572,6 +5613,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA38">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thu hút khách du lịch đến tham quan , nghỉ dưỡng</noiDungMucDich>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5581,6 +5623,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA39">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">khẳng định chủ quyền của nước ta đối với Hoàng Sa và Trường Sa</noiDungMucDich>
+        <rdfs:label>tôn vinh văn hóa</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5590,6 +5633,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA4">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tôn vinh cây cà phê</noiDungMucDich>
+        <rdfs:label>tôn vinh văn hóa</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5599,6 +5643,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA40">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thể hiện được bản sắc văn hoá của một dân tộc sống nơi biên giới Việt - Lào xa xôi</noiDungMucDich>
+        <rdfs:label>tôn vinh văn hóa</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5608,6 +5653,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA41">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">góp phần phục hồi và phát huy bản sắc văn hoá của dân tộc Việt Nam</noiDungMucDich>
+        <rdfs:label>tôn vinh văn hóa</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5617,6 +5663,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA42">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sản phẩm du lịch</noiDungMucDich>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5635,6 +5682,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA44">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">có những giờ phút thư giãn một cách đầy hứng khởi cho kỳ nghỉ cuối tuần</noiDungMucDich>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5644,6 +5692,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA45">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">quảng bá hình ảnh Buôn Ma Thuột , Đăk Lăk</noiDungMucDich>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5653,6 +5702,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA46">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">góp thêm nét đẹp vào diện mạo văn hoá phong phú và đặc sắc của quê hương Sóc Trăng</noiDungMucDich>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5662,6 +5712,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA47">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bảo tồn nguồn thủy sản ngày nay</noiDungMucDich>
+        <rdfs:label>tôn vinh nghề truyền thống</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5671,6 +5722,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA5">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nhân dịp du lịch ngắm phong cảnh hùng vĩ của Núi Bà</noiDungMucDich>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5680,6 +5732,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA6">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">góp phần làm sống lại các giá trị văn hóa của Huế</noiDungMucDich>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
+        <rdfs:label>tôn vinh văn hóa</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5689,6 +5743,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA7">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">truyền thống đầy tinh thần thượng võ của những người dân vùng quê quanh năm gắn bó với sông nước</noiDungMucDich>
+        <rdfs:label>tôn vinh văn hóa</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5698,6 +5753,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA8">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">quảng bá hình ảnh thành phố Cảng của miền bắc Việt Nam</noiDungMucDich>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5707,6 +5763,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CA9">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichQuangBa"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">góp phần làm giàu thêm cho vùng đất Cố Đô</noiDungMucDich>
+        <rdfs:label>quảng bá du lịch</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5716,6 +5773,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB0">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">niềm tin trời sẽ mưa thuận gió hòa cho dân Plây có nước sản xuất</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5725,6 +5783,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB1">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu mong mưa thuận gió hoà</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5734,6 +5793,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB10">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu phước trong dịp ngày giỗ của ông thì vùng đất này mới được mưa thuận gió hòa</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5743,6 +5803,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB101">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hy vọng cho một mùa màng tươi tốt , an khang thịnh vượng</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5752,6 +5813,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB102">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tế thần linh</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5761,6 +5823,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB103">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mọi người trong xã hội được ấm no hạnh phúc</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5770,6 +5833,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB104">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ước mong cho quốc thái dân an</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5779,6 +5843,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB105">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vụ mùa bội thu</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5788,6 +5853,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB106">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thế giới được an lành</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5797,6 +5863,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB107">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu cho biển lặng , gió hoà</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5805,7 +5872,8 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB108">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
-        <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nhân dân ấm</noiDungMucDich>
+        <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nhân dân ấm no</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5815,6 +5883,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB109">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu ngư</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5824,6 +5893,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB11">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tạ ơn Giàng , thần linh</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5833,6 +5903,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB110">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trong năm gặp nhiều may mắn và bình an</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5842,6 +5913,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB111">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu xin hồng ân của trời đất , phật , thánh , Chúa Bà ban phúc lành cho quốc thái , dân an</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5851,6 +5923,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB112">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cho mưa thuận gió hòa</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5860,6 +5933,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB12">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cho một cuộc sống thanh bình</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5869,6 +5943,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB13">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tạ ơn vì ân sủng của vùng đất vào ngày này</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5878,6 +5953,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB14">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tiễn năm cũ sắp hết</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5887,6 +5963,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB15">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu an ,</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5896,6 +5973,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB16">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu lộc cho năm mới</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5905,6 +5983,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB17">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">an tâm lao động sản xuất</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5914,6 +5993,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB18">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu cho biển lặng gió hòa</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5923,6 +6003,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB19">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mừng mùa màng thuận lợi</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5932,6 +6013,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB2">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu xin sự an bình trong cuộc sống</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5941,6 +6023,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB20">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">giáo dục đạo lý nhân cách con người</noiDungMucDich>
+        <rdfs:label>tôn vinh văn hóa</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5950,6 +6033,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB21">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mừng mùa trăng mới</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5959,6 +6043,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB22">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cúng tạ các vị thần đã giúp dân làng được mùa</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5968,6 +6053,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB23">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">giúp cho người khỏe mạnh và trừ ma quỷ</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5977,6 +6063,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB24">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hồi hướng công đức</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5986,6 +6073,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB25">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu được mùa nếu mùa màng thất bát</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -5995,6 +6083,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB26">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mong chờ một mùa làm ăn mới tốt đẹp hơn mọi năm</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6004,6 +6093,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB27">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cầu mong cho gia đình được tổ tiên thần linh phù hộ</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6013,6 +6103,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB28">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngư dân may mắn làm ăn phát đạt , an khang</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6022,6 +6113,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB29">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cuộc sống sẽ tốt đẹp hơn</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6031,6 +6123,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB3">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mừng năm mới theo lịch cổ truyền</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6040,6 +6133,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB30">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">làm ăn may mắn bình yên</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6049,6 +6143,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB31">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">có sự kết hợp giữa tín ngưỡng</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6058,6 +6153,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB32">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu mưa</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6067,6 +6163,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB33">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cho con người mạnh khoẻ</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6076,6 +6173,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB34">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mừng mưa thuận gió hòa</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6085,6 +6183,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB35">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu xin Mẹ Đất , Mẹ Nước phù hộ cho đất luôn màu mỡ</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6094,6 +6193,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB36">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">niềm tin của đồng bào vào thiên nhiên ( trời , đất , nương rẫy … ) có linh hồn</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6103,6 +6203,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB37">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mong sao năm nay mưa thuận gió hoà</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6112,6 +6213,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB38">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu sức khoẻ</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6121,6 +6223,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB39">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ước nguyện điều lành</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6130,6 +6233,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB4">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nương rẫy được bội thu</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6139,6 +6243,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB40">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu mong một cuộc sống no đủ</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6148,6 +6253,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB41">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tiến đạt trong công việc làm ăn , buôn bán</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6157,6 +6263,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB42">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu tài cầu lộc</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6166,6 +6273,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB43">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dâng cúng các phẩm vật lên các vị thần hộ mạng</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6175,6 +6283,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB44">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cúng Thiên Hậu Thánh Mẫu là vị Thần hay che chở các ghe thuyền buôn bán</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6184,6 +6293,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB45">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vì nhu cầu của đời sống tâm linh</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6193,6 +6303,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB46">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mưa thuận gió hòa</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6202,6 +6313,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB47">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu cho tình yêu thêm bền chặt , gắn bó</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6211,6 +6323,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB48">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu sự suôn sẻ</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6220,6 +6333,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB49">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thờ Thần Cao Sơn , Đức Thánh Nguyễn và Bà chúa Thượng Ngàn</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6229,6 +6343,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB5">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu mong mưa thuận gió hòa</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6238,6 +6353,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB50">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mong sao cho mưa thuận gió hòa</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6247,6 +6363,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB51">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu nguyện cho mọi oan hồn được siêu thoát</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6256,6 +6373,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB52">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tiêu biểu cho phong tục tập quán và tín ngưỡng</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6265,6 +6383,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB53">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu nguyện thần linh sao cho mưa thuận gió hoà</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6274,6 +6393,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB54">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mừng gia đình mạnh khoẻ</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6283,6 +6403,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB55">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ghé thăm chùa</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6292,6 +6413,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB56">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mùa màng bội thu</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6301,6 +6423,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB57">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu an</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6310,6 +6433,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB58">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dịp cầu phúc , cầu tài</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6319,6 +6443,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB59">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mang tính tín ngưỡng dân gian</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6328,6 +6453,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB6">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nhờ Giàng giúp đỡ</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6337,6 +6463,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB60">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cúng thần linh cầu cho người yên , vật thịnh</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6346,6 +6473,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB61">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hi vọng tình yêu đôi lứa bền vững hay người độc thân tìm được tình duyên cho bản thân</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6355,6 +6483,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB62">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mừng năm mới</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6364,6 +6493,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB63">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">xua quỷ dữ</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6373,6 +6503,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB64">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tín ngưỡng và đền thờ cá Ông</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6508,6 +6639,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB78">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu mùa</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6517,6 +6649,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB79">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ước mong về một sự no đủ</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6526,6 +6659,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB8">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu mùa màng bội thu</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6535,6 +6669,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB80">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mong chờ một mùa làm ăn mới tốt đẹp</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6544,6 +6679,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB81">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nghinh Thần trên biển</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6553,6 +6689,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB82">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mong cho mọi sự vật được hài hòa , cân đối , âm – dương hài hòa</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6562,6 +6699,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB83">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cuộc sống đầy đủ</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6571,6 +6709,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB84">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mùa màng tốt tươi</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6580,6 +6719,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB85">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nói lên sự hiện sinh của nhân loại</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6589,6 +6729,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB86">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">chào mừng xuân mới và mong sức khỏe</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6598,6 +6739,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB87">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu lộc</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6607,6 +6749,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB88">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">làm ăn phát đạt gặp nhiều may mắn</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6616,6 +6759,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB89">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu cho nguồn nước không bao giờ cạn</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6625,6 +6769,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB9">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tế Thần</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6634,6 +6779,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB90">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ước vọng lớn lao về một cuộc sống bình yên , no ấm</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6643,6 +6789,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB91">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sống trong cảnh thái bình</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6652,6 +6799,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB92">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thờ thần Độc Cước</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6661,6 +6809,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB93">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tổ chức nghi lễ , thắp hương biết ơn Thánh Mẫu Liễu Hạnh</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6670,6 +6819,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB94">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu phúc</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6679,6 +6829,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB95">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">phản ánh ước muốn của họ về mùa màng bội thu</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6688,6 +6839,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB96">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu ấm no , sức khỏe và hạnh phúc</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6697,6 +6849,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB97">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu Thánh phù hộ dân khang , vật thịnh</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6706,6 +6859,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB98">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cầu nguyện cho quốc thái dân an , cho mưa hòa gió thuận</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6715,6 +6869,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB99">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTamLinh"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tín ngưỡng thờ thánh Nguyễn , thần Cao Sơn , Bà chúa thượng ngàn</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6724,6 +6879,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC0">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thể hiện lòng nghĩa hiệp của viên tướng thời Hậu Lê là Thần Công Tài</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6733,6 +6889,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC1">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thể hiện lòng thành của ngư dân trong vùng tạ ơn biển cả</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6742,6 +6899,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC10">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">biết ơn đối với tổ tiên</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6751,6 +6909,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC11">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tưởng niệm hai vị anh hùng dân tộc Thiên Hộ Dương ( Võ Duy Dương ) và Đốc Binh Kiều</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6760,6 +6919,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC12">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tưởng nhớ một vị có công khai phá miền Nam Bộ</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6769,6 +6929,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC13">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tạ ơn tổ tiên và các vị thần linh</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6778,6 +6940,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC14">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">đền ơn báo đáp lại nguồn gốc , công ơn của các tiền nhân</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6787,6 +6950,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC15">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tưởng niệm người thân</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6796,6 +6960,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC16">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tưởng nhớ vua Hùng</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6805,6 +6970,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC17">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tưởng niệm bà Chúa Xứ , tương truyền là người có công lao trong việc khai phá , tạo dựng và phát triển vùng này</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6814,6 +6980,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC18">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ghi nhớ công ơn của Doanh điền</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6823,6 +6990,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC19">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tạ ơn cá voi ( cá Ông )</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6832,6 +7000,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC2">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thể hiện đạo lý uống nước nhớ nguồn</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
+        <rdfs:label>tôn vinh văn hóa</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6841,6 +7011,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC20">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">suy tôn Lý Phủ Quan ( thời Tiền Lý )</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6850,6 +7021,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC21">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tưởng niệm công đức của vị anh hùng cứu nước Lê Lợi , đại công thần Lê Lai và các vị vua Lê</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6859,6 +7031,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC22">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ghi nhớ công ơn người xưa hay nhóm An Vĩnh thuộc hải đội Hoàng Sa</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6868,6 +7041,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC23">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tưởng nhớ , biết ơn đối với tổ tiên và công lao của những người đã khuất</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6877,6 +7051,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC24">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tưởng nhớ hai vị thành hoàng là Thiều Hoa công chúa , một nữ tướng dưới thời Hai Bà Trưng có công đánh giặc và Mộc Trang đại vương thời nhà Đinh có công dẹp loạn 12 sứ quân</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6886,6 +7061,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC25">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tưởng nhớ đến các vị anh hùng dân tộc</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6895,6 +7071,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC26">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tưởng nhớ đến các liệt sĩ con cháu của làng đã hy sinh anh dũng</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6904,6 +7081,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC27">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tưởng nhớ đến những người đã khuất</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6913,6 +7091,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC28">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ca ngời công đức của vua Trần Thái Tông</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6922,6 +7101,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC29">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tỏ lòng biết ơn vị quan triều thái phó nhà Hậu Lê tên là Thiếu Khanh</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6931,6 +7111,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC3">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tri ân , cầu phước bởi công đức của một ông quan triều đình Nhà Nguyễn là ông Nguyễn Văn Tồn</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6940,6 +7121,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC30">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tưởng niệm và ca ngợi chiến công của người anh hùng truyền thuyết Thánh Gióng</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6949,6 +7131,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC31">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tạ ơn các ông mo đối với tổ tiên và những người thầy đã dạy cách bốc thuốc chữa bệnh cứu vớt chúng sinh</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6958,6 +7141,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC32">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tưởng nhớ đức Thánh Chử Đồng Tử</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6967,6 +7151,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC33">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ghi nhớ công ơn ông Phạm Văn An , người đầu tiên khai hoang lập ấp nơi đây</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6976,6 +7161,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC34">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tỏ lòng biết ơn sâu xa đối với Bà</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6985,6 +7171,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC35">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tưởng nhớ một vị tướng thời nội chiến</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -6994,6 +7181,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC36">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tưởng niệm ngày mất của ông</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7003,6 +7191,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC37">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tôn vinh : Chử Đồng Tử và hai vị phu nhân Tiên Dung Công chúa và Tây Sa Công chúa</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7012,6 +7201,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC38">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tưởng nhớ công lao của Đấng Thánh Tổ xưa</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7021,6 +7211,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC39">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thờ Mẹ , đạo hiếu , đạo làm người</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7030,6 +7221,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC4">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thờ Thánh Gióng</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7039,6 +7231,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC40">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nhớ công lao người đã có công khai phá mang nghề nông về cho làng</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7048,6 +7241,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC41">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thờ nữ thần Thiên Hậu</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7057,6 +7251,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC42">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tưởng nhớ công lao các vua đời đầu nhà Trần</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7066,6 +7261,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC43">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ca ngợi công đức của công chúa Túc Trinh đối với dân làng Cổ Nhuế từ xưa tới nay</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7075,6 +7271,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC44">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mô phỏng rõ một cách sinh động và khoa học diễn biến các trận đấu của thánh Gióng và nhân dân Văn Lang với giặc Ân</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7084,6 +7281,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC45">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tưởng nhớ vị thành hoàng làng ( là sứ quân Nguyễn Thủ Tiệp hoặc tướng quân Đoàn Thượng )</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7093,6 +7291,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC46">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tôn vinh vị anh hùng dân tộc Đinh Bộ Lĩnh</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7102,6 +7301,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC47">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">kỷ niệm mùa gặt của năm và hy sinh mùa gặt</noiDungMucDich>
+        <rdfs:label>tôn vinh nghề truyền thống</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7111,6 +7311,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC48">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tưởng nhớ các vị bậc tiền nhân đã có công khai phá , lập Làng</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7120,6 +7321,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC49">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ôn lại những sự kiện lịch sử đã diễn ra tại nơi đây</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7129,6 +7331,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC5">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tế Thành hoàng , Thần Nông , các thần mây , mưa , sấm , chớp</noiDungMucDich>
+        <rdfs:label>mục đích tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7138,6 +7341,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC50">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tưởng nhớ ông Phạm Văn An và những người có công khai hoang , lập nên làng xã</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7147,6 +7351,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC51">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tôn vinh các vị thần Quý Minh , thần Cao Sơn trấn trạch Hoa Lư tứ trấn ; các tướng lĩnh của vương triều Đinh đóng quân</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7156,6 +7361,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC52">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tưởng nhớ Quốc tổ Lạc Long Quân , và Thành Hoàng Làng Linh Lang Đại Vương</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7165,6 +7371,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC53">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tưởng nhớ công đức Thánh Nguyễn Minh Không</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7174,6 +7381,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC54">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">suy tôn chàng trai họ Hoàng ( Thành Hoàng làng Lệ Mật )</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7183,6 +7391,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC55">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tưởng niệm , gọi là hội Thánh Tiên ( gọi tắt hai chữ Thánh Ông – Tiên Bà )</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7192,6 +7401,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC56">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Để tưởng nhớ công ơn của công chúa Túc Trinh</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7201,6 +7411,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC57">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ôn lại trang sử dựng làng đầy gian nan thử thách từ</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7210,6 +7421,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC6">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">kỷ niệm ngày Thái tổ Lý Công Uẩn đăng quang</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7219,6 +7431,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC7">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">biết ơn sâu sắc ông bà , cha mẹ</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7228,6 +7441,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC8">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tưởng nhớ công lao dựng nước của Hùng Vương</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7237,6 +7451,7 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC9">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#mucDichTuongNho"/>
         <noiDungMucDich rdf:datatype="http://www.w3.org/2001/XMLSchema#string">truyền thống gìn giữ và bảo vệ lãnh thổ và lãnh hải của đất nước</noiDungMucDich>
+        <rdfs:label>mục đích tưởng nhớ</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7687,7 +7902,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/long-an-le-hoi-lam-chay-o-tam-vu-3307.html</linkChiTiet>
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội làm trai</tenKhac>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội làm chay</tenLeHoi>
-        <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thời điểm trung tuần tháng Giêng âm lịch ( diễn ra từ 14-16 / 1 âm lịch )</thoiGianToChuc>
+        <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thời điểm trung tuần tháng Giêng âm lịch</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">từ ngày 14 đến ngày 16 tháng Giêng ( âm lịch ) hằng năm</thoiGianToChuc>
     </owl:NamedIndividual>
     
@@ -7708,7 +7923,6 @@
         <nhamHuongDen rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CC19"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L167"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L80"/>
-        <lichSu rdf:datatype="http://www.w3.org/2001/XMLSchema#string">có hang trăm năm</lichSu>
         <lichSu rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lần đầu tiên từ năm 1917</lichSu>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/vinh-long-le-cung-bien-o-my-long-3333.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội cúng biển Mỹ Long</tenLeHoi>
@@ -7833,7 +8047,6 @@
         <coHoatDong rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AD51"/>
         <coHoatDong rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AE106"/>
         <coHoatDong rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AE70"/>
-        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L120"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L38"/>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/L%E1%BB%85_h%E1%BB%99i_%C4%91%E1%BA%A7m_%C3%94_Loan</linkChiTiet>
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ cúng cá Ông</tenKhac>
@@ -7879,7 +8092,6 @@
         <nhamHuongDen rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB90"/>
         <nhamHuongDen rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#CB94"/>
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L0"/>
-        <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L136"/>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/hoa-binh-hoi-xen-ban-xen-muong-3300.html</linkChiTiet>
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hội Hoa ban</tenKhac>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hội Xên bản , xên mường</tenLeHoi>
@@ -11303,7 +11515,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L38">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#diaDiem"/>
-        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thôn Phú Tân , xã An Cư , huyện Tuy An</tenDiaDiem>
+        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thôn Phú Tân, xã An Cư, huyện Tuy An, tỉnh Phú Yên</tenDiaDiem>
     </owl:NamedIndividual>
     
 

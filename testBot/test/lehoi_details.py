@@ -7,7 +7,9 @@ class LeHoiDetails:
         diaDiem: str = None,
         danToc: str = None,
         hoatDong: str = None,
+        mucDich: str = None,
     ):
         self.diaDiem = diaDiem 
         self.danToc = danToc 
         self.hoatDong = hoatDong
+        self.mucDich = mucDich

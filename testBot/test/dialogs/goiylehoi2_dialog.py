@@ -11,9 +11,9 @@ from .cancel_and_help_dialog import CancelAndHelpDialog
 from .date_resolver_dialog import DateResolverDialog
 
 
-class GoiyLehoiDialog(CancelAndHelpDialog):
+class GoiyLehoiDialog2(CancelAndHelpDialog):
     def __init__(self, dialog_id: str = None):
-        super(GoiyLehoiDialog, self).__init__(dialog_id or GoiyLehoiDialog.__name__)
+        super(GoiyLehoiDialog2, self).__init__(dialog_id or GoiyLehoiDialog2.__name__)
 
         self.add_dialog(TextPrompt(TextPrompt.__name__))
         self.add_dialog(ConfirmPrompt(ConfirmPrompt.__name__))
@@ -42,7 +42,7 @@ class GoiyLehoiDialog(CancelAndHelpDialog):
         :return DialogTurnResult:
         """
         goiylehoi_details = step_context.options
-        if goiylehoi_details.hoatDong is None:
+        if goiylehoi_details.mucDich is None:
             return await step_context.end_dialog()
         else:
             if goiylehoi_details.diaDiem is None:
@@ -87,13 +87,13 @@ class GoiyLehoiDialog(CancelAndHelpDialog):
         WHERE 
         { 
         ?x :tenLeHoi ?name.
-        ?x :coHoatDong ?act.
+        ?x :nhamHuongDen ?act.
         ?x :toChucTai ?loc.
         ?act rdfs:label ?l.
-        ?act :tenHoatDong ?nact.
+        ?act :noiDungMucDich ?nact.
         ?loc :tenDiaDiem ?nloc.
         FILTER( regex(?nloc,"diaDiem","i") ) 
-        FILTER( regex(?l,"hoatDong","i") ) 
+        FILTER( regex(?l,"mucDich","i") ) 
         }
 
         """
@@ -103,7 +103,7 @@ class GoiyLehoiDialog(CancelAndHelpDialog):
             )
         await step_context.context.send_activity(get_message)
         query=query.replace("diaDiem",goiylehoi_details.diaDiem)
-        query=query.replace("hoatDong",goiylehoi_details.hoatDong)
+        query=query.replace("mucDich",goiylehoi_details.mucDich)
         for row in g.query(query):
             fes="%s" % row
             count+=1
@@ -120,17 +120,17 @@ class GoiyLehoiDialog(CancelAndHelpDialog):
             WHERE 
             { 
             ?x :tenLeHoi ?name.
-            ?x :coHoatDong ?act.
+            ?x :nhamHuongDen ?act.
             ?act rdfs:label ?l.
-            ?act :tenHoatDong ?nact.
+            ?act :noiDungMucDich ?nact.
             FILTER( regex(?name,"fes","i") ) 
-            FILTER( regex(?l,"hoatDong","i") ) 
+            FILTER( regex(?l,"mucDich","i") ) 
             }
 
             """
             query1=query1.replace("fes",fes)
-            query1=query1.replace("hoatDong",goiylehoi_details.hoatDong)
-            get_text = fes+" với các hoạt động: "
+            query1=query1.replace("mucDich",goiylehoi_details.mucDich)
+            get_text = fes+" với mục đích: "
             for row in g.query(query1):
                 a="%s" % row
                 for x in data:
@@ -166,14 +166,14 @@ class GoiyLehoiDialog(CancelAndHelpDialog):
             WHERE 
             { 
             ?x :tenLeHoi ?name.
-            ?x :coHoatDong ?act.
+            ?x :nhamHuongDen ?act.
             ?act rdfs:label ?l.
-            ?act :tenHoatDong ?nact.
-            FILTER( regex(?l,"hoatDong","i") ) 
+            ?act :noiDungMucDich ?nact.
+            FILTER( regex(?l,"mucDich","i") ) 
             }
 
             """
-            query=query.replace("hoatDong",goiylehoi_details.hoatDong)
+            query=query.replace("mucDich",goiylehoi_details.mucDich)
             for row in g.query(query):
                 fes="%s" % row
                 count+=1
@@ -192,7 +192,6 @@ class GoiyLehoiDialog(CancelAndHelpDialog):
                 WHERE 
                 { 
                 ?x :tenLeHoi ?name.
-                ?x :coHoatDong ?act.
                 ?x :toChucTai ?loc.
                 ?loc :tenDiaDiem ?nloc.
                 FILTER( regex(?name,"fes","i") )  

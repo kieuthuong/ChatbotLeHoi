@@ -18,11 +18,12 @@ from helpers.luis_helper import LuisHelper, Intent
 from .lehoi_dialog import LehoiDialog
 from .diadiem_dialog import DiadiemDialog
 from .goiylehoi_dialog import GoiyLehoiDialog
+from .goiylehoi2_dialog import GoiyLehoiDialog2
 from .dantoc_dialog import DantocDialog
 
 class MainDialog(ComponentDialog):
     def __init__(
-        self, luis_recognizer: FlightBookingRecognizer, lehoi_dialog: LehoiDialog, diadiem_dialog: DiadiemDialog, dantoc_dialog:DantocDialog, goiylehoi_dialog: GoiyLehoiDialog
+        self, luis_recognizer: FlightBookingRecognizer, lehoi_dialog: LehoiDialog, diadiem_dialog: DiadiemDialog, dantoc_dialog:DantocDialog, goiylehoi_dialog: GoiyLehoiDialog, goiylehoi2_dialog: GoiyLehoiDialog2
     ):
         super(MainDialog, self).__init__(MainDialog.__name__)
 
@@ -31,12 +32,14 @@ class MainDialog(ComponentDialog):
         self._diadiem_dialog_id = diadiem_dialog.id
         self._dantoc_dialog_id = dantoc_dialog.id
         self._goiylehoi_dialog_id = goiylehoi_dialog.id
+        self._goiylehoi2_dialog_id = goiylehoi2_dialog.id
 
         self.add_dialog(TextPrompt(TextPrompt.__name__))
         self.add_dialog(lehoi_dialog)
         self.add_dialog(diadiem_dialog)
         self.add_dialog(dantoc_dialog)
         self.add_dialog(goiylehoi_dialog)
+        self.add_dialog(goiylehoi2_dialog)
         self.add_dialog(
             WaterfallDialog(
                 "WFDialog", [self.intro_step, self.option_step, self.act_step, self.final_step]
@@ -81,7 +84,7 @@ class MainDialog(ComponentDialog):
             )
 
         if step_context.result=='2':
-            get_text = "Bạn có thể tìm kiếm các lễ hội theo địa điểm hoặc các thông tin khác liên quan đến lễ hội như dân tộc, tôn giáo..."
+            get_text = "Bạn có thể tìm kiếm các lễ hội theo địa điểm hoặc các thông tin khác liên quan đến lễ hội như dân tộc, mục đích, hoạt động trong lễ hội..."
             get_weather_message = MessageFactory.text(
                 get_text, get_text, InputHints.expecting_input
             )
@@ -99,6 +102,16 @@ class MainDialog(ComponentDialog):
             return await step_context.prompt(
             TextPrompt.__name__, PromptOptions(prompt=get_weather_message)
         )
+
+        else:
+            didnt_understand_text = (
+                "Xin lỗi, bạn có thể lựa chọn một trong các chức năng sau (@_@;)"
+            )
+            didnt_understand_message = MessageFactory.text(
+                didnt_understand_text, didnt_understand_text, InputHints.ignoring_input
+            )
+            await step_context.context.send_activity(didnt_understand_message)
+            return await step_context.next(None)
 
         # return await step_context.next(None)
 
@@ -121,7 +134,19 @@ class MainDialog(ComponentDialog):
             # Run the BookingDialog giving it whatever details we have from the LUIS call.
             return await step_context.begin_dialog(self._goiylehoi_dialog_id, luis_result)
 
-        
+        if intent == Intent.GOIYLEHOI2.value and luis_result:
+            # Run the BookingDialog giving it whatever details we have from the LUIS call.
+            return await step_context.begin_dialog(self._goiylehoi2_dialog_id, luis_result)
+
+        else:
+            didnt_understand_text = (
+                "Xin lỗi, tôi không hiểu ý bạn (T_T;)"
+            )
+            didnt_understand_message = MessageFactory.text(
+                didnt_understand_text, didnt_understand_text, InputHints.ignoring_input
+            )
+            await step_context.context.send_activity(didnt_understand_message)
+            return await step_context.next(None)
         return await step_context.next(None)
 
     async def final_step(self, step_context: WaterfallStepContext) -> DialogTurnResult:

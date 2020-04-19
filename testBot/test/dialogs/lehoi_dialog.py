@@ -111,7 +111,7 @@ class LehoiDialog(CancelAndHelpDialog):
                 count_ten_khac+=1
             
             if count_ten_khac==0:
-                get_text -= "Không tìm thấy lễ hội này"
+                get_text = "Không tìm thấy lễ hội này"
                 get_message = MessageFactory.text(
                 get_text, get_text, InputHints.ignoring_input
                     )

@@ -10,10 +10,10 @@ from lehoi_details import LeHoiDetails
 
 class Intent(Enum):
     CANCEL = "Cancel"
-    GET_WEATHER = "GetWeather"
     NONE_INTENT = "NoneIntent"
     TIMLEHOI = "timLeHoi"
     GOIYLEHOI = "goiYLeHoi"
+    GOIYLEHOI2 = "goiYLeHoi2"
     DANTOC = "timLeHoicuaDanToc"
 
 
@@ -64,6 +64,10 @@ class LuisHelper:
             if intent == Intent.DANTOC.value:
                 result = LeHoiDetails()
                 result.danToc = recognizer_result.entities.get("$instance", {}).get("danToc", [])[0]['text'].capitalize()
+
+            if intent == Intent.GOIYLEHOI2.value:
+                result = LeHoiDetails()
+                result.mucDich = recognizer_result.entities.get("$instance", {}).get("mucDich", [])[0]['text'].capitalize()
 
         except Exception as exception:
             print(exception)
