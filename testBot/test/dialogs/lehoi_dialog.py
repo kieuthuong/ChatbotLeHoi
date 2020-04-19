@@ -53,7 +53,7 @@ class LehoiDialog(CancelAndHelpDialog):
 
     async def final_step(self, step_context: WaterfallStepContext) -> DialogTurnResult:
         ten_le_hoi = step_context.result
-        
+        # print(ten_le_hoi)
         import rdfextras
         rdfextras.registerplugins()
         filename = "../../OntologyFile/fesivalVietNam.owl"
@@ -61,6 +61,86 @@ class LehoiDialog(CancelAndHelpDialog):
         g = rdflib.Graph()
         result = g.parse(filename, format='xml')
         
+        count_ten_le_hoi=0
+        query = """
+            PREFIX owl: <http://www.w3.org/2002/07/owl#>    
+            PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>   
+            PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>    
+            PREFIX xml: <http://www.w3.org/XML/1998/namespace>  
+            PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+            PREFIX :<http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#> 
+
+            SELECT DISTINCT ?name
+            WHERE 
+            { 
+            ?x :tenLeHoi ?name.
+            FILTER( regex(?name,"fes","i") ) 
+            }
+
+            """
+        query=query.replace("fes",step_context.result)
+        for row in g.query(query):
+            count_ten_le_hoi+=1
+
+        #tìm lễ hội thông qua tên khác
+        if count_ten_le_hoi==0:
+            pass
+            count_ten_khac=0
+            query = """
+                PREFIX owl: <http://www.w3.org/2002/07/owl#>    
+                PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>   
+                PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>    
+                PREFIX xml: <http://www.w3.org/XML/1998/namespace>  
+                PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+                PREFIX :<http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#> 
+
+                SELECT DISTINCT ?name
+                WHERE 
+                { 
+                ?x :tenLeHoi ?name.
+                ?x :tenKhac ?a.
+                FILTER( regex(?a,"fes","i") ) 
+                }
+
+                """
+            query=query.replace("fes",step_context.result)
+            cac_le_hoi=[]
+            for row in g.query(query):
+                a="%s" % row
+                cac_le_hoi.append(a)
+                count_ten_khac+=1
+            
+            if count_ten_khac==0:
+                get_text -= "Không tìm thấy lễ hội này"
+                get_message = MessageFactory.text(
+                get_text, get_text, InputHints.ignoring_input
+                    )
+                await step_context.context.send_activity(get_message)
+                return await step_context.next(None)
+
+            if count_ten_khac==1:
+                for x in cac_le_hoi:
+                    get_text=step_context.result
+                    ten_le_hoi=x
+                get_text+=" là tên khác của " + ten_le_hoi
+                get_message = MessageFactory.text(
+                get_text, get_text, InputHints.ignoring_input
+                    )
+                await step_context.context.send_activity(get_message)
+            
+            if count_ten_khac>1:
+                get_text = ten_le_hoi+" là tên khác của: "
+                for x in cac_le_hoi:
+                    get_text += x
+                    get_text += ", "
+                get_text+="... Bạn hãy nhập tên 1 trong các lễ hội kể trên để tìm kiếm thêm thông tin."
+                get_message = MessageFactory.text(
+                get_text, get_text, InputHints.ignoring_input
+                    )
+                await step_context.context.send_activity(get_message)
+                return await step_context.next(None)
+        
+        #các thông tin về lễ hội
         #query loc
         data=[]
         count = 0
@@ -83,7 +163,7 @@ class LehoiDialog(CancelAndHelpDialog):
             }
 
             """
-        query=query.replace("fes",step_context.result)
+        query=query.replace("fes",ten_le_hoi)
         get_text += "Tổ chức tại "
         for row in g.query(query):
             a="%s" % row
@@ -92,7 +172,7 @@ class LehoiDialog(CancelAndHelpDialog):
                     break
             data.append(a)
         for x in data:
-            get_text += x.lower()
+            get_text += x
             get_text += " "
             count +=1
         get_text += "."
@@ -126,7 +206,7 @@ class LehoiDialog(CancelAndHelpDialog):
             }
 
             """
-        query=query.replace("fes",step_context.result)
+        query=query.replace("fes",ten_le_hoi)
         get_text += "Tổ chức vào "
         for row in g.query(query):
             a="%s" % row
@@ -169,7 +249,7 @@ class LehoiDialog(CancelAndHelpDialog):
             }
 
             """
-        query=query.replace("fes",step_context.result)
+        query=query.replace("fes",ten_le_hoi)
         get_text += "Còn có tên gọi khác là: "
         for row in g.query(query):
             a="%s" % row
@@ -178,9 +258,10 @@ class LehoiDialog(CancelAndHelpDialog):
                     break
             data.append(a)
         for x in data:
-            get_text += x.lower()
+            get_text += x
             get_text += ", "
             count +=1
+        get_text += "..."
         if count != 0:
             get_message = MessageFactory.text(
             get_text, get_text, InputHints.ignoring_input
@@ -208,7 +289,7 @@ class LehoiDialog(CancelAndHelpDialog):
             }
 
             """
-        query=query.replace("fes",step_context.result)
+        query=query.replace("fes",ten_le_hoi)
         get_text += "Lịch sử: "
         for row in g.query(query):
             a="%s" % row
@@ -245,7 +326,7 @@ class LehoiDialog(CancelAndHelpDialog):
             FILTER( regex(?name,"fes","i") ) 
             }
         """
-        query=query.replace("fes",step_context.result)
+        query=query.replace("fes",ten_le_hoi)
         get_text += "Trong lễ hội có các hoạt động như: "
         for row in g.query(query):
             a="%s" % row
@@ -282,7 +363,7 @@ class LehoiDialog(CancelAndHelpDialog):
             FILTER( regex(?name,"fes","i") ) 
             }
         """
-        query=query.replace("fes",step_context.result)
+        query=query.replace("fes",ten_le_hoi)
         get_text += " Mục đích của lễ hội là: "
         for row in g.query(query):
             a="%s" % row
@@ -322,7 +403,7 @@ class LehoiDialog(CancelAndHelpDialog):
             }
 
             """
-        query=query.replace("fes",step_context.result)
+        query=query.replace("fes",ten_le_hoi)
         get_text += "Lễ hội được "
         for row in g.query(query):
             get_text +="%s công nhận %s" % row
@@ -355,7 +436,7 @@ class LehoiDialog(CancelAndHelpDialog):
             }
 
             """
-        query=query.replace("fes",step_context.result)
+        query=query.replace("fes",ten_le_hoi)
         get_text += "Bạn có thể tham khảo chi tiết thông tin về " + step_context.result + " trong link bài viết sau: "
         for row in g.query(query):
             get_text +="%s" % row

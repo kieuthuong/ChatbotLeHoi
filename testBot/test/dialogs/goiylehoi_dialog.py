@@ -144,7 +144,7 @@ class GoiyLehoiDialog(CancelAndHelpDialog):
             get_text = ""
         
         if count == 0:
-            get_text = "Bạn có thể tham khảo:"
+            get_text = "Hiện tại chưa tìm được lễ hội bạn mong muốn ở"+goiylehoi_details.diaDiem+" Bạn có thể tham khảo 1 vài lễ hội ở các địa phương khác như:"
             get_message = MessageFactory.text(
             get_text, get_text, InputHints.ignoring_input
                     )
@@ -172,6 +172,8 @@ class GoiyLehoiDialog(CancelAndHelpDialog):
             for row in g.query(query):
                 fes="%s" % row
                 count+=1
+                if count==6:
+                    break
                 data=[]
                 query1 = """
                 PREFIX owl: <http://www.w3.org/2002/07/owl#>    
@@ -186,28 +188,20 @@ class GoiyLehoiDialog(CancelAndHelpDialog):
                 { 
                 ?x :tenLeHoi ?name.
                 ?x :coHoatDong ?act.
-                ?act rdfs:label ?l.
-                ?act :tenHoatDong ?nact.
                 ?x :toChucTai ?loc.
                 ?loc :tenDiaDiem ?nloc.
-                FILTER( regex(?name,"fes","i") ) 
-                FILTER( regex(?l,"hoatDong","i") ) 
+                FILTER( regex(?name,"fes","i") )  
                 }
 
                 """
                 query1=query1.replace("fes",fes)
-                query1=query1.replace("hoatDong",goiylehoi_details.hoatDong)
                 get_text = fes+" tổ chức tại: "
                 for row in g.query(query1):
                     a="%s" % row
-                    for x in data:
-                        if a==x:
-                            break
                     data.append(a)
                 for x in data:
                     get_text += x 
-                    get_text += ", "
-                get_text += "..."
+                    get_text += " "
                 get_message = MessageFactory.text(
                 get_text, get_text, InputHints.ignoring_input
                     )

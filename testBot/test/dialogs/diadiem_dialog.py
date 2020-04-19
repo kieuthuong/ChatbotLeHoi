@@ -23,10 +23,6 @@ class DiadiemDialog(CancelAndHelpDialog):
                 WaterfallDialog.__name__,
                 [
                     self.destination_step,
-                    # self.origin_step,
-                    # self.travel_date_step,
-                    # self.confirm_step,
-                    self.final_step,
                 ],
             )
         )
@@ -119,18 +115,3 @@ class DiadiemDialog(CancelAndHelpDialog):
             # return await step_context.next(next(dantoc_details.danToc))
         return await step_context.next(None)
 
-    async def final_step(self, step_context: WaterfallStepContext) -> DialogTurnResult:
-        """
-        Complete the interaction and end the dialog.
-        :param step_context:
-        :return DialogTurnResult:
-        """
-        if step_context.result:
-            booking_details = step_context.options
-
-            return await step_context.end_dialog(booking_details)
-        return await step_context.end_dialog()
-
-    def is_ambiguous(self, timex: str) -> bool:
-        timex_property = Timex(timex)
-        return "definite" not in timex_property.types

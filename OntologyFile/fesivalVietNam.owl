@@ -7576,9 +7576,7 @@
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L131"/>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/L%E1%BB%85_h%E1%BB%99i_mi%E1%BA%BFu_B%C3%A0_Ch%C3%BAa_X%E1%BB%A9</linkChiTiet>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/an-giang-le-hoi-ba-chua-xu-3260.html</linkChiTiet>
-        <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ Vía Bà</tenKhac>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ Vía Bà</tenLeHoi>
-        <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ vía Bà</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lúc 24 giờ đêm 23 rạng ngày 24</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">từ đêm 23/4 đến 27/4 âm lịch</thoiGianToChuc>
     </owl:NamedIndividual>
@@ -7623,7 +7621,7 @@
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L67"/>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/ha-noi-le-hoi-den-chua-xa-co-nhue-3292.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội đền Chúa xã Cổ Nhuế</tenLeHoi>
-        <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày mồng 8-Jan âm lịch hàng năm</thoiGianToChuc>
+        <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày mồng 8 tháng giêng âm lịch hàng năm</thoiGianToChuc>
     </owl:NamedIndividual>
     
 
@@ -11592,7 +11590,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L67">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#diaDiem"/>
-        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thôn Viên , xã Cổ Nhuế , huyện Từ Liêm</tenDiaDiem>
+        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thôn Viên, xã Cổ Nhuế, huyện Từ Liêm</tenDiaDiem>
     </owl:NamedIndividual>
     
 
@@ -12186,7 +12184,6 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#R5">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#tonGiao"/>
-        <tenTonGiao rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Phật Giáo</tenTonGiao>
         <tenTonGiao rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Phật giáo</tenTonGiao>
     </owl:NamedIndividual>
     
