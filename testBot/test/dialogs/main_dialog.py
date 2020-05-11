@@ -65,9 +65,9 @@ class MainDialog(ComponentDialog):
 
         reply.suggested_actions = SuggestedActions(
             actions=[
-                CardAction(title="1. Tìm hiểu lễ hội Việt Nam", type=ActionTypes.im_back, value="1"),
-                CardAction(title="2. Tìm kiếm các lễ hội", type=ActionTypes.im_back, value="2"),
-                CardAction(title="3. Gợi ý du lịch lễ hội", type=ActionTypes.im_back, value="3"),
+                CardAction(title="Tìm hiểu lễ hội Việt Nam", type=ActionTypes.im_back, value="Tìm hiểu lễ hội Việt Nam"),
+                CardAction(title="Tìm kiếm các lễ hội", type=ActionTypes.im_back, value="Tìm kiếm các lễ hội"),
+                CardAction(title="Gợi ý du lịch lễ hội", type=ActionTypes.im_back, value="Gợi ý du lịch lễ hội"),
             ]
         )
 
@@ -77,13 +77,16 @@ class MainDialog(ComponentDialog):
         )
 
     async def option_step(self, step_context: WaterfallStepContext) -> DialogTurnResult:
-        
-        if step_context.result=='1':
+        a1="tìm hiểu lễ hội việt nam"
+        a2="tìm kiếm các lễ hội"
+        a3="gợi ý du lịch lễ hội"
+            
+        if(step_context.result==a1):
             return await step_context.begin_dialog(
                 self._lehoi_dialog_id, LeHoiDetails()
             )
 
-        if step_context.result=='2':
+        if(step_context.result == a2):
             get_text = "Bạn có thể tìm kiếm các lễ hội theo địa điểm hoặc các thông tin khác liên quan đến lễ hội như dân tộc, mục đích, hoạt động trong lễ hội..."
             get_weather_message = MessageFactory.text(
                 get_text, get_text, InputHints.expecting_input
@@ -93,7 +96,7 @@ class MainDialog(ComponentDialog):
             TextPrompt.__name__, PromptOptions(prompt=get_weather_message)
         )
 
-        if step_context.result=='3':
+        if(step_context.result==a3):
             get_text = "Bạn thích tham gia những hoạt động gì khi du lịch lễ hội?"
             get_weather_message = MessageFactory.text(
                 get_text, get_text, InputHints.expecting_input
@@ -102,7 +105,6 @@ class MainDialog(ComponentDialog):
             return await step_context.prompt(
             TextPrompt.__name__, PromptOptions(prompt=get_weather_message)
         )
-
         else:
             didnt_understand_text = (
                 "Xin lỗi, bạn có thể lựa chọn một trong các chức năng sau (@_@;)"
@@ -139,13 +141,6 @@ class MainDialog(ComponentDialog):
             return await step_context.begin_dialog(self._goiylehoi2_dialog_id, luis_result)
 
         else:
-            didnt_understand_text = (
-                "Xin lỗi, tôi không hiểu ý bạn (T_T;)"
-            )
-            didnt_understand_message = MessageFactory.text(
-                didnt_understand_text, didnt_understand_text, InputHints.ignoring_input
-            )
-            await step_context.context.send_activity(didnt_understand_message)
             return await step_context.next(None)
         return await step_context.next(None)
 

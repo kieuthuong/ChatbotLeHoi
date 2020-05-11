@@ -10672,7 +10672,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L108">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#diaDiem"/>
-        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sầm Sơn</tenDiaDiem>
+        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sầm Sơn, Thanh Hóa</tenDiaDiem>
     </owl:NamedIndividual>
     
 
@@ -10681,7 +10681,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L109">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#diaDiem"/>
-        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thành phố Đà Lạt</tenDiaDiem>
+        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thành phố Đà Lạt, Lâm Đồng</tenDiaDiem>
     </owl:NamedIndividual>
     
 
@@ -10690,7 +10690,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L11">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#diaDiem"/>
-        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">xã Quang Thiện Kim Sơn</tenDiaDiem>
+        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">xã Quang Thiện, Kim Sơn, Ninh Bình</tenDiaDiem>
     </owl:NamedIndividual>
     
 
@@ -10699,7 +10699,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L110">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#diaDiem"/>
-        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Làng An Thái</tenDiaDiem>
+        <tenDiaDiem rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Làng An Thái, xã An Mỹ, huyện Bình Lục tỉnh Hà Nam</tenDiaDiem>
     </owl:NamedIndividual>
     
 

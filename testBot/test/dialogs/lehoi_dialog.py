@@ -83,6 +83,7 @@ class LehoiDialog(CancelAndHelpDialog):
             count_ten_le_hoi+=1
 
         #tìm lễ hội thông qua tên khác
+        test=0
         if count_ten_le_hoi==0:
             pass
             count_ten_khac=0
@@ -119,6 +120,7 @@ class LehoiDialog(CancelAndHelpDialog):
                 return await step_context.next(None)
 
             if count_ten_khac==1:
+                test=1
                 for x in cac_le_hoi:
                     get_text=step_context.result
                     ten_le_hoi=x
@@ -250,27 +252,28 @@ class LehoiDialog(CancelAndHelpDialog):
 
             """
         query=query.replace("fes",ten_le_hoi)
-        get_text += "Còn có tên gọi khác là: "
-        for row in g.query(query):
-            a="%s" % row
+        if test==0:
+            get_text += "Còn có tên gọi khác là: "
+            for row in g.query(query):
+                a="%s" % row
+                for x in data:
+                    if a==x:
+                        break
+                data.append(a)
             for x in data:
-                if a==x:
-                    break
-            data.append(a)
-        for x in data:
-            get_text += x
-            get_text += ", "
-            count +=1
-        get_text += "..."
-        if count != 0:
-            get_message = MessageFactory.text(
-            get_text, get_text, InputHints.ignoring_input
-                )
-            await step_context.context.send_activity(get_message)
-        data.clear()
-        get_text = ""
-        count=0
-        
+                get_text += x
+                get_text += ", "
+                count +=1
+            get_text += "..."
+            if count != 0:
+                get_message = MessageFactory.text(
+                get_text, get_text, InputHints.ignoring_input
+                    )
+                await step_context.context.send_activity(get_message)
+            data.clear()
+            get_text = ""
+            count=0
+            
         #query lich su
         query = """
             PREFIX owl: <http://www.w3.org/2002/07/owl#>    
@@ -308,6 +311,36 @@ class LehoiDialog(CancelAndHelpDialog):
         get_text = ""
         count=0
         
+         #query ton giao
+        query = """
+            PREFIX owl: <http://www.w3.org/2002/07/owl#>    
+            PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>   
+            PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>    
+            PREFIX xml: <http://www.w3.org/XML/1998/namespace>  
+            PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+            PREFIX :<http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#> 
+
+            SELECT DISTINCT ?data
+            WHERE 
+            { 
+            ?x :tenLeHoi ?name.
+            ?x :cuaTonGiao ?data.
+            FILTER( regex(?name,"fes","i") ) 
+            }
+
+            """
+        query=query.replace("fes",ten_le_hoi)
+        for row in g.query(query):
+            get_text +="%s là lễ hội của %s " % row
+        if count != 0:
+            get_message = MessageFactory.text(
+            get_text, get_text, InputHints.ignoring_input
+                )
+            await step_context.context.send_activity(get_message)
+        data.clear()
+        get_text = ""
+        count=0
+
         #query act
         query = """
          PREFIX owl: <http://www.w3.org/2002/07/owl#>    

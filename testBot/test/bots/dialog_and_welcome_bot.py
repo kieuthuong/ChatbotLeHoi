@@ -43,7 +43,7 @@ class DialogAndWelcomeBot(DialogBot):
                 )
                 await turn_context.send_activity(
                     MessageFactory.text(
-                        f"Chúng tôi sẽ giúp bạn tìm kiếm những lễ hội mà có lẽ bạn sẽ muốn ghé thăm khi du lịch lễ hội tại Việt Nam."
+                        f"Chúng tôi sẽ giúp bạn tìm hiểu về các lễ hội tại Việt Nam và hỗ trợ tìm kiếm lễ hội mà bạn mong muốn."
                     )
                 )
 

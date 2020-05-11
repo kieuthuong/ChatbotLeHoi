@@ -97,11 +97,6 @@ class GoiyLehoiDialog2(CancelAndHelpDialog):
         }
 
         """
-        get_text = "Bạn có thể tham khảo các lễ hội sau:"
-        get_message = MessageFactory.text(
-        get_text, get_text, InputHints.ignoring_input
-            )
-        await step_context.context.send_activity(get_message)
         query=query.replace("diaDiem",goiylehoi_details.diaDiem)
         query=query.replace("mucDich",goiylehoi_details.mucDich)
         for row in g.query(query):
@@ -128,9 +123,15 @@ class GoiyLehoiDialog2(CancelAndHelpDialog):
             }
 
             """
+            if count==1:    
+                get_text = "Bạn có thể tham khảo các lễ hội sau:"
+                get_message = MessageFactory.text(
+                get_text, get_text, InputHints.ignoring_input
+                    )
+                await step_context.context.send_activity(get_message)
             query1=query1.replace("fes",fes)
             query1=query1.replace("mucDich",goiylehoi_details.mucDich)
-            get_text = fes+" với mục đích: "
+            get_text = fes+" với mục đích "
             for row in g.query(query1):
                 a="%s" % row
                 for x in data:
