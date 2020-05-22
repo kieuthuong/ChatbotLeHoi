@@ -3138,7 +3138,6 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#AD201">
         <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#hoatDongTinNguong"/>
-        <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ tế</tenHoatDong>
         <tenHoatDong rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ tế</tenHoatDong>
         <rdfs:label>hoạt động tín ngưỡng</rdfs:label>
     </owl:NamedIndividual>
