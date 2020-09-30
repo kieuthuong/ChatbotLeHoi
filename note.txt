@@ -1,0 +1,23 @@
+
+1. Folder Chatbot : chứa con chatbot, 
+Cách chạy chatbot
+B1: Cài phần mềm test chatbot trên local "Bot Framework"
+B2: Mình dùng anaconda3 để chạy cũng như install thư viện python, bạn chạy lần đầu chắc sẽ hay có lỗi thiếu thư viện, cài đặt đủ tv mới chạy dc nhé.
+B3: Vào folder chatbot, chạy file app.py trong đó chạy thành công thì bạn sẽ có đường dẫn http://localhost:3978 xuất hiện
+B4: Mở "Bot Framework" ấn "Open Bot" nhập http://localhost:3978/api/messages vào ô Bot URL rồi ấn Connect thế là test được bot nhé.
+
+- Đây là link hướng dẫn dựng bot vs python cũng như cách chạy bot trên local
+https://docs.microsoft.com/en-us/azure/bot-service/python/bot-builder-python-quickstart?view=azure-bot-service-4.0
+- Ngoài ra tìm hiểu về LUIS cái đó giúp bot học các câu hỏi từ người dùng, hiện tại con bot này đang kết nối vs LUIS của mình.
+Làm các vd của họ sẽ hiểu cách config thôi, ví dụ ở đây nhé
+https://github.com/microsoft/BotBuilder-Samples/tree/main/samples/python
+- Ngoài sử dụng python thì còn mấy cái ngôn ngữ khác, hiện tại mình vẫn chưa deploy dc, cơ mà nếu dùng nodejs thì có vẻ dễ deploy hơn vì trên 
+azure có sẵn con bot vd chạy bằng nodejs với c#
+
+2. Folder scrapy : mấy file chạy để thu thập bài viết từ web lưu vào txt
+3. Folder FesivalData : Chưa mấy file học máy bằng crf để tách dc các thực thể từ văn bản đầu vào, kết quả dc file gán nhãn
+4. OntologyFile : Chứa Ontology lễ hội, ngoài ra mấy file excel dùng cho phần chuyển đổi từ dữ liệu dạng bảng sang sữ liệu trong Ontology.
+Nch 2,3,4 để ra dc cái fesivalVietNam.owl(trong folder chatbot ấn vào là thấy) dùng làm đầu vào cho chatbot
+5. testBot: bản test lúc mình code thôi. Nc
+
+Bạn cứ đọc bản đồ án tốt nghiệp file pdf của mình ý, mình có trình bày từng phần vs có ảnh nữa chắc sẽ dễ hiểu hơn

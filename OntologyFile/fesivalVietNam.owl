@@ -7763,6 +7763,7 @@
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ hội cầu ngư</tenKhac>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ hội Nghinh Ông Sông Đốc</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trong ba ngày : 14 , 15 , 16 tháng 2 âm lịch hàng năm</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7793,6 +7794,7 @@
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ Vía Bà</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lúc 24 giờ đêm 23 rạng ngày 24</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">từ đêm 23/4 đến 27/4 âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7808,6 +7810,7 @@
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L151"/>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/L%E1%BB%85_h%E1%BB%99i_Hoa_Ph%C6%B0%E1%BB%A3ng_%C4%91%E1%BB%8F</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội Hoa Phượng đỏ Hải Phòng</tenLeHoi>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7836,6 +7839,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/ha-noi-le-hoi-den-chua-xa-co-nhue-3292.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội đền Chúa xã Cổ Nhuế</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày mồng 8 tháng giêng âm lịch hàng năm</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7868,6 +7872,7 @@
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dịp kỷ niệm 50 năm Chiến thắng lịch sử Điện Biên Phủ và 250 năm Ngày nghĩa quân Hoàng Công Chất</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hai ngày 14 và 15-3</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">năm du lịch Điện Biên Phủ 2004</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7880,6 +7885,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_%C3%82m_D%C6%B0%C6%A1ng</linkChiTiet>
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">chợ Âm Phủ</tenKhac>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chợ Âm Dương</tenLeHoi>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7903,6 +7909,7 @@
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội làm chay</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thời điểm trung tuần tháng Giêng âm lịch</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">từ ngày 14 đến ngày 16 tháng Giêng ( âm lịch ) hằng năm</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7926,6 +7933,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/vinh-long-le-cung-bien-o-my-long-3333.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội cúng biển Mỹ Long</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày 11 tháng Năm âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7940,6 +7948,7 @@
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chợ Xuân</tenKhac>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">chợ Viềng</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">đêm mùng 7 ngày mùng 8</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7966,6 +7975,7 @@
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 hoặc 5 năm một lần vào khoảng tháng 11 Âm lịch</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hoặc tháng 2 , tháng 3 Âm lịch của năm sau</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">từ 2 đến 3 ngày</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -7991,6 +8001,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/quang-binh-le-hoi-dap-trong-cua-nguoi-ma-coong-3320.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội đập trống</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày 16 tháng Giêng Âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8011,6 +8022,7 @@
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Festival Hoa</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hai năm một lần</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tháng 12</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8030,6 +8042,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/L%E1%BB%85_h%E1%BB%99i_ch%C3%A9m_l%E1%BB%A3n</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội chém lợn</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày mùng 6 tháng Giêng</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8052,6 +8065,7 @@
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ hội cầu ngư</tenKhac>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội đầm Ô Loan</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mùng 7 tháng Giêng ( Âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8194,6 +8208,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/nghe-an-le-pa-sum-cua-nguoi-kho-mu-3312.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ Pa Sưm</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trước lúc tra hạt trên nương rẫy</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8236,6 +8251,7 @@
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hội Lim</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày 13 tháng giêng hàng năm</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">từ ngày 11 đến hết ngày 14 tháng giêng</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8404,6 +8420,7 @@
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">đổ giàn</tenKhac>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ Vu Lan</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày rằm tháng 7</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8462,6 +8479,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/Ch%C3%B9a_B%C3%A1i_%C4%90%C3%ADnh</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ hội chùa Bái Đính</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">từ chiều ngày mùng 1 tết , khai mạc ngày mùng 6 tết và kéo dài đến hết tháng 3</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8491,6 +8509,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/L%E1%BB%85_h%E1%BB%99i_B%C3%A1o_b%E1%BA%A3n_l%C3%A0ng_N%E1%BB%99n_Kh%C3%AA</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội báo bản Nộn Khê</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày 14 tháng giêng âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8516,6 +8535,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/bac-can-le-hoi-ruoc-dat-ruoc-nuoc-cua-nguoi-tay-o-bac-ha-3264.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội rước Đất , rước Nước</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày rằm tháng giêng hàng năm</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8540,6 +8560,7 @@
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">K &apos; Hô Igià Igià</tenKhac>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội Trùm Chăn</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trong 3 ngày</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8556,6 +8577,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/H%E1%BB%99i_l%C3%A0ng_Long_Kh%C3%A1m</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hội làng Long Khám</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mùng 7 đến mùng 15 tháng 2 ( âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8575,6 +8597,7 @@
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội Bảo , Lang , Biền</tenKhac>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội Nam Trì</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tháng 3 âm lịch hàng năm</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8597,6 +8620,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/H%E1%BB%99i_Gi%C3%B3ng</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội Gióng Sóc Sơn</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trong ba ngày</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8609,6 +8633,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/H%E1%BB%99i_Gi%C3%B3ng</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hội Gióng Phù Đổng</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hàng năm vào ba ngày mùng 7 , mùng 8 và mùng 9 tháng 4 Âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8630,6 +8655,7 @@
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội Vàm Láng</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">khoảng 9 giờ sáng ngày 10 tháng 3 âm lịch</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày 3-Oct âm lich</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8649,6 +8675,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/an-giang-le-hoi-dua-bo-dan-toc-kho-me-3261.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội đua bò</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">từ ngày 9 đến ngày 10 tháng 10 âm lịch hàng năm</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8670,6 +8697,7 @@
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày Valentine Đông Á</tenKhac>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thất Tịch</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày 7 tháng 7 Âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8695,6 +8723,7 @@
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội chùa Bà</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 ngày từ 13 đến 15 tháng 1 âm lịch</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Công nguyên 987 ) , năm</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8712,6 +8741,7 @@
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội Đền Đô</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trong 3 ngày ( từ 14 – 16 tháng 3 âm lịch</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trong các ngày 14 , 15 , 16 tháng 3 âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8732,6 +8762,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/thanh-hoa-le-hoi-lam-kinh-3328.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội Lam Kinh</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hàng năm , cứ đến ngày 21 , 22 tháng 8 âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8783,6 +8814,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/bac-lieu-le-hoi-dan-sinh-than-phuoc-duc-3267.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ sinh nhật ông Bổn</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày 29/3 âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8801,6 +8833,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/L%E1%BB%85_h%E1%BB%99i_T%E1%BB%8Bch_%C4%91i%E1%BB%81n_%C4%90%E1%BB%8Di_S%C6%A1n</linkChiTiet>
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hạ điền cầu bông</tenKhac>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội Tịch Điền Đọi Sơn</tenLeHoi>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8821,6 +8854,7 @@
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L93"/>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/vinh-long-le-hoi-lang-ong-o-tra-on-3334.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội Lăng Ông</tenLeHoi>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8837,6 +8871,7 @@
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ Xô Cộ</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">không còn tổ chức hằng năm nữa</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tháng giêng hay tháng 7 âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8861,6 +8896,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/L%E1%BB%85_h%E1%BB%99i_b%C3%A1nh_gi%E1%BA%A7y_b%C3%A1nh_ch%C6%B0ng</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội bánh giầy bánh chưng</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hàng năm từ ngày 13-Nov / 5 âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8883,6 +8919,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/phu-tho-am-vang-hoi-boi-trai-bach-hac-3316.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hội bơi trải Bạch Hạc</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">giỗ Tổ</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8904,6 +8941,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/lao-cai-le-hoi-roong-pooc-cua-nguoi-giay-3305.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hội Roóng Poọc</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày Thìn tháng Giêng âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8929,6 +8967,7 @@
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ tế cá &quot; Ông &quot;</tenKhac>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ hội nghinh Ông</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">một thời điểm khác nhau</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8952,6 +8991,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/dong-thap-le-hoi-go-thap-3284.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội Gò Tháp</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mỗi năm hai lần vào tháng Ba và tháng Mười một âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -8978,6 +9018,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/Ph%E1%BB%A7_D%E1%BA%A7y</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội Phủ Dầy</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày 3 tháng 3 âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9132,6 +9173,7 @@
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L175"/>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/gia-lai-le-den-on-dap-nghia-cua-nguoi-gia-rai-3287.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ đền ơn đáp nghĩa cha mẹ</tenLeHoi>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9205,6 +9247,7 @@
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mbang Katé</tenKhac>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội Katé</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 tháng 7 theo lịch của người Chăm ( khoảng 25/9 đến 25/10 dương lịch )</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9221,6 +9264,7 @@
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội vật trâu giằng búa</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sáng mồng hai tết Nguyên Đán hàng năm</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sáng ngày mồng ba tết</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9240,6 +9284,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/quang-nam-le-hoi-co-truyen-pho-co-hoi-an-3321.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Đêm hội bài chòi</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cứ vào tối các ngày thứ bảy</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9256,6 +9301,7 @@
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vía Đức Phật Mẫu</tenKhac>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hội Yến Diêu Trì Cung</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ngày rằm tháng tám âm lịch hằng năm</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9283,6 +9329,7 @@
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">oai lơ cau chăhơzan</tenKhac>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ hội cầu mưa</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">đầu tháng hai âm lịch hàng năm ( sau Tết Nguyên đán )</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9305,6 +9352,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/L%E1%BB%85_h%E1%BB%99i_B%C3%ACnh_%C4%90%C3%A0</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội Bình Đà</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">từ 24 tháng 2 đến 6 tháng 3 âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9328,6 +9376,7 @@
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dịp đầu Xuân , kéo dài 4 ngày</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">rằm tháng Bảy</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">từ mồng 4 đến mồng 8 tháng Giêng Âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9355,6 +9404,7 @@
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ hội mùa xuân Hồ Ba Bể</tenKhac>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội Hồ Ba Bể</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày mùng 9 và 10 tháng giêng âm lịch hàng năm</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9368,6 +9418,7 @@
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L141"/>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/H%E1%BB%99i_ch%E1%BB%8Di_tr%C3%A2u_Ph%C3%B9_Ninh</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hội chọi trâu Phù Ninh</tenLeHoi>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9391,6 +9442,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/ha-tay-le-hoi-chua-thay-3297.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hội chùa Thầy</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">từ ngày mùng 5 đến ngày mùng 7 tháng ba Âm lịch hàng năm</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9408,6 +9460,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/L%E1%BB%85_h%E1%BB%99i_k%C3%A9o_ch%C3%A0y_(ng%C6%B0%E1%BB%9Di_P%C3%A0_Th%E1%BA%BBn)</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội kéo chày</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày 16 tháng 10 âm lịch hàng năm</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9434,6 +9487,7 @@
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ rước nước trên sông Hồng</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hằng năm</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">từ ngày 10 đến 2-Dec âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9453,6 +9507,7 @@
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tết Nguyên Đán</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">khoảng 7 đến 8 ngày cuối năm cũ và 7 ngày đầu năm mới ( 23 tháng Chạp đến hết ngày 7 tháng Giêng ) . Hàng năm</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày mồng 1 ( hay mùng 1 [ 3 ] ) tháng Giêng âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9466,6 +9521,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/Festival_D%E1%BB%ABa</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Festival Dừa Bến Tre</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">qua 4 kỳ vào các năm ( Quang Đại ) 2009 , 2010 , 2012 và 2015</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9484,6 +9540,7 @@
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tết của các thầy thuốc</tenKhac>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tết Song thập</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mùng 10 tháng 10 hoặc 15 tháng 10 Âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9504,6 +9561,7 @@
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tết cơm mới</tenKhac>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ mừng lúa mới</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày 10 tháng 10 Âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9523,6 +9581,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/hoi-lang-le-mat-3294.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hội làng Lệ Mật</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày 23/3 âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9543,6 +9602,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/ha-nam-hoi-vat-lieu-doi-3288.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hội vật Liễu Đôi</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mùng 5 tháng Giêng cho đến hết ngày mồng 10 tháng Giêng</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9573,6 +9633,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/H%E1%BB%99i_ph%E1%BA%BFt_Hi%E1%BB%81n_Quan</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hội Phết Hiền Quan</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">từ ngày 12 đến 13 tháng Giêng âm lịch hàng năm</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9588,6 +9649,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/quang-nam-le-sieu-bat-va-soi-moi-3323.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ Siêu Bạt và Soi Môi</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dịp rằm tháng bảy</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9613,6 +9675,7 @@
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thế lính</tenKhac>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ khao lề thế lính</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">các ngày 18 , 19 , 20 tháng 3 âm lịch hàng năm</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9635,6 +9698,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/hung-yen-le-hoi-chu-dong-tu-3302.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội Chử Đồng Tử</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">từ 10 đến 12 tháng 2 âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9653,6 +9717,7 @@
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ tế cá Voi</tenKhac>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ hội Cá Ông</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trung tuần tháng 3 âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9690,6 +9755,7 @@
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội đền Hùng</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mồng 10 tháng 3 âm lịch</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày 10 tháng 3 âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9705,6 +9771,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/L%E1%BB%85_h%E1%BB%99i_ph%E1%BB%91_hoa_H%C3%A0_N%E1%BB%99i</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội phố hoa Hà Nội</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dịp Tết Dương lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9722,6 +9789,7 @@
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">một lần vào những năm có những sự kiện quan trọng</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sau Tết âm lịch</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">từ 5-Mar</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9748,6 +9816,7 @@
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">kéo dài , nhưng không bao giờ diễn ra khi hoa ban đã tàn , măng đắng đã mọc cao</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mỗi bản có bao nhiêu nhà là có bấy nhiêu ngày hội</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sau dịp Tết Nguyên Đán</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9773,6 +9842,7 @@
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội đình Thần Thắng Tam</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hàng năm</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trong 4 ngày từ 17 đến 20 tháng 2 âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9794,6 +9864,7 @@
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ Chôl Chnăm Thmay</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kéo dài trong 3 ngày , năm nhuận kéo dài 4 ngày</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">khoảng đầu tháng Chét của lịch Phật giáo Khmer ( khoảng giữa tháng 4 dương lịch )</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9811,6 +9882,7 @@
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ vía Quan Thánh Đế</tenKhac>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ vía Ông</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày 24 tháng 6 âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9831,6 +9903,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/L%E1%BB%85_h%E1%BB%99i_%C4%91%E1%BB%81n_Nguy%E1%BB%85n_C%C3%B4ng_Tr%E1%BB%A9</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội đền Nguyễn Công Trứ</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">từ ngày 14 tháng 11 đến 16 tháng 11 âm lịch hàng năm</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9861,6 +9934,7 @@
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội Hoa Lư</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mùa xuân</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày sinh của Đinh Bộ Lĩnh ( 15/2 âm lịch ) , hoặc đầu tháng 3 bắt đầu từ 3-Jun đến 3-Oct âm lịch ( Tương truyền , ngày 3-Oct là ngày Đinh Bộ Lĩnh lên ngôi Hoàng đế , ngày 3-Aug</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9890,6 +9964,7 @@
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ Kỳ Yên</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lúc 13 giờ ngày 5-Dec âm lịch - ngày cuối cùng của lễ hội</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">từ 7 giờ sáng ngày mùng 5-Oct âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9908,6 +9983,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/dong-thap-hoi-dinh-dinh-yen-3285.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hội đình Định Yên</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">các ngày 16,17 tháng 4 và 15 , 16 tháng 11 âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9928,6 +10004,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/ha-noi-le-hoi-co-loa-3293.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hội Cổ Loa</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">từ ngày 6 đến 16 tháng giêng âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9946,6 +10023,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/bac-can-le-hoi-long-tong-o-huyen-na-ri-3265.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội Lồng Tồng</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày mồng 8 tết âm lịch hàng năm</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9963,6 +10041,7 @@
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tết trông Trăng</tenKhac>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tết Trung Thu</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày Rằm tháng 8 hằng năm</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -9999,6 +10078,7 @@
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội Quán Thế Âm</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hàng năm , cứ đến ngày 19/2 Âm lịch</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">trong 3 ngày</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -10020,6 +10100,7 @@
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hội Gò Đống Đa</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hàng năm</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày mồng 5 Tết</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -10040,6 +10121,7 @@
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội Minh thề</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hàng nằm</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày 14 tháng Giêng</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -10054,6 +10136,7 @@
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L70"/>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/ninh-binh-le-hoi-truong-yen-3313.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hội Trường Yên</tenLeHoi>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -10078,6 +10161,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/tay-ninh-hoi-nui-ba-den-3330.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hội Núi Bà Đen</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">từ chiều 30 tết nguyên Đán đến suốt tháng Giêng , tháng Hai âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -10101,6 +10185,7 @@
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ hội Chùa Hương</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trong 3 tháng , bắt đầu từ mùng 6 tháng 1 đến tháng 3 âm lịch</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">từ rằm tháng giêng đến 18 tháng hai âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -10116,6 +10201,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/phu-yen-le-hoi-dua-ngua-an-xuan-3318.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội Đua ngựa An Xuân</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày mùng Sáu tháng Giêng Âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -10130,6 +10216,7 @@
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội chùa Côn Sơn</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">từ ngày 10 đến hết tháng giêng</thoiGianToChuc>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">từ ngày 15 tháng giêng tới hết ngày 22 tháng giêng</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -10163,6 +10250,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/H%C3%A0nh_cung_V%C5%A9_L%C3%A2m</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội đền Thái Vi</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">từ ngày 14 đến ngày 17 tháng 3 âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -10181,6 +10269,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/nghe-an-hoi-den-cong-3309.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ hội Ðền Công</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15 tháng 2 âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -10197,6 +10286,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/ninh-thuan-le-hoi-cung-than-linh-3314.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lễ Puis , Payak</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">định kỳ 1 năm , 3 năm hoặc 7 năm một lần</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -10211,6 +10301,7 @@
         <toChucTai rdf:resource="http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#L10"/>
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.maxreading.com/sach-hay/le-hoi-truyen-thong/da-nang-dem-hoi-co-tu-3278.html</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">đêm hội Cơtu năm 2003</tenLeHoi>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -10231,6 +10322,7 @@
         <tenKhac rdf:datatype="http://www.w3.org/2001/XMLSchema#string">đấu ngưu</tenKhac>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lễ hội chọi trâu Đồ Sơn</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ngày 9 tháng 8 Âm lịch</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -10248,6 +10340,7 @@
         <linkChiTiet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://vi.wikipedia.org/wiki/Festival_Di%E1%BB%81u_Qu%E1%BB%91c_t%E1%BA%BF_V%C5%A9ng_T%C3%A0u</linkChiTiet>
         <tenLeHoi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Festival Diều Quốc tế Vũng Tàu</tenLeHoi>
         <thoiGianToChuc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hàng năm</thoiGianToChuc>
+        <rdfs:label>lễ hội</rdfs:label>
     </owl:NamedIndividual>
     
 

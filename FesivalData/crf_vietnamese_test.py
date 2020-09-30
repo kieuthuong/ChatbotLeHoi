@@ -14,7 +14,7 @@ from underthesea import pos_tag
 import os
 import nltk
 from nltk import tokenize
-name = "Đồng Tháp - Lễ hội Gò Tháp.txt"
+name = "test.txt"
 path = "../Scrapy/lehoi/76lehoi_maxreading/"
 path = os.path.join(path, name)
 

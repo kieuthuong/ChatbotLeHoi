@@ -56,7 +56,7 @@ class LehoiDialog(CancelAndHelpDialog):
         # print(ten_le_hoi)
         import rdfextras
         rdfextras.registerplugins()
-        filename = "../../OntologyFile/fesivalVietNam.owl"
+        filename = "fesivalVietNam.owl"
         import rdflib
         g = rdflib.Graph()
         result = g.parse(filename, format='xml')
@@ -320,7 +320,7 @@ class LehoiDialog(CancelAndHelpDialog):
             PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
             PREFIX :<http://www.semanticweb.org/admin/ontologies/2020/2/untitled-ontology-5#> 
 
-            SELECT DISTINCT ?data
+            SELECT DISTINCT ?data ?t
             WHERE 
             { 
             ?x :tenLeHoi ?name.
